@@ -196,6 +196,10 @@ def test_rpc_response_error_requires_kind() -> None:
 # fail to connect for reasons that have nothing to do with this suite.
 
 
+@pytest.mark.skipif(
+    sys.platform != "darwin",
+    reason="the hostile probe uses macOS-only /bin/cat, libc.dylib, and sandbox-exec semantics",
+)
 def test_run_probe_vectors_unsandboxed_baseline(tmp_path: Path) -> None:
     arena_root = tmp_path / "arena"
     duel_scratch = arena_root / "scratch" / "duel"
@@ -397,6 +401,7 @@ def _require_sandbox_exec_or_fail_loudly() -> str:
     return exe
 
 
+@pytest.mark.skipif(sys.platform != "darwin", reason="sandbox-exec is macOS-only")
 def test_probe_sandbox_blocks_every_vector() -> None:
     """The real deal: spawn `python -m kit.isolation.child_driver --probe`
     under a real, freshly-generated sandbox-exec profile and confirm every
@@ -424,6 +429,7 @@ def test_probe_sandbox_blocks_every_vector() -> None:
         assert rec["kind"] in {k.value for k in rpc.IntegrityKind}
 
 
+@pytest.mark.skipif(sys.platform != "darwin", reason="sandbox-exec is macOS-only")
 def test_run_sandboxed_timeout_is_classified(tmp_path: Path) -> None:
     _require_sandbox_exec_or_fail_loudly()
 
@@ -449,6 +455,7 @@ def test_run_sandboxed_timeout_is_classified(tmp_path: Path) -> None:
     assert record["kind"] == "timeout"
 
 
+@pytest.mark.skipif(sys.platform != "darwin", reason="sandbox-exec is macOS-only")
 def test_run_sandboxed_writes_inside_scratch_succeed(tmp_path: Path) -> None:
     _require_sandbox_exec_or_fail_loudly()
 

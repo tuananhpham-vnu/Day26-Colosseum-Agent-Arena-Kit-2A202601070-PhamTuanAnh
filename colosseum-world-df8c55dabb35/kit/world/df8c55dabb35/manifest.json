@@ -1,0 +1,63 @@
+{
+  "build_seconds": 5.37,
+  "built_at": "2026-08-27T12:08:07Z",
+  "corpus_sha": "3ecaab0c3acb78a764f48d0b89b92e7112cf960f44a43c8ae54771f253e42df5",
+  "counts": {
+    "Claim": 2651,
+    "Concept": 2220,
+    "Deck": 90,
+    "Frame": 3789,
+    "Glossary": 16,
+    "Learner": 8,
+    "Note": 150,
+    "Section": 899,
+    "Source": 2537,
+    "Talk": 15,
+    "__total__": 12375
+  },
+  "n_candidate_paths": 142,
+  "n_indexed_paths": 142,
+  "n_term_links_dropped": 0,
+  "reconcile": {
+    "n_dangling_links_dropped": 0,
+    "n_pages": 12375,
+    "n_validation_errors": 0,
+    "validation_errors_sample": []
+  },
+  "seeds_sha": "f71d3557b09793c552f27b4aafaddbf28c6651f343fb062bb33fd94c29dfe55f",
+  "slice": "main",
+  "source_stats": {
+    "claims_remapped_to_real_frame": 2568,
+    "claims_unmapped": 53,
+    "n_claim_pages": 2621,
+    "n_source_pages": 2537,
+    "raw_claim_stats": {
+      "by_macro": {
+        "bottomvinbox": 302,
+        "statcard": 136,
+        "takeaway": 380,
+        "vinbox": 1803
+      },
+      "by_tier": {
+        "A": 516,
+        "B": 2105
+      },
+      "skipped": 0,
+      "total": 2621
+    }
+  },
+  "stages": {
+    "daykey": "ok",
+    "daykey_overlay": "ok: 87 DayKey(s)",
+    "denylist": "ok",
+    "drift": "ok",
+    "frames": "ok",
+    "glossary": "ok",
+    "kit_world": "ok",
+    "links": "ok",
+    "seeds": "ok: build_all_pages() -> 203 page(s) (15 Talk, 150 Note, 8 Learner, 30 Claim)",
+    "snapshot": "ok",
+    "sources": "ok"
+  },
+  "world_id": "df8c55dabb35"
+}

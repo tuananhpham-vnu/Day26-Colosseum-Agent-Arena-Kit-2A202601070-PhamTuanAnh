@@ -1,0 +1,7741 @@
+{
+  "\"74% find out from the business\"": [
+    "Concept:74-find-out-from-the-business/w/007"
+  ],
+  "\"a2a loves mcp\"": [
+    "Concept:a2a-loves-mcp/w/044"
+  ],
+  "\"aha!\" / self-reflection": [
+    "Concept:aha-self-reflection/w/045"
+  ],
+  "\"don't add complexity unless needed\"": [
+    "Concept:don-t-add-complexity-unless-needed/w/016"
+  ],
+  "\"learns less, forgets less\"": [
+    "Concept:learns-less-forgets-less/w/094"
+  ],
+  "\"rl squeezes, sft expands\"": [
+    "Concept:rl-squeezes-sft-expands/w/036"
+  ],
+  "\"unknown\"": [
+    "Concept:escape-hatch/w/060"
+  ],
+  "$/1m-token": [
+    "Concept:1m-token/w/007"
+  ],
+  "$/gb-vram": [
+    "Concept:gb-vram/w/009"
+  ],
+  "$/gpu-hr": [
+    "Concept:gpu-hr/w/006"
+  ],
+  "$/job": [
+    "Concept:job/w/008"
+  ],
+  "$/mw": [
+    "Concept:mw/w/063"
+  ],
+  "'sft memorizes, rl generalizes'": [
+    "Concept:sft-memorizes-rl-generalizes/w/104"
+  ],
+  "(y_w, y_l) notation": [
+    "Concept:y-w-y-l-notation/w/007"
+  ],
+  "--attention-backend": [
+    "Concept:attention-backend/w/171"
+  ],
+  "--cache-threshold": [
+    "Concept:cache-threshold/w/443"
+  ],
+  "--chunked-prefill-size": [
+    "Concept:chunked-prefill-size/w/181"
+  ],
+  "--deepep-mode": [
+    "Concept:deepep-mode/w/438"
+  ],
+  "--dp-size": [
+    "Concept:dp-size/w/442"
+  ],
+  "--enable-dp-attention": [
+    "Concept:enable-dp-attention/w/247"
+  ],
+  "--enable-dynamic-chunking": [
+    "Concept:enable-dynamic-chunking/w/240"
+  ],
+  "--enable-eplb": [
+    "Concept:enable-eplb/w/437"
+  ],
+  "--enable-lora": [
+    "Concept:enable-lora/w/433"
+  ],
+  "--enable-metrics": [
+    "Concept:enable-metrics/w/186"
+  ],
+  "--enable-prefix-caching": [
+    "Concept:enable-prefix-caching/w/420"
+  ],
+  "--enable-two-batch-overlap": [
+    "Concept:enable-two-batch-overlap/w/436"
+  ],
+  "--gpu-memory-utilization": [
+    "Concept:gpu-memory-utilization/w/159"
+  ],
+  "--grammar-backend": [
+    "Concept:grammar-backend/w/423"
+  ],
+  "--guided-decoding-backend": [
+    "Concept:guided-decoding-backend/w/422"
+  ],
+  "--log-requests": [
+    "Concept:log-requests/w/187"
+  ],
+  "--max-model-len": [
+    "Concept:max-model-len/w/160"
+  ],
+  "--max-num-seqs": [
+    "Concept:max-num-seqs/w/421"
+  ],
+  "--max-running-requests": [
+    "Concept:max-running-requests/w/182"
+  ],
+  "--mem-fraction-static": [
+    "Concept:mem-fraction-static/w/180"
+  ],
+  "--mm-encoder-tp-mode": [
+    "Concept:mm-encoder-tp-mode/w/451"
+  ],
+  "--moe-a2a-backend": [
+    "Concept:moe-a2a-backend/w/434"
+  ],
+  "--moe-runner-backend": [
+    "Concept:moe-runner-backend/w/435"
+  ],
+  "--nnodes": [
+    "Concept:nnodes/w/245"
+  ],
+  "--pipeline-parallel-size": [
+    "Concept:pipeline-parallel-size/w/444"
+  ],
+  "--pp-size": [
+    "Concept:pp-size/w/244"
+  ],
+  "--reasoning-parser": [
+    "Concept:reasoning-parser/w/179"
+  ],
+  "--router-policy cache_aware": [
+    "Concept:router-policy-cache-aware/w/248"
+  ],
+  "--schedule-conservativeness": [
+    "Concept:schedule-conservativeness/w/183"
+  ],
+  "--speculative-algorithm eagle3": [
+    "Concept:speculative-algorithm-eagle3/w/088"
+  ],
+  "--speculative-disable-by-batch-size": [
+    "Concept:speculative-disable-by-batch-size/w/089"
+  ],
+  "--tensor-parallel-size": [
+    "Concept:tensor-parallel-size/w/158",
+    "Concept:tensor-parallel-size/w/246"
+  ],
+  "--tool-call-parser": [
+    "Concept:tool-call-parser/w/178"
+  ],
+  ".expand": [
+    "Concept:dynamic-mapping/w/050"
+  ],
+  "1 bit per episode": [
+    "Concept:1-bit-per-episode/w/093"
+  ],
+  "100đ": [
+    "Concept:rubric/w/066"
+  ],
+  "10× learning-rate rule": [
+    "Concept:10-learning-rate-rule/w/090"
+  ],
+  "12-factor vi": [
+    "Concept:stateless-process/w/021"
+  ],
+  "16 bytes/param rule": [
+    "Concept:16-bytes-param-rule/w/061"
+  ],
+  "16 tokens/page": [
+    "Concept:block-size/w/419"
+  ],
+  "16-bit floating point (ieee 754 half-precision)": [
+    "Concept:fp16/w/029"
+  ],
+  "2 dof": [
+    "Concept:hyperparameter-invariance/w/086"
+  ],
+  "2 encode 1 prefill": [
+    "Concept:epd-2e1p/w/450"
+  ],
+  "2/3 flops": [
+    "Concept:2-3-flops/w/092"
+  ],
+  "2k ultrafeedback pairs": [
+    "Concept:2k-ultrafeedback-pairs/w/072"
+  ],
+  "3 axes": [
+    "Concept:reproducibility/w/204"
+  ],
+  "3-cache stack": [
+    "Concept:3-cache-stack/w/270"
+  ],
+  "3-legged oauth": [
+    "Concept:3-legged-oauth/w/140"
+  ],
+  "32-bit floating point": [
+    "Concept:fp32/w/028"
+  ],
+  "4-bit floating point": [
+    "Concept:fp4/w/373"
+  ],
+  "4-bit integer": [
+    "Concept:int4/w/034"
+  ],
+  "4-bit normalfloat": [
+    "Concept:nf4/w/101"
+  ],
+  "4th signal": [
+    "Concept:continuous-profiling/w/170"
+  ],
+  "4× / 15×": [
+    "Concept:token-cost/w/067"
+  ],
+  "5 câu hỏi tại sao": [
+    "Concept:5-whys/w/122"
+  ],
+  "5 pillars": [
+    "Concept:5-pillars/w/001"
+  ],
+  "5 pillars of data observability": [
+    "Concept:5-pillars-of-data-observability/w/009"
+  ],
+  "5 whys": [
+    "Concept:5-whys/w/122"
+  ],
+  "5 workflow patterns": [
+    "Concept:5-workflow-patterns/w/014"
+  ],
+  "50%": [
+    "Concept:time-horizon/w/074"
+  ],
+  "6 dimensions": [
+    "Concept:6-dimensions/w/002"
+  ],
+  "6 dq dimensions": [
+    "Concept:6-dq-dimensions/w/017"
+  ],
+  "7.8% finding": [
+    "Concept:schema-drift/w/074"
+  ],
+  "8-bit floating point": [
+    "Concept:fp8/w/031",
+    "Concept:fp8/w/374"
+  ],
+  "8-bit floating point key-value cache": [
+    "Concept:fp8-kv-cache/w/099"
+  ],
+  "8-bit integer": [
+    "Concept:int8/w/033"
+  ],
+  "95% confidence interval": [
+    "Concept:95-confidence-interval/w/081"
+  ],
+  "<think> tags / reasoning_content": [
+    "Concept:think-tags-reasoning-content/w/425"
+  ],
+  "\\*_violation counters": [
+    "Concept:violation-counters/w/153"
+  ],
+  "`--schedule-policy` (sglang) & lpm": [
+    "Concept:schedule-policy-sglang-lpm/w/206"
+  ],
+  "`--scheduling-policy`": [
+    "Concept:scheduling-policy/w/205"
+  ],
+  "`.dockerignore`": [
+    "Concept:dockerignore/w/007"
+  ],
+  "`analysisrun`": [
+    "Concept:analysisrun/w/132"
+  ],
+  "`assert_test()` vs `evaluate()`": [
+    "Concept:assert-test-vs-evaluate/w/129"
+  ],
+  "`assistant_only_loss`": [
+    "Concept:assistant-only-loss/w/114"
+  ],
+  "`canusetool`": [
+    "Concept:canusetool/w/061"
+  ],
+  "`chunked_nll`": [
+    "Concept:chunked-nll/w/150"
+  ],
+  "`completion_only_loss`": [
+    "Concept:completion-only-loss/w/113"
+  ],
+  "`ee/` directory": [
+    "Concept:ee-directory/w/150"
+  ],
+  "`gen_ai.*`": [
+    "Concept:otel-genai-semantic-conventions/w/027"
+  ],
+  "`gen_ai.*` attributes": [
+    "Concept:gen-ai-attributes/w/064"
+  ],
+  "`interrupt()`": [
+    "Concept:interrupt/w/059"
+  ],
+  "`interrupt()` / `command(resume=...)`": [
+    "Concept:interrupt-command-resume/w/058"
+  ],
+  "`interrupt_before` / `interrupt_after`": [
+    "Concept:static-interrupt/w/060"
+  ],
+  "`lora_alpha`": [
+    "Concept:lora-alpha/w/082"
+  ],
+  "`max_iterations`": [
+    "Concept:max-iterations/w/037"
+  ],
+  "`max_length`": [
+    "Concept:max-length/w/116"
+  ],
+  "`mcp-method` / `mcp-name`": [
+    "Concept:mcp-method-mcp-name/w/120"
+  ],
+  "`needsapproval`": [
+    "Concept:needsapproval/w/062"
+  ],
+  "`packing_strategy`": [
+    "Concept:packing-strategy/w/118"
+  ],
+  "`padding_free`": [
+    "Concept:padding-free/w/119"
+  ],
+  "`ref_model=none`": [
+    "Concept:ref-model-none/w/053"
+  ],
+  "`target_modules`": [
+    "Concept:target-modules/w/088"
+  ],
+  "`thread_id`": [
+    "Concept:thread-id/w/024"
+  ],
+  "`time_to_revoke`": [
+    "Concept:time-to-revoke/w/070"
+  ],
+  "`uv`": [
+    "Concept:uv/w/004"
+  ],
+  "`α/r` scaling": [
+    "Concept:r-scaling/w/083"
+  ],
+  "a/b": [
+    "Concept:a-b-routing/w/032"
+  ],
+  "a/b routing": [
+    "Concept:a-b-routing/w/032"
+  ],
+  "a/b testing": [
+    "Concept:a-b-testing/w/124"
+  ],
+  "a2a": [
+    "Concept:a2a/w/221",
+    "Concept:a2a/w/224",
+    "Concept:a2a/w/225"
+  ],
+  "a2a communication": [
+    "Concept:all-to-all/w/447"
+  ],
+  "abac": [
+    "Concept:abac/w/001"
+  ],
+  "acceptance length (τ)": [
+    "Concept:al/w/119"
+  ],
+  "acl metadata": [
+    "Concept:acl-metadata/w/002"
+  ],
+  "acl staleness": [
+    "Concept:acl-staleness/w/003"
+  ],
+  "acp": [
+    "Concept:acp/w/049"
+  ],
+  "action": [
+    "Concept:action/w/019",
+    "Concept:action/w/026"
+  ],
+  "action gating": [
+    "Concept:action-gating/w/004"
+  ],
+  "action vs trace success": [
+    "Concept:action-vs-trace-success/w/118"
+  ],
+  "activated parameters": [
+    "Concept:activated-parameters/w/045"
+  ],
+  "activation offloading": [
+    "Concept:activation-offloading/w/065"
+  ],
+  "activation steering / caa": [
+    "Concept:activation-steering-caa/w/156"
+  ],
+  "activation-aware weight quantization": [
+    "Concept:awq/w/037"
+  ],
+  "activations": [
+    "Concept:activations/w/062"
+  ],
+  "active cpu pricing": [
+    "Concept:active-cpu-pricing/w/115"
+  ],
+  "active vs total parameters": [
+    "Concept:active-vs-total-parameters/w/155"
+  ],
+  "adamw": [
+    "Concept:adamw/w/058"
+  ],
+  "adapter hot-swap": [
+    "Concept:adapter-hot-swap/w/162"
+  ],
+  "adapter layers": [
+    "Concept:adapter-layers/w/074"
+  ],
+  "adaptive sampling": [
+    "Concept:adaptive-sampling/w/072"
+  ],
+  "additive peft": [
+    "Concept:additive-peft/w/071"
+  ],
+  "ade-bench": [
+    "Concept:ade-bench/w/001"
+  ],
+  "admission control": [
+    "Concept:admission-control/w/135"
+  ],
+  "admission control / circuit breaker": [
+    "Concept:admission-control-circuit-breaker/w/045"
+  ],
+  "advanced vector extensions 2 / advanced vector extensions 512": [
+    "Concept:avx2-avx-512/w/387"
+  ],
+  "advantage a_i": [
+    "Concept:advantage-a-i/w/041"
+  ],
+  "adversarial training / runtime monitors / machine unlearning": [
+    "Concept:adversarial-training-runtime-monitors-machine-unlearning/w/043"
+  ],
+  "agent": [
+    "Concept:agent/w/003",
+    "Concept:anti-pattern/w/013"
+  ],
+  "agent = model + tools + scaffold": [
+    "Concept:agent-model-tools-scaffold/w/041"
+  ],
+  "agent benchmarks": [
+    "Concept:agent-benchmarks/w/218"
+  ],
+  "agent card": [
+    "Concept:agent-card/w/045"
+  ],
+  "agent communication protocol": [
+    "Concept:acp/w/049"
+  ],
+  "agent context": [
+    "Concept:3-legged-oauth/w/140"
+  ],
+  "agent data flywheel": [
+    "Concept:agent-data-flywheel/w/002"
+  ],
+  "agent drift / agent stability index": [
+    "Concept:agent-drift-agent-stability-index/w/139"
+  ],
+  "agent frameworks 2026": [
+    "Concept:agent-frameworks-2026/w/227"
+  ],
+  "agent identity": [
+    "Concept:agent-identity/w/138"
+  ],
+  "agent identity / nhi": [
+    "Concept:agent-identity-nhi/w/225"
+  ],
+  "agent loop": [
+    "Concept:agent-loop/w/034"
+  ],
+  "agent runtime": [
+    "Concept:agent-runtime/w/143"
+  ],
+  "agent shape": [
+    "Concept:agent-shape/w/089"
+  ],
+  "agent washing": [
+    "Concept:agent-washing/w/195"
+  ],
+  "agent-as-a-judge": [
+    "Concept:agent-as-a-judge/w/048"
+  ],
+  "agent-to-agent": [
+    "Concept:a2a/w/224"
+  ],
+  "agent2agent": [
+    "Concept:a2a/w/225"
+  ],
+  "agentdojo": [
+    "Concept:agentdojo/w/053"
+  ],
+  "agentevals": [
+    "Concept:trajectory-match-evaluator/w/050"
+  ],
+  "agentic data engineering": [
+    "Concept:agentic-data-engineering/w/003",
+    "Concept:agentic-data-engineering/w/004"
+  ],
+  "agentic data observability": [
+    "Concept:agentic-data-observability/w/096"
+  ],
+  "agentic data synthesis": [
+    "Concept:agentic-data-synthesis/w/030"
+  ],
+  "agentic dq": [
+    "Concept:agentic-dq/w/104"
+  ],
+  "agentic fit": [
+    "Concept:agentic-fit/w/008"
+  ],
+  "agentic misalignment": [
+    "Concept:agentic-misalignment/w/018"
+  ],
+  "agentic multi-turn rl": [
+    "Concept:agentic-multi-turn-rl/w/153"
+  ],
+  "agentic rl": [
+    "Concept:agentic-rl/w/077"
+  ],
+  "agentic run noise": [
+    "Concept:agentic-run-noise/w/093"
+  ],
+  "agentic sre": [
+    "Concept:agentic-sre/w/189"
+  ],
+  "agentops": [
+    "Concept:agentops/w/215"
+  ],
+  "agents schema": [
+    "Concept:agents-schema/w/004"
+  ],
+  "agents-as-tools": [
+    "Concept:agents-as-tools/w/018"
+  ],
+  "agreement rate": [
+    "Concept:agreement-rate/w/062"
+  ],
+  "ai alignment": [
+    "Concept:ai-alignment/w/003"
+  ],
+  "ai bill of materials": [
+    "Concept:aibom/w/005"
+  ],
+  "ai incident database": [
+    "Concept:ai-incident-database/w/096"
+  ],
+  "ai platform team": [
+    "Concept:ai-platform-team/w/196"
+  ],
+  "ai safety": [
+    "Concept:ai-safety/w/002"
+  ],
+  "ai unit economics": [
+    "Concept:ai-unit-economics/w/054"
+  ],
+  "ai-native observability": [
+    "Concept:ai-native-observability/w/007"
+  ],
+  "ai-specific 4th pillar": [
+    "Concept:ai-specific-4th-pillar/w/020"
+  ],
+  "ai21 labs": [
+    "Concept:ai21-labs/w/416"
+  ],
+  "aibom": [
+    "Concept:aibom/w/005"
+  ],
+  "aibrix": [
+    "Concept:aibrix/w/340"
+  ],
+  "aip-69": [
+    "Concept:edge-executor/w/051"
+  ],
+  "aip-74": [
+    "Concept:data-asset/w/033"
+  ],
+  "airbnb wall & dq score": [
+    "Concept:airbnb-wall-dq-score/w/005"
+  ],
+  "airbyte": [
+    "Concept:airbyte/w/004"
+  ],
+  "airflow 3.0": [
+    "Concept:airflow-3-0/w/005"
+  ],
+  "airflow assets": [
+    "Concept:airflow-assets/w/006"
+  ],
+  "airflow mcp": [
+    "Concept:airflow-mcp/w/006"
+  ],
+  "al": [
+    "Concept:al/w/119"
+  ],
+  "alert fatigue": [
+    "Concept:alert-fatigue/w/007",
+    "Concept:alert-fatigue/w/070",
+    "Concept:alert-fatigue/w/071",
+    "Concept:alert-fatigue/w/072"
+  ],
+  "alert severity": [
+    "Concept:alert-severity/w/008"
+  ],
+  "alertmanager": [
+    "Concept:alertmanager/w/053"
+  ],
+  "alias": [
+    "Concept:alias/w/015"
+  ],
+  "alignment": [
+    "Concept:alignment/w/004"
+  ],
+  "alignment faking": [
+    "Concept:alignment-faking/w/142"
+  ],
+  "all-reduce": [
+    "Concept:all-reduce/w/446"
+  ],
+  "all-to-all": [
+    "Concept:a2a/w/221",
+    "Concept:all-to-all/w/447"
+  ],
+  "allocative harm": [
+    "Concept:allocative-harm/w/077"
+  ],
+  "always-valid": [
+    "Concept:msprt/w/125"
+  ],
+  "amazon sagemaker large model inference distributed": [
+    "Concept:sagemaker-lmi-dist/w/215"
+  ],
+  "amazon web services bedrock": [
+    "Concept:aws-bedrock/w/458"
+  ],
+  "amazon web services trainium 3": [
+    "Concept:aws-trainium3/w/371"
+  ],
+  "amd mi355x": [
+    "Concept:amd-mi355x/w/369"
+  ],
+  "anchor vs replace": [
+    "Concept:synthetic-data/w/141"
+  ],
+  "ann": [
+    "Concept:ann/w/006"
+  ],
+  "ann index": [
+    "Concept:ann-index/w/008"
+  ],
+  "annealing": [
+    "Concept:annealing/w/019"
+  ],
+  "anomalo": [
+    "Concept:anomalo/w/021"
+  ],
+  "anomaly detection": [
+    "Concept:anomaly-detection/w/040"
+  ],
+  "answer relevancy / responserelevancy": [
+    "Concept:answer-relevancy-responserelevancy/w/069"
+  ],
+  "anthropic hh": [
+    "Concept:anthropic-hh/w/049"
+  ],
+  "anti-pattern": [
+    "Concept:anti-pattern/w/013"
+  ],
+  "anti-pattern: dashboard drift": [
+    "Concept:anti-pattern-dashboard-drift/w/046"
+  ],
+  "anti-patterns": [
+    "Concept:anti-patterns/w/007",
+    "Concept:anti-patterns/w/028"
+  ],
+  "ap@k / map": [
+    "Concept:ap-k-map/w/021"
+  ],
+  "apache 2.0": [
+    "Concept:apache-2-0/w/166"
+  ],
+  "apache airflow": [
+    "Concept:apache-airflow/w/009"
+  ],
+  "apc": [
+    "Concept:apc/w/153"
+  ],
+  "api gateway": [
+    "Concept:api-gateway/w/042"
+  ],
+  "api key / jwt / oauth2": [
+    "Concept:api-key-jwt-oauth2/w/043"
+  ],
+  "apm": [
+    "Concept:apm/w/006"
+  ],
+  "append-only audit ledger": [
+    "Concept:append-only-audit-ledger/w/007"
+  ],
+  "apple metal": [
+    "Concept:apple-metal/w/382"
+  ],
+  "application performance monitoring": [
+    "Concept:apm/w/006"
+  ],
+  "approval queue": [
+    "Concept:approval-queue/w/064"
+  ],
+  "approximate": [
+    "Concept:machine-unlearning/w/039"
+  ],
+  "approximate nearest neighbour": [
+    "Concept:ann/w/006"
+  ],
+  "apr 2025": [
+    "Concept:llama-4-style-control-incident/w/038"
+  ],
+  "april 2025": [
+    "Concept:gpt-4o-sycophancy-rollback/w/108"
+  ],
+  "apr–may 2025": [
+    "Concept:openai-sycophancy-postmortem/w/143"
+  ],
+  "arctic inference": [
+    "Concept:arctic-inference/w/268"
+  ],
+  "arena-hard-v2": [
+    "Concept:arena-hard-v2/w/147"
+  ],
+  "argilla / label studio / prodigy": [
+    "Concept:argilla-label-studio-prodigy/w/051"
+  ],
+  "arize": [
+    "Concept:phoenix/w/088"
+  ],
+  "arize phoenix": [
+    "Concept:arize-phoenix/w/052"
+  ],
+  "article 17": [
+    "Concept:gdpr-right-to-erasure/w/046"
+  ],
+  "artifact có vòng đời": [
+    "Concept:prompt-artifact/w/004"
+  ],
+  "ascend": [
+    "Concept:ascend/w/471"
+  ],
+  "asi": [
+    "Concept:agent-drift-agent-stability-index/w/139"
+  ],
+  "asi01--asi10": [
+    "Concept:asi01-asi10/w/008"
+  ],
+  "asi01–asi10": [
+    "Concept:owasp-agentic-top-10/w/095"
+  ],
+  "asi06": [
+    "Concept:memory-context-poisoning/w/043"
+  ],
+  "asr": [
+    "Concept:asr/w/050"
+  ],
+  "asset-based orchestration": [
+    "Concept:asset-based-orchestration/w/011"
+  ],
+  "asset_check": [
+    "Concept:asset-check/w/010"
+  ],
+  "async job / submit-and-poll": [
+    "Concept:async-job-submit-and-poll/w/019"
+  ],
+  "asynchronous rollout": [
+    "Concept:asynchronous-rollout/w/038"
+  ],
+  "at-least-once + idempotent consumer": [
+    "Concept:at-least-once-idempotent-consumer/w/095"
+  ],
+  "attack success rate": [
+    "Concept:asr/w/050"
+  ],
+  "attention sinks": [
+    "Concept:attention-sinks/w/415"
+  ],
+  "attestation": [
+    "Concept:attestation/w/009"
+  ],
+  "attribute-based access control": [
+    "Concept:abac/w/001"
+  ],
+  "attribution": [
+    "Concept:cost-attribution/w/051"
+  ],
+  "audience-bound token": [
+    "Concept:audience-bound-token/w/010"
+  ],
+  "audit completeness": [
+    "Concept:audit-completeness/w/011"
+  ],
+  "audit log": [
+    "Concept:audit-log/w/049"
+  ],
+  "audit trail": [
+    "Concept:audit-trail/w/067"
+  ],
+  "augmented llm": [
+    "Concept:augmented-llm/w/014"
+  ],
+  "auto-retraining loop": [
+    "Concept:auto-retraining-loop/w/090"
+  ],
+  "auto/normal/low_latency": [
+    "Concept:deepep-mode/w/438"
+  ],
+  "automatic prefix caching": [
+    "Concept:apc/w/153"
+  ],
+  "automation bias": [
+    "Concept:automation-bias/w/068"
+  ],
+  "automationcondition / declarative automation": [
+    "Concept:automationcondition-declarative-automation/w/012"
+  ],
+  "autonomous agent": [
+    "Concept:autonomous-agent/w/006"
+  ],
+  "autothresholds": [
+    "Concept:autothresholds/w/025"
+  ],
+  "availability": [
+    "Concept:availability/w/009"
+  ],
+  "average precision / mean average precision": [
+    "Concept:ap-k-map/w/021"
+  ],
+  "avro / protobuf": [
+    "Concept:avro-protobuf/w/013"
+  ],
+  "avx2 / avx-512": [
+    "Concept:avx2-avx-512/w/387"
+  ],
+  "awq": [
+    "Concept:awq/w/037"
+  ],
+  "aws bedrock": [
+    "Concept:aws-bedrock/w/458"
+  ],
+  "aws elasticache semantic cache": [
+    "Concept:aws-elasticache-semantic-cache/w/300"
+  ],
+  "aws trainium3": [
+    "Concept:aws-trainium3/w/371"
+  ],
+  "azure ai foundry model router": [
+    "Concept:azure-ai-foundry-model-router/w/297"
+  ],
+  "azure api management llm semantic cache": [
+    "Concept:azure-apim-llm-semantic-cache/w/301"
+  ],
+  "azure apim llm-semantic-cache": [
+    "Concept:azure-apim-llm-semantic-cache/w/301"
+  ],
+  "azure provisioned throughput": [
+    "Concept:ptu/w/160"
+  ],
+  "ba tầng": [
+    "Concept:compliance-viet-nam/w/018"
+  ],
+  "baai general embedding — multi-lingual, multi-functionality, multi-granularity": [
+    "Concept:bge-m3/w/265"
+  ],
+  "backfill": [
+    "Concept:backfill/w/010",
+    "Concept:backfill/w/014"
+  ],
+  "background mode": [
+    "Concept:background-mode/w/109"
+  ],
+  "backpressure": [
+    "Concept:backpressure/w/011"
+  ],
+  "backward compatibility": [
+    "Concept:backward-compatibility/w/015"
+  ],
+  "baggage": [
+    "Concept:baggage/w/014"
+  ],
+  "bare mode": [
+    "Concept:bare-mode/w/169"
+  ],
+  "base image": [
+    "Concept:base-image/w/005"
+  ],
+  "baseline": [
+    "Concept:baseline/w/109"
+  ],
+  "baseline-relative gating": [
+    "Concept:baseline-relative-gating/w/128"
+  ],
+  "batch": [
+    "Concept:batch/w/012",
+    "Concept:batch/w/016"
+  ],
+  "batch api": [
+    "Concept:batch-api/w/020",
+    "Concept:batch-api/w/100",
+    "Concept:batch-api/w/101"
+  ],
+  "batch-size intolerance": [
+    "Concept:batch-size-intolerance/w/091"
+  ],
+  "bedrock custom model import": [
+    "Concept:bedrock-custom-model-import/w/154"
+  ],
+  "behaviour vs knowledge gap": [
+    "Concept:behaviour-vs-knowledge-gap/w/005"
+  ],
+  "beir": [
+    "Concept:beir/w/040"
+  ],
+  "benchmark contamination": [
+    "Concept:benchmark-contamination/w/122",
+    "Concept:benchmark-contamination/w/123"
+  ],
+  "benchmark evolution / data-contamination hygiene": [
+    "Concept:benchmark-evolution-data-contamination-hygiene/w/125"
+  ],
+  "benchmark saturation": [
+    "Concept:benchmark-saturation/w/023",
+    "Concept:benchmark-saturation/w/149"
+  ],
+  "bentoml": [
+    "Concept:bentoml/w/013"
+  ],
+  "berkeley function calling leaderboard": [
+    "Concept:bfcl/w/045"
+  ],
+  "best-of-n decoding": [
+    "Concept:best-of-n-decoding/w/059"
+  ],
+  "best/worst pairs": [
+    "Concept:best-worst-pairs/w/057"
+  ],
+  "bf16": [
+    "Concept:bf16/w/030"
+  ],
+  "bf16 / fp8 / nf4 / 4-bit": [
+    "Concept:bf16-fp8-nf4-4-bit/w/089"
+  ],
+  "bfcl": [
+    "Concept:bfcl/w/045"
+  ],
+  "bff (backend-for-frontend) proxy": [
+    "Concept:bff-backend-for-frontend-proxy/w/070"
+  ],
+  "bge-m3": [
+    "Concept:bge-m3/w/265"
+  ],
+  "bi-encoder": [
+    "Concept:bi-encoder/w/260"
+  ],
+  "bias": [
+    "Concept:bias/w/011"
+  ],
+  "bias catalog": [
+    "Concept:bias-catalog/w/065"
+  ],
+  "bigeye": [
+    "Concept:bigeye/w/022"
+  ],
+  "bitfit": [
+    "Concept:bitfit/w/077"
+  ],
+  "bitol": [
+    "Concept:bitol/w/053"
+  ],
+  "bits per weight": [
+    "Concept:bpw/w/048"
+  ],
+  "bitsandbytes": [
+    "Concept:bitsandbytes/w/059"
+  ],
+  "blackwell": [
+    "Concept:blackwell/w/058"
+  ],
+  "blackwell nvlink encryption": [
+    "Concept:blackwell-nvlink-encryption/w/296"
+  ],
+  "blackwell sm arch": [
+    "Concept:sm100/w/469"
+  ],
+  "blackwell ultra": [
+    "Concept:blackwell-ultra/w/468"
+  ],
+  "blameless postmortem": [
+    "Concept:blameless-postmortem/w/103"
+  ],
+  "blast radius": [
+    "Concept:blast-radius/w/013",
+    "Concept:impact-analysis/w/072"
+  ],
+  "block diffusion": [
+    "Concept:block-diffusion/w/126"
+  ],
+  "block diffusion for flash speculative decoding": [
+    "Concept:dflash/w/125"
+  ],
+  "block size": [
+    "Concept:block-size/w/419"
+  ],
+  "block size (speculative decoding)": [
+    "Concept:term/w/120"
+  ],
+  "blockmask": [
+    "Concept:blockmask/w/102"
+  ],
+  "bonus tracks": [
+    "Concept:bonus-tracks/w/076"
+  ],
+  "bootstrap ci": [
+    "Concept:bootstrap-ci/w/088"
+  ],
+  "bpw": [
+    "Concept:bpw/w/048"
+  ],
+  "bradley-terry model": [
+    "Concept:bradley-terry-model/w/037"
+  ],
+  "bradley–terry model": [
+    "Concept:bradley-terry-model/w/036"
+  ],
+  "brain float 16": [
+    "Concept:bf16/w/030"
+  ],
+  "braintrust": [
+    "Concept:braintrust/w/114"
+  ],
+  "break-even utilization": [
+    "Concept:break-even-utilization/w/021"
+  ],
+  "breakpoint": [
+    "Concept:breakpoint/w/047"
+  ],
+  "brendan gregg 2013": [
+    "Concept:use-method/w/017"
+  ],
+  "bridge": [
+    "Concept:bridge/w/061"
+  ],
+  "bronze": [
+    "Concept:bronze/w/017"
+  ],
+  "bronze/silver/gold": [
+    "Concept:medallion/w/058"
+  ],
+  "bubble latency": [
+    "Concept:bubble-latency/w/242"
+  ],
+  "buf": [
+    "Concept:buf/w/058"
+  ],
+  "build-vs-buy": [
+    "Concept:build-vs-buy/w/027"
+  ],
+  "buildkit cache mount": [
+    "Concept:buildkit-cache-mount/w/008"
+  ],
+  "burn rate": [
+    "Concept:burn-rate/w/040"
+  ],
+  "by datadog": [
+    "Concept:metaplane/w/024"
+  ],
+  "byok": [
+    "Concept:local-first/w/174"
+  ],
+  "bão hòa benchmark": [
+    "Concept:benchmark-saturation/w/023"
+  ],
+  "bảng giá có version": [
+    "Concept:bang-gia-co-version/w/055"
+  ],
+  "bộ ba chết người": [
+    "Concept:lethal-trifecta/w/104"
+  ],
+  "bộ dữ liệu chuẩn vàng": [
+    "Concept:golden-dataset/w/012"
+  ],
+  "bộ nhớ đệm prompt": [
+    "Concept:prompt-caching/w/099"
+  ],
+  "cace / hidden technical debt": [
+    "Concept:cace-hidden-technical-debt/w/200"
+  ],
+  "cache hit rate": [
+    "Concept:cache-hit-rate/w/049"
+  ],
+  "cache poisoning": [
+    "Concept:cache-poisoning/w/272"
+  ],
+  "cache prefix": [
+    "Concept:cache-prefix/w/042"
+  ],
+  "cache read": [
+    "Concept:cache-read/w/044"
+  ],
+  "cache salting": [
+    "Concept:cache-salting/w/273"
+  ],
+  "cache ttl": [
+    "Concept:cache-ttl/w/021"
+  ],
+  "cache write": [
+    "Concept:cache-write/w/045"
+  ],
+  "cache-aware routing": [
+    "Concept:cache-aware-routing/w/230"
+  ],
+  "cache-hit %": [
+    "Concept:cache-hit/w/049"
+  ],
+  "cache_ttl_seconds": [
+    "Concept:cache-ttl/w/021"
+  ],
+  "cai": [
+    "Concept:constitutional-ai/w/063"
+  ],
+  "calibrated confidence": [
+    "Concept:calibrated-confidence/w/048"
+  ],
+  "calibration": [
+    "Concept:calibration/w/074",
+    "Concept:calibration/w/075"
+  ],
+  "call site": [
+    "Concept:call-site/w/052"
+  ],
+  "callable contract": [
+    "Concept:callable-contract/w/170"
+  ],
+  "calm, 12 types": [
+    "Concept:bias-catalog/w/065"
+  ],
+  "camel / dual-llm": [
+    "Concept:camel-dual-llm/w/029"
+  ],
+  "canary": [
+    "Concept:canary/w/131",
+    "Concept:canary/w/132"
+  ],
+  "capability injection": [
+    "Concept:capability-injection/w/021"
+  ],
+  "capability token": [
+    "Concept:capability-token/w/012"
+  ],
+  "capability-based security": [
+    "Concept:capability-based-security/w/030"
+  ],
+  "capacity blocks": [
+    "Concept:capacity-blocks/w/018"
+  ],
+  "carbon-aware scheduling": [
+    "Concept:carbon-aware-scheduling/w/068"
+  ],
+  "carbon-aware temporal shifting": [
+    "Concept:carbon-aware-temporal-shifting/w/283"
+  ],
+  "cardinality": [
+    "Concept:cardinality/w/014",
+    "Concept:cardinality/w/019"
+  ],
+  "cardinality explosion": [
+    "Concept:cardinality-explosion/w/031"
+  ],
+  "cascade": [
+    "Concept:cascade/w/277"
+  ],
+  "catalog grant": [
+    "Concept:catalog-grant/w/059"
+  ],
+  "catalog.schema.name": [
+    "Concept:catalog-schema-name/w/058"
+  ],
+  "catastrophic forgetting": [
+    "Concept:catastrophic-forgetting/w/140",
+    "Concept:catastrophic-forgetting/w/141"
+  ],
+  "cause-based alerting": [
+    "Concept:cause-based-alerting/w/051"
+  ],
+  "cautionary": [
+    "Concept:openai-evals-sunset/w/116"
+  ],
+  "caveated": [
+    "Concept:cost-of-bad-data/w/008"
+  ],
+  "cbpe / pape": [
+    "Concept:cbpe-pape/w/140"
+  ],
+  "cccd": [
+    "Concept:cccd/w/013"
+  ],
+  "cdc": [
+    "Concept:cdc/w/014",
+    "Concept:cdc/w/018"
+  ],
+  "cel / jsonata": [
+    "Concept:cel-jsonata/w/057"
+  ],
+  "census": [
+    "Concept:census/w/019"
+  ],
+  "chain of thought": [
+    "Concept:cot/w/085"
+  ],
+  "champion / challenger": [
+    "Concept:champion-challenger/w/134"
+  ],
+  "change data capture": [
+    "Concept:cdc/w/014",
+    "Concept:cdc/w/018"
+  ],
+  "chargeback": [
+    "Concept:chargeback/w/058"
+  ],
+  "chat template": [
+    "Concept:chat-template/w/111"
+  ],
+  "chatbot arena / lmarena / arena": [
+    "Concept:chatbot-arena-lmarena-arena/w/035"
+  ],
+  "chatbot baseline": [
+    "Concept:chatbot-baseline/w/064"
+  ],
+  "chateval": [
+    "Concept:chateval/w/049"
+  ],
+  "checkpoint": [
+    "Concept:checkpoint/w/031"
+  ],
+  "checkpointer": [
+    "Concept:checkpointer/w/057",
+    "Concept:checkpointer/w/058",
+    "Concept:checkpointer/w/059"
+  ],
+  "ches filter": [
+    "Concept:ches-filter/w/115"
+  ],
+  "chinchilla-optimal": [
+    "Concept:chinchilla-optimal/w/015"
+  ],
+  "cho ai": [
+    "Concept:data-curation/w/025"
+  ],
+  "chronon": [
+    "Concept:chronon/w/020"
+  ],
+  "chunk": [
+    "Concept:chunk/w/021"
+  ],
+  "chunk metadata tối thiểu": [
+    "Concept:chunk-metadata-toi-thieu/w/015"
+  ],
+  "chunked prefill": [
+    "Concept:chunked-prefill/w/154",
+    "Concept:chunked-prefill/w/155"
+  ],
+  "chunked segmented gather-matrix-vector multiplication": [
+    "Concept:chunked-sgmv/w/213"
+  ],
+  "chunked sgmv": [
+    "Concept:chunked-sgmv/w/213"
+  ],
+  "chuyển dữ liệu xuyên biên giới": [
+    "Concept:cross-border-transfer/w/016"
+  ],
+  "chuỗi rửa citation": [
+    "Concept:citation-laundering/w/016"
+  ],
+  "ci": [
+    "Concept:95-confidence-interval/w/081"
+  ],
+  "ci / cd / ct": [
+    "Concept:ci-cd-ct/w/197"
+  ],
+  "ci/cd pipeline": [
+    "Concept:ci-cd-pipeline/w/058"
+  ],
+  "cilium / hubble / tetragon": [
+    "Concept:cilium-hubble-tetragon/w/168"
+  ],
+  "circuit breaker": [
+    "Concept:circuit-breaker/w/405",
+    "Concept:circuit-breaker/w/406"
+  ],
+  "cispo": [
+    "Concept:cispo/w/122"
+  ],
+  "citation laundering": [
+    "Concept:citation-laundering/w/016"
+  ],
+  "classifier cascade": [
+    "Concept:classifier-cascade/w/105"
+  ],
+  "claude's constitution": [
+    "Concept:claude-s-constitution/w/085"
+  ],
+  "claude.md": [
+    "Concept:claude-md/w/062"
+  ],
+  "cleanlab / confident learning": [
+    "Concept:cleanlab-confident-learning/w/093"
+  ],
+  "clear composite gate": [
+    "Concept:clear-composite-gate/w/112"
+  ],
+  "clickstack / signoz / coroot / openobserve": [
+    "Concept:clickstack-signoz-coroot-openobserve/w/182"
+  ],
+  "client-side agent": [
+    "Concept:client-side-agent/w/069"
+  ],
+  "clipped importance-sampling policy optimization": [
+    "Concept:cispo/w/122"
+  ],
+  "clocks_event_reasons": [
+    "Concept:clocks-event-reasons/w/152"
+  ],
+  "closed-form optimal policy": [
+    "Concept:closed-form-optimal-policy/w/018"
+  ],
+  "cloud run": [
+    "Concept:cloud-run/w/032"
+  ],
+  "cloudflare": [
+    "Concept:durable-object/w/092"
+  ],
+  "clt under-coverage": [
+    "Concept:clt-under-coverage/w/086"
+  ],
+  "cncf graduated 2026-05": [
+    "Concept:opentelemetry/w/173"
+  ],
+  "cod sampling": [
+    "Concept:cod-sampling/w/124"
+  ],
+  "cohen's kappa": [
+    "Concept:cohen-s-kappa/w/089"
+  ],
+  "coinbase datadog incident": [
+    "Concept:coinbase-datadog-incident/w/098"
+  ],
+  "colbert": [
+    "Concept:colbert/w/456"
+  ],
+  "cold start": [
+    "Concept:cold-start/w/029",
+    "Concept:cold-start/w/320",
+    "Concept:cold-start/w/321"
+  ],
+  "cold-start sft": [
+    "Concept:cold-start-sft/w/044"
+  ],
+  "collections namespace": [
+    "Concept:collections-namespace/w/074"
+  ],
+  "collective cai": [
+    "Concept:collective-cai/w/067"
+  ],
+  "colocated vs disaggregated rollout": [
+    "Concept:colocated-vs-disaggregated-rollout/w/313"
+  ],
+  "colpali / late interaction": [
+    "Concept:colpali-late-interaction/w/022"
+  ],
+  "column mask": [
+    "Concept:column-mask/w/014"
+  ],
+  "column-level lineage": [
+    "Concept:column-level-lineage/w/017",
+    "Concept:column-level-lineage/w/071"
+  ],
+  "columnlineagedatasetfacet": [
+    "Concept:columnlineagedatasetfacet/w/066"
+  ],
+  "commit message": [
+    "Concept:commit-message/w/017"
+  ],
+  "community summary": [
+    "Concept:community-summary/w/023"
+  ],
+  "compaction": [
+    "Concept:compaction/w/024",
+    "Concept:compaction/w/088"
+  ],
+  "compensating transaction": [
+    "Concept:compensating-transaction/w/099"
+  ],
+  "compliance việt nam": [
+    "Concept:compliance-viet-nam/w/018"
+  ],
+  "compound ai system": [
+    "Concept:compound-ai-system/w/003",
+    "Concept:compound-ai-system/w/194"
+  ],
+  "compounding error": [
+    "Concept:compounding-error/w/216"
+  ],
+  "compute unified device architecture": [
+    "Concept:cuda/w/390"
+  ],
+  "computer use / browser use": [
+    "Concept:computer-use-browser-use/w/077"
+  ],
+  "concept drift": [
+    "Concept:concept-drift/w/077",
+    "Concept:concept-drift/w/136"
+  ],
+  "concurrency": [
+    "Concept:concurrency/w/027"
+  ],
+  "concurrency-based autoscaling": [
+    "Concept:concurrency-based-autoscaling/w/052"
+  ],
+  "conditional-on-distribution sampling": [
+    "Concept:cod-sampling/w/124"
+  ],
+  "confidence head": [
+    "Concept:confidence-head/w/130"
+  ],
+  "confidence-scheduled speculative decoding": [
+    "Concept:dspark/w/128"
+  ],
+  "confidence-scheduled verification": [
+    "Concept:confidence-scheduled-verification/w/131"
+  ],
+  "confidential computing": [
+    "Concept:confidential-computing/w/015"
+  ],
+  "conflict resolution": [
+    "Concept:conflict-resolution/w/063"
+  ],
+  "confused deputy": [
+    "Concept:confused-deputy/w/041",
+    "Concept:confused-deputy/w/105"
+  ],
+  "constitution": [
+    "Concept:constitution/w/064"
+  ],
+  "constitutional ai": [
+    "Concept:constitutional-ai/w/040",
+    "Concept:constitutional-ai/w/063"
+  ],
+  "constitutional classifiers": [
+    "Concept:constitutional-classifiers/w/032",
+    "Concept:constitutional-classifiers/w/138"
+  ],
+  "constrained decoding": [
+    "Concept:regex/w/427"
+  ],
+  "container": [
+    "Concept:container/w/001"
+  ],
+  "container registry": [
+    "Concept:container-registry/w/059"
+  ],
+  "content filtering": [
+    "Concept:content-filtering/w/023"
+  ],
+  "context bottleneck": [
+    "Concept:context-bottleneck/w/004"
+  ],
+  "context bundle": [
+    "Concept:context-bundle/w/005"
+  ],
+  "context isolation": [
+    "Concept:context-isolation/w/022"
+  ],
+  "context offloading": [
+    "Concept:context-offloading/w/078"
+  ],
+  "context precision": [
+    "Concept:context-precision/w/071"
+  ],
+  "context recall": [
+    "Concept:context-recall/w/070"
+  ],
+  "context rot": [
+    "Concept:context-rot/w/023"
+  ],
+  "context tiering": [
+    "Concept:phan-tang-context/w/064"
+  ],
+  "context window": [
+    "Concept:context-window/w/003"
+  ],
+  "contextual retrieval": [
+    "Concept:contextual-retrieval/w/025"
+  ],
+  "contextualized late interaction over bert": [
+    "Concept:colbert/w/456"
+  ],
+  "continued pretraining": [
+    "Concept:cpt/w/132"
+  ],
+  "continuous (in-flight) batching": [
+    "Concept:continuous-in-flight-batching/w/081"
+  ],
+  "continuous / online eval": [
+    "Concept:fourth-pillar/w/005"
+  ],
+  "continuous batching": [
+    "Concept:continuous-batching/w/016",
+    "Concept:continuous-batching/w/084",
+    "Concept:continuous-batching/w/156"
+  ],
+  "continuous improvement loop": [
+    "Concept:continuous-improvement-loop/w/124"
+  ],
+  "continuous profiling": [
+    "Concept:continuous-profiling/w/100",
+    "Concept:continuous-profiling/w/170"
+  ],
+  "contract-conformant": [
+    "Concept:contract-conformant/w/015"
+  ],
+  "contrastive activation addition": [
+    "Concept:activation-steering-caa/w/156"
+  ],
+  "coordinator": [
+    "Concept:coordinator/w/019"
+  ],
+  "core data / important data": [
+    "Concept:core-data-important-data/w/019"
+  ],
+  "coroot / pixie / kepler": [
+    "Concept:coroot-pixie-kepler/w/169"
+  ],
+  "correlation id": [
+    "Concept:correlation-id/w/018"
+  ],
+  "cors": [
+    "Concept:cors/w/049"
+  ],
+  "cosine schedule": [
+    "Concept:cosine-schedule/w/145"
+  ],
+  "cost attribution": [
+    "Concept:cost-attribution/w/051"
+  ],
+  "cost of bad data": [
+    "Concept:cost-of-bad-data/w/008"
+  ],
+  "cost per 1m tokens": [
+    "Concept:cost-per-1m-tokens/w/409"
+  ],
+  "cost tracking": [
+    "Concept:cost-attribution/w/051"
+  ],
+  "cost-per-request / cost-per-task": [
+    "Concept:cost-per-request-cost-per-task/w/045"
+  ],
+  "cost-per-task": [
+    "Concept:cost-per-task/w/114",
+    "Concept:cost-per-task/w/186"
+  ],
+  "cost-per-token": [
+    "Concept:cost-per-token/w/029"
+  ],
+  "cot": [
+    "Concept:cot/w/085"
+  ],
+  "cot (un)faithfulness": [
+    "Concept:cot-un-faithfulness/w/143"
+  ],
+  "counter": [
+    "Concept:counter/w/008",
+    "Concept:counter/w/023"
+  ],
+  "counterfactual test": [
+    "Concept:counterfactual-test/w/080"
+  ],
+  "cpt": [
+    "Concept:cpt/w/132"
+  ],
+  "cpt → sft ordering": [
+    "Concept:cpt-sft-ordering/w/134"
+  ],
+  "cpu advanced matrix extensions": [
+    "Concept:cpu-amx/w/258"
+  ],
+  "cpu amx": [
+    "Concept:cpu-amx/w/258"
+  ],
+  "cpu amx encode": [
+    "Concept:xeon/w/454"
+  ],
+  "crash dump": [
+    "Concept:crash-dump/w/430"
+  ],
+  "crawl / walk / run": [
+    "Concept:crawl-walk-run/w/003"
+  ],
+  "critical path": [
+    "Concept:critical-path/w/024"
+  ],
+  "croissant": [
+    "Concept:croissant/w/097"
+  ],
+  "cross-border transfer": [
+    "Concept:cross-border-transfer/w/016"
+  ],
+  "cross-border transfer / tia": [
+    "Concept:cross-border-transfer-tia/w/052"
+  ],
+  "cross-contamination": [
+    "Concept:cross-contamination/w/120"
+  ],
+  "cross-encoder": [
+    "Concept:cross-encoder/w/261"
+  ],
+  "csa / hca": [
+    "Concept:csa-hca/w/047"
+  ],
+  "ct triggers": [
+    "Concept:ct-triggers/w/199"
+  ],
+  "ctia / dpia": [
+    "Concept:ctia-dpia/w/017"
+  ],
+  "cuda": [
+    "Concept:cuda/w/390"
+  ],
+  "cuda graph record/replay": [
+    "Concept:cuda-graph-record-replay/w/108"
+  ],
+  "cuda graphs": [
+    "Concept:cuda-graphs/w/107"
+  ],
+  "cuda templates for linear algebra subroutines": [
+    "Concept:cutlass/w/223"
+  ],
+  "cuped": [
+    "Concept:cuped/w/126"
+  ],
+  "cur 2.0 / scad": [
+    "Concept:cur-2-0-scad/w/062"
+  ],
+  "cursor-based incremental load": [
+    "Concept:cursor-based-incremental-load/w/026"
+  ],
+  "custom-metric decorators": [
+    "Concept:custom-metric-decorators/w/077"
+  ],
+  "cutlass": [
+    "Concept:cutlass/w/223"
+  ],
+  "cutlassmla": [
+    "Concept:cutlassmla/w/073"
+  ],
+  "cutover": [
+    "Concept:cutover/w/020"
+  ],
+  "cô lập context": [
+    "Concept:context-isolation/w/022"
+  ],
+  "cổng chất lượng": [
+    "Concept:quality-gate/w/069"
+  ],
+  "d": [
+    "Concept:eu-ai-act-art-53-1/w/106"
+  ],
+  "dag": [
+    "Concept:dag/w/021",
+    "Concept:dag/w/027"
+  ],
+  "dag versioning": [
+    "Concept:dag-versioning/w/029"
+  ],
+  "dagster": [
+    "Concept:dagster/w/028"
+  ],
+  "dama": [
+    "Concept:6-dq-dimensions/w/017"
+  ],
+  "dapo": [
+    "Concept:dapo/w/030",
+    "Concept:dapo/w/120"
+  ],
+  "dapo / gspo / cispo": [
+    "Concept:dapo-gspo-cispo/w/037"
+  ],
+  "dapo-math-17k": [
+    "Concept:dapo-math-17k/w/031"
+  ],
+  "dapt": [
+    "Concept:dapt/w/077"
+  ],
+  "dashboard json model": [
+    "Concept:dashboard-json-model/w/038"
+  ],
+  "dashboard-as-code": [
+    "Concept:dashboard-as-code/w/039"
+  ],
+  "data": [
+    "Concept:circuit-breaker/w/406",
+    "Concept:shift-left/w/059"
+  ],
+  "data asset": [
+    "Concept:data-asset/w/033"
+  ],
+  "data cascades": [
+    "Concept:data-cascades/w/022"
+  ],
+  "data catalog": [
+    "Concept:data-catalog/w/023",
+    "Concept:data-catalog/w/024"
+  ],
+  "data center gpu manager": [
+    "Concept:dcgm/w/061"
+  ],
+  "data classification": [
+    "Concept:data-classification/w/019"
+  ],
+  "data contamination": [
+    "Concept:data-contamination/w/024"
+  ],
+  "data contract": [
+    "Concept:data-contract/w/024",
+    "Concept:data-contract/w/035",
+    "Concept:data-contract/w/051"
+  ],
+  "data contract cli": [
+    "Concept:data-contract-cli/w/054"
+  ],
+  "data curation": [
+    "Concept:data-curation/w/025"
+  ],
+  "data downtime": [
+    "Concept:data-downtime/w/005"
+  ],
+  "data drift": [
+    "Concept:data-drift/w/076"
+  ],
+  "data encryption key": [
+    "Concept:dek/w/020"
+  ],
+  "data lake": [
+    "Concept:data-lake/w/026"
+  ],
+  "data observability": [
+    "Concept:data-observability/w/027",
+    "Concept:data-observability/w/028"
+  ],
+  "data observability maturity model": [
+    "Concept:data-observability-maturity-model/w/018"
+  ],
+  "data observability vs system observability": [
+    "Concept:data-observability-vs-system-observability/w/002"
+  ],
+  "data parallel attention": [
+    "Concept:dpa/w/465"
+  ],
+  "data parallelism": [
+    "Concept:data-parallelism/w/226"
+  ],
+  "data parallelism attention": [
+    "Concept:dp-attention/w/227"
+  ],
+  "data pipeline": [
+    "Concept:data-pipeline/w/028"
+  ],
+  "data profiling": [
+    "Concept:data-profiling/w/029"
+  ],
+  "data quality": [
+    "Concept:6-dimensions/w/002",
+    "Concept:llm-as-judge/w/089"
+  ],
+  "data residency": [
+    "Concept:data-residency/w/162"
+  ],
+  "data sla": [
+    "Concept:availability/w/009",
+    "Concept:sla/w/079"
+  ],
+  "data test vs unit test": [
+    "Concept:data-test-vs-unit-test/w/038"
+  ],
+  "data warehouse": [
+    "Concept:data-warehouse/w/030"
+  ],
+  "data-constrained regime": [
+    "Concept:data-constrained-regime/w/017"
+  ],
+  "databricks lakeflow": [
+    "Concept:databricks-lakeflow/w/032"
+  ],
+  "databricks lakehouse monitoring": [
+    "Concept:databricks-lakehouse-monitoring/w/100"
+  ],
+  "datacontract cli": [
+    "Concept:datacontract-cli/w/034"
+  ],
+  "datadog": [
+    "Concept:datadog/w/094"
+  ],
+  "datahub": [
+    "Concept:datahub/w/068"
+  ],
+  "datasource": [
+    "Concept:datasource/w/035"
+  ],
+  "dbt": [
+    "Concept:dbt/w/031",
+    "Concept:dbt/w/036"
+  ],
+  "dbt data test vs unit test": [
+    "Concept:dbt-data-test-vs-unit-test/w/032"
+  ],
+  "dbt fusion": [
+    "Concept:dbt-fusion/w/037"
+  ],
+  "dbt model contracts": [
+    "Concept:dbt-model-contracts/w/055"
+  ],
+  "dbt unit tests": [
+    "Concept:dbt-unit-tests/w/037"
+  ],
+  "dbt-expectations": [
+    "Concept:dbt-expectations/w/036"
+  ],
+  "dbt-mcp": [
+    "Concept:dbt-mcp/w/038"
+  ],
+  "dcgm": [
+    "Concept:dcgm/w/030",
+    "Concept:dcgm/w/061"
+  ],
+  "dcr → cimd": [
+    "Concept:dcr-cimd/w/124"
+  ],
+  "ddp": [
+    "Concept:ddp/w/066",
+    "Concept:ddp/w/091"
+  ],
+  "de-biasing checklist": [
+    "Concept:de-biasing-checklist/w/066"
+  ],
+  "de-identification": [
+    "Concept:de-identification/w/171"
+  ],
+  "dead-letter queue": [
+    "Concept:dead-letter-queue/w/033",
+    "Concept:dlq/w/045"
+  ],
+  "debate": [
+    "Concept:debate/w/012"
+  ],
+  "debate / prover-verifier games": [
+    "Concept:debate-prover-verifier-games/w/141"
+  ],
+  "debezium": [
+    "Concept:debezium/w/039"
+  ],
+  "debug-by-trace": [
+    "Concept:debug-by-trace/w/042"
+  ],
+  "decay phase": [
+    "Concept:annealing/w/019"
+  ],
+  "deceptive alignment": [
+    "Concept:deceptive-alignment/w/016"
+  ],
+  "decision subject": [
+    "Concept:doi-tuong-bi-tac-dong/w/081"
+  ],
+  "declarative pipeline": [
+    "Concept:declarative-pipeline/w/041"
+  ],
+  "decode pool": [
+    "Concept:decode-pool/w/196"
+  ],
+  "decoding params": [
+    "Concept:decoding-params/w/009"
+  ],
+  "decompose-then-detect": [
+    "Concept:decompose-then-detect/w/044"
+  ],
+  "decontamination": [
+    "Concept:decontamination/w/040",
+    "Concept:decontamination/w/121"
+  ],
+  "decree 356": [
+    "Concept:decree-356/w/170"
+  ],
+  "deduplication": [
+    "Concept:deduplication/w/092"
+  ],
+  "deep expert parallelism": [
+    "Concept:deepep/w/218"
+  ],
+  "deep_gemm": [
+    "Concept:deep-gemm/w/222"
+  ],
+  "deep_gemm/cutlass": [
+    "Concept:moe-runner-backend/w/435"
+  ],
+  "deepagents": [
+    "Concept:deepagents/w/144"
+  ],
+  "deepep": [
+    "Concept:deepep/w/218"
+  ],
+  "deepep/mooncake/nixl": [
+    "Concept:moe-a2a-backend/w/434"
+  ],
+  "deepeval": [
+    "Concept:deepeval/w/030"
+  ],
+  "deepseek mtp": [
+    "Concept:deepseek-mtp/w/081"
+  ],
+  "deepseek multi-token prediction": [
+    "Concept:deepseek-mtp/w/081"
+  ],
+  "deepseek-ai/deepspec": [
+    "Concept:deepspec/w/133"
+  ],
+  "deepseek-grm": [
+    "Concept:deepseek-grm/w/157"
+  ],
+  "deepseek-r1-zero 'pure rl' / grpo reasoning": [
+    "Concept:deepseek-r1-zero-pure-rl-grpo-reasoning/w/127"
+  ],
+  "deepseek-v3": [
+    "Concept:deepseek-v3/w/225"
+  ],
+  "deepseek-v3 reference": [
+    "Concept:dp-ep-config/w/251"
+  ],
+  "deepseek-v3.1": [
+    "Concept:deepseek-v3-1/w/440"
+  ],
+  "deepspec": [
+    "Concept:deepspec/w/133"
+  ],
+  "deepspeed inference": [
+    "Concept:deepspeed-inference/w/147"
+  ],
+  "defense in depth": [
+    "Concept:defense-in-depth/w/004",
+    "Concept:defense-in-depth/w/056"
+  ],
+  "deferrable operators": [
+    "Concept:deferrable-operators/w/042"
+  ],
+  "dek": [
+    "Concept:dek/w/020"
+  ],
+  "delegation depth": [
+    "Concept:delegation-depth/w/021"
+  ],
+  "deliberative alignment": [
+    "Concept:deliberative-alignment/w/134"
+  ],
+  "delta analysis": [
+    "Concept:delta-analysis/w/108"
+  ],
+  "delta lake / medallion": [
+    "Concept:delta-lake-medallion/w/474"
+  ],
+  "delta live tables": [
+    "Concept:dlt/w/046"
+  ],
+  "demographic parity gap / equal opportunity gap": [
+    "Concept:demographic-parity-gap-equal-opportunity-gap/w/079"
+  ],
+  "derivative model": [
+    "Concept:derivative-model/w/165"
+  ],
+  "device mesh": [
+    "Concept:device-mesh/w/238"
+  ],
+  "dflash": [
+    "Concept:dflash/w/125"
+  ],
+  "differential privacy": [
+    "Concept:differential-privacy/w/021"
+  ],
+  "diffusion large language model": [
+    "Concept:dllm/w/314"
+  ],
+  "digital omnibus": [
+    "Concept:digital-omnibus/w/022"
+  ],
+  "digital omnibus on ai": [
+    "Concept:digital-omnibus-on-ai/w/090"
+  ],
+  "dion": [
+    "Concept:dion/w/041"
+  ],
+  "disaggregated prefill/decode": [
+    "Concept:disaggregated-prefill-decode/w/086",
+    "Concept:disaggregated-prefill-decode/w/233"
+  ],
+  "disaggregated prefill/decode serving": [
+    "Concept:disaggregated-prefill-decode-serving/w/189"
+  ],
+  "disaggregated serving": [
+    "Concept:disaggregated-serving/w/162",
+    "Concept:disaggregated-serving/w/163"
+  ],
+  "discipline": [
+    "Concept:agentops/w/215"
+  ],
+  "discount stacking": [
+    "Concept:discount-stacking/w/101"
+  ],
+  "diskless streaming": [
+    "Concept:diskless-streaming/w/034"
+  ],
+  "diskless topics": [
+    "Concept:diskless-topics/w/043"
+  ],
+  "distillation": [
+    "Concept:distillation/w/135"
+  ],
+  "distillation lineage: alpaca → vicuna → wizardlm → orca → phi": [
+    "Concept:distillation-lineage-alpaca-vicuna-wizardlm-orca-phi/w/084"
+  ],
+  "distributed data parallel": [
+    "Concept:ddp/w/066",
+    "Concept:ddp/w/091"
+  ],
+  "distributed tracing": [
+    "Concept:distributed-tracing/w/024",
+    "Concept:distributed-tracing/w/065"
+  ],
+  "distribution": [
+    "Concept:distribution/w/012"
+  ],
+  "distribution drift": [
+    "Concept:distribution-drift/w/125"
+  ],
+  "distributional novelty": [
+    "Concept:distributional-novelty/w/018"
+  ],
+  "distserve": [
+    "Concept:distserve/w/191"
+  ],
+  "distserve / splitwise": [
+    "Concept:distserve-splitwise/w/477"
+  ],
+  "diễn tập": [
+    "Concept:dien-tap/w/037"
+  ],
+  "dllm": [
+    "Concept:dllm/w/314"
+  ],
+  "dlq": [
+    "Concept:dead-letter-queue/w/033",
+    "Concept:dlq/w/045"
+  ],
+  "dlt": [
+    "Concept:dlt/w/044",
+    "Concept:dlt/w/046"
+  ],
+  "docker compose": [
+    "Concept:docker-compose/w/144"
+  ],
+  "docker-compose": [
+    "Concept:docker-compose/w/012"
+  ],
+  "dockerfile": [
+    "Concept:dockerfile/w/002"
+  ],
+  "does rl add reasoning?": [
+    "Concept:yue-et-al-vs-prorl-debate/w/125"
+  ],
+  "dolma 3": [
+    "Concept:dolma-3/w/010"
+  ],
+  "domain classifier": [
+    "Concept:domain-classifier/w/083"
+  ],
+  "domain-adaptive pre-training": [
+    "Concept:dapt/w/077"
+  ],
+  "dora": [
+    "Concept:dora/w/096"
+  ],
+  "dora / rslora / pissa": [
+    "Concept:dora-rslora-pissa/w/093"
+  ],
+  "dora merge caveat": [
+    "Concept:dora-merge-caveat/w/160"
+  ],
+  "double quantization": [
+    "Concept:double-quantization/w/046",
+    "Concept:double-quantization/w/102"
+  ],
+  "dp": [
+    "Concept:data-parallelism/w/226",
+    "Concept:differential-privacy/w/021",
+    "Concept:synthetic-data/w/142"
+  ],
+  "dp attention": [
+    "Concept:dpa/w/465"
+  ],
+  "dp+ep config": [
+    "Concept:dp-ep-config/w/251"
+  ],
+  "dp-attention": [
+    "Concept:dp-attention/w/227"
+  ],
+  "dp-sgd": [
+    "Concept:dp-sgd/w/023"
+  ],
+  "dpa": [
+    "Concept:dpa/w/465"
+  ],
+  "dpo / orpo preference pair": [
+    "Concept:dpo-orpo-preference-pair/w/047"
+  ],
+  "dpo adapter": [
+    "Concept:dpo-adapter/w/074"
+  ],
+  "dpo loss": [
+    "Concept:dpo-loss/w/020"
+  ],
+  "dpo-shift 2025": [
+    "Concept:optimization-conflict/w/026"
+  ],
+  "dpop": [
+    "Concept:dpop/w/139"
+  ],
+  "dpotrainer / dpoconfig": [
+    "Concept:dpotrainer-dpoconfig/w/052"
+  ],
+  "dr.grpo": [
+    "Concept:dr-grpo/w/119"
+  ],
+  "dra": [
+    "Concept:dra/w/036"
+  ],
+  "draft": [
+    "Concept:oauth-2-1/w/040"
+  ],
+  "drafting": [
+    "Concept:block-diffusion/w/126"
+  ],
+  "drift": [
+    "Concept:domain-classifier/w/083",
+    "Concept:drift/w/039"
+  ],
+  "drift-adapter": [
+    "Concept:drift-adapter/w/035",
+    "Concept:drift-adapter/w/086"
+  ],
+  "drift-triggered retraining": [
+    "Concept:drift-triggered-retraining/w/048"
+  ],
+  "dsa": [
+    "Concept:dsa/w/048"
+  ],
+  "dspark": [
+    "Concept:dspark/w/128"
+  ],
+  "dspy / gepa": [
+    "Concept:dspy-gepa/w/209"
+  ],
+  "dual-condition gating": [
+    "Concept:dual-condition-gating/w/110"
+  ],
+  "dual-llm pattern": [
+    "Concept:dual-llm-pattern/w/024"
+  ],
+  "durable execution": [
+    "Concept:durable-execution/w/056",
+    "Concept:durable-execution/w/057",
+    "Concept:durable-execution/w/096",
+    "Concept:durable-execution/w/108",
+    "Concept:durable-execution/w/220",
+    "Concept:durable-execution/w/221"
+  ],
+  "durable object": [
+    "Concept:durable-object/w/092"
+  ],
+  "dvc": [
+    "Concept:dvc/w/049"
+  ],
+  "dvfs": [
+    "Concept:dvfs/w/281"
+  ],
+  "dws": [
+    "Concept:dws/w/020"
+  ],
+  "dynamic batching": [
+    "Concept:dynamic-batching/w/024"
+  ],
+  "dynamic decision": [
+    "Concept:dynamic-decision/w/010"
+  ],
+  "dynamic mapping": [
+    "Concept:dynamic-mapping/w/050"
+  ],
+  "dynamic resource allocation": [
+    "Concept:dra/w/036"
+  ],
+  "dynamic voltage and frequency scaling": [
+    "Concept:dvfs/w/281"
+  ],
+  "dynamic workload scheduler": [
+    "Concept:dws/w/020"
+  ],
+  "dynamic=true": [
+    "Concept:dynamic-true/w/118"
+  ],
+  "dynatrace": [
+    "Concept:dynatrace/w/097"
+  ],
+  "e-commerce tools": [
+    "Concept:e-commerce-tools/w/062"
+  ],
+  "e2e latency": [
+    "Concept:e2e-latency/w/004"
+  ],
+  "e4m3": [
+    "Concept:e4m3/w/032"
+  ],
+  "eagle-3": [
+    "Concept:eagle-3/w/080"
+  ],
+  "early fusion": [
+    "Concept:early-fusion/w/256"
+  ],
+  "early-fusion vlm": [
+    "Concept:llama-4/w/452"
+  ],
+  "ebnf": [
+    "Concept:ebnf/w/177"
+  ],
+  "ebpf": [
+    "Concept:ebpf/w/005",
+    "Concept:ebpf/w/165"
+  ],
+  "ecosystem effect": [
+    "Concept:ecosystem-effect/w/042"
+  ],
+  "ecs fargate": [
+    "Concept:ecs-fargate/w/033"
+  ],
+  "eda": [
+    "Concept:event-driven-autoscaling/w/332"
+  ],
+  "edd": [
+    "Concept:eval-driven-development/w/002",
+    "Concept:eval-driven-development/w/210"
+  ],
+  "edge": [
+    "Concept:edge/w/053"
+  ],
+  "edge case / adversarial input": [
+    "Concept:edge-case-adversarial-input/w/014"
+  ],
+  "edge deployment flow": [
+    "Concept:edge-deployment-flow/w/350"
+  ],
+  "edge executor": [
+    "Concept:edge-executor/w/051"
+  ],
+  "edge inference": [
+    "Concept:edge-inference/w/074"
+  ],
+  "effective batch size": [
+    "Concept:effective-batch-size/w/151"
+  ],
+  "efficiently accelerated generation with large ensembles (version 3)": [
+    "Concept:eagle-3/w/080"
+  ],
+  "egress / data-transfer cost": [
+    "Concept:egress-data-transfer-cost/w/004"
+  ],
+  "egress allowlist": [
+    "Concept:egress-allowlist/w/102",
+    "Concept:egress-allowlist/w/103"
+  ],
+  "ekm": [
+    "Concept:ekm/w/164"
+  ],
+  "electricity forecast": [
+    "Concept:iea/w/460"
+  ],
+  "elementary": [
+    "Concept:elementary/w/035"
+  ],
+  "elt": [
+    "Concept:elt/w/036",
+    "Concept:elt/w/052"
+  ],
+  "embedding drift": [
+    "Concept:embedding-drift/w/080",
+    "Concept:embedding-drift/w/137",
+    "Concept:embedding-drift/w/138"
+  ],
+  "emergent misalignment": [
+    "Concept:emergent-misalignment/w/106"
+  ],
+  "empirical neural tangent kernel": [
+    "Concept:entk/w/089"
+  ],
+  "empty observation": [
+    "Concept:empty-observation/w/046"
+  ],
+  "empty-think vs no-think": [
+    "Concept:empty-think-vs-no-think/w/127"
+  ],
+  "encode-prefill-decode": [
+    "Concept:epd/w/255"
+  ],
+  "encode-prefill-decode, 2 encoders to 1 prefill": [
+    "Concept:epd-2e1p/w/450"
+  ],
+  "end-to-end latency": [
+    "Concept:e2e-latency/w/004"
+  ],
+  "endpoint picker": [
+    "Concept:endpoint-picker/w/348"
+  ],
+  "energy-per-token": [
+    "Concept:energy-per-token/w/156"
+  ],
+  "enterprise key management": [
+    "Concept:ekm/w/164"
+  ],
+  "entity resolution": [
+    "Concept:entity-resolution/w/053"
+  ],
+  "entk": [
+    "Concept:entk/w/089"
+  ],
+  "entropy collapse": [
+    "Concept:entropy-collapse/w/118"
+  ],
+  "envelope encryption": [
+    "Concept:envelope-encryption/w/026"
+  ],
+  "envoy ai gateway": [
+    "Concept:envoy-ai-gateway/w/339"
+  ],
+  "eos / exactly-once": [
+    "Concept:eos-exactly-once/w/054"
+  ],
+  "eos token": [
+    "Concept:eos-token/w/152"
+  ],
+  "ep": [
+    "Concept:expert-parallelism/w/204",
+    "Concept:expert-parallelism/w/216"
+  ],
+  "ep_size": [
+    "Concept:ep-size/w/224"
+  ],
+  "ep_size = tp_size constraint": [
+    "Concept:ep-size-tp-size-constraint/w/250"
+  ],
+  "epd": [
+    "Concept:epd/w/255"
+  ],
+  "epd 2e1p": [
+    "Concept:epd-2e1p/w/450"
+  ],
+  "eplb": [
+    "Concept:eplb/w/219"
+  ],
+  "epoch": [
+    "Concept:epoch/w/146"
+  ],
+  "error budget": [
+    "Concept:error-budget/w/037",
+    "Concept:error-budget/w/039"
+  ],
+  "error code / taxonomy": [
+    "Concept:error-code-taxonomy/w/054"
+  ],
+  "escalation policy": [
+    "Concept:escalation-policy/w/109"
+  ],
+  "escape hatch": [
+    "Concept:escape-hatch/w/060"
+  ],
+  "etl": [
+    "Concept:etl/w/038",
+    "Concept:etl/w/056"
+  ],
+  "etlt": [
+    "Concept:etlt/w/055"
+  ],
+  "eu ai act": [
+    "Concept:eu-ai-act/w/037"
+  ],
+  "eu ai act art. 53(1)": [
+    "Concept:eu-ai-act-art-53-1/w/106"
+  ],
+  "eu ai act điều 14": [
+    "Concept:eu-ai-act-dieu-14/w/091"
+  ],
+  "eval": [
+    "Concept:evaluation/w/001"
+  ],
+  "eval gate": [
+    "Concept:eval-gate/w/060",
+    "Concept:eval-gate/w/061",
+    "Concept:eval-gate/w/127",
+    "Concept:eval-gate/w/128",
+    "Concept:eval-gate/w/129"
+  ],
+  "eval maturity ladder": [
+    "Concept:eval-maturity-ladder/w/003"
+  ],
+  "eval trên n+1": [
+    "Concept:eval-tren-n-1/w/040"
+  ],
+  "eval-as-ci": [
+    "Concept:promptfoo/w/141"
+  ],
+  "eval-as-metric": [
+    "Concept:eval-as-metric/w/082",
+    "Concept:eval-as-metric/w/183"
+  ],
+  "eval-as-metric / online eval": [
+    "Concept:eval-as-metric-online-eval/w/033"
+  ],
+  "eval-by-trace": [
+    "Concept:eval-by-trace/w/048"
+  ],
+  "eval-driven development": [
+    "Concept:eval-driven-development/w/002",
+    "Concept:eval-driven-development/w/210"
+  ],
+  "eval-on-trajectory": [
+    "Concept:eval-on-trajectory/w/119"
+  ],
+  "evals are experiments": [
+    "Concept:evals-are-experiments/w/079"
+  ],
+  "evaluation": [
+    "Concept:evaluation/w/001"
+  ],
+  "evaluator-optimizer": [
+    "Concept:evaluator-optimizer/w/015"
+  ],
+  "event loop blocking": [
+    "Concept:event-loop-blocking/w/028"
+  ],
+  "event-driven autoscaling": [
+    "Concept:event-driven-autoscaling/w/332"
+  ],
+  "event-driven scheduling": [
+    "Concept:event-driven-scheduling/w/057"
+  ],
+  "evidently ai": [
+    "Concept:evidently-ai/w/083"
+  ],
+  "exactly-once / effectively-once": [
+    "Concept:exactly-once-effectively-once/w/039"
+  ],
+  "excessive agency": [
+    "Concept:excessive-agency/w/106"
+  ],
+  "exemplar": [
+    "Concept:exemplar/w/018"
+  ],
+  "exit / migration cost": [
+    "Concept:exit-migration-cost/w/015"
+  ],
+  "expectation suite": [
+    "Concept:expectation-suite/w/030"
+  ],
+  "experiment-tracker churn": [
+    "Concept:experiment-tracker-churn/w/206"
+  ],
+  "expert parallelism": [
+    "Concept:expert-parallelism/w/204",
+    "Concept:expert-parallelism/w/216"
+  ],
+  "expert parallelism size": [
+    "Concept:ep-size/w/224"
+  ],
+  "expert-parallel load balancer": [
+    "Concept:eplb/w/219"
+  ],
+  "exponent 4 bits, mantissa 3 bits": [
+    "Concept:e4m3/w/032"
+  ],
+  "export": [
+    "Concept:export/w/020"
+  ],
+  "exporter": [
+    "Concept:exporter/w/029"
+  ],
+  "exposure bias": [
+    "Concept:exposure-bias/w/138"
+  ],
+  "extended backus-naur form": [
+    "Concept:ebnf/w/177"
+  ],
+  "externalize state": [
+    "Concept:externalize-state/w/022"
+  ],
+  "fa1": [
+    "Concept:fa1/w/091"
+  ],
+  "fa2": [
+    "Concept:fa2/w/092"
+  ],
+  "fa3": [
+    "Concept:fa3/w/093",
+    "Concept:fa3/w/165"
+  ],
+  "fa4": [
+    "Concept:fa4/w/094",
+    "Concept:fa4/w/166"
+  ],
+  "facet": [
+    "Concept:facet/w/065"
+  ],
+  "factual grounding": [
+    "Concept:factual-grounding/w/024"
+  ],
+  "fail-closed": [
+    "Concept:fail-closed/w/040",
+    "Concept:fail-closed/w/066"
+  ],
+  "fail-open": [
+    "Concept:fail-open/w/041"
+  ],
+  "fail-open vs fail-closed": [
+    "Concept:fail-open-vs-fail-closed/w/104"
+  ],
+  "failover / fallback chain": [
+    "Concept:failover-fallback-chain/w/079"
+  ],
+  "failure analysis": [
+    "Concept:failure-analysis/w/117"
+  ],
+  "failure clustering": [
+    "Concept:failure-clustering/w/123"
+  ],
+  "failure taxonomy": [
+    "Concept:failure-taxonomy/w/118"
+  ],
+  "faithfulness": [
+    "Concept:faithfulness/w/042",
+    "Concept:faithfulness/w/068",
+    "Concept:faithfulness/w/070"
+  ],
+  "faithfulness / groundedness": [
+    "Concept:faithfulness-groundedness/w/031"
+  ],
+  "faithfulness vs correctness": [
+    "Concept:faithfulness-vs-correctness/w/095"
+  ],
+  "fallback": [
+    "Concept:fallback/w/022"
+  ],
+  "fan-in / aggregation": [
+    "Concept:fan-in-aggregation/w/087"
+  ],
+  "fast burn": [
+    "Concept:fast-burn/w/048"
+  ],
+  "fastertransformer": [
+    "Concept:fastertransformer/w/148"
+  ],
+  "fcfs scheduler": [
+    "Concept:fcfs-scheduler/w/155"
+  ],
+  "feast": [
+    "Concept:feast/w/058"
+  ],
+  "feature drift": [
+    "Concept:feature-drift/w/079"
+  ],
+  "feature store": [
+    "Concept:feature-store/w/059",
+    "Concept:feature-store/w/075"
+  ],
+  "feature store ops": [
+    "Concept:feature-store-ops/w/203"
+  ],
+  "federation": [
+    "Concept:federation/w/028"
+  ],
+  "filesystem backend": [
+    "Concept:filesystem-backend/w/145"
+  ],
+  "final answer": [
+    "Concept:final-answer/w/028"
+  ],
+  "fine-tune ladder": [
+    "Concept:fine-tune-ladder/w/213"
+  ],
+  "fine-tuning": [
+    "Concept:fine-tuning/w/001"
+  ],
+  "fineweb-edu / dclm": [
+    "Concept:fineweb-edu-dclm/w/013"
+  ],
+  "finops": [
+    "Concept:finops/w/001"
+  ],
+  "finops for ai": [
+    "Concept:finops-for-ai/w/066"
+  ],
+  "finops for observability": [
+    "Concept:finops-for-observability/w/190"
+  ],
+  "finops of observability": [
+    "Concept:finops-of-observability/w/103"
+  ],
+  "finops scopes / \"cloud+\"": [
+    "Concept:finops-scopes-cloud/w/002"
+  ],
+  "first-come-first-served scheduler": [
+    "Concept:fcfs-scheduler/w/155"
+  ],
+  "five whys": [
+    "Concept:five-whys/w/104"
+  ],
+  "fivetran": [
+    "Concept:fivetran/w/061"
+  ],
+  "fixed-length i/o": [
+    "Concept:fixed-length-i-o/w/018"
+  ],
+  "flame graph": [
+    "Concept:flame-graph/w/075"
+  ],
+  "flash attention": [
+    "Concept:flash-attention/w/064"
+  ],
+  "flash multi-head latent attention": [
+    "Concept:flashmla/w/168"
+  ],
+  "flashattention": [
+    "Concept:flashattention/w/090"
+  ],
+  "flashattention v1/v2/v3": [
+    "Concept:flashattention-v1-v2-v3/w/086"
+  ],
+  "flashattention version 1": [
+    "Concept:fa1/w/091"
+  ],
+  "flashattention version 2": [
+    "Concept:fa2/w/092"
+  ],
+  "flashattention version 3": [
+    "Concept:fa3/w/093"
+  ],
+  "flashattention version 4": [
+    "Concept:fa4/w/094"
+  ],
+  "flashattention-3": [
+    "Concept:fa3/w/165"
+  ],
+  "flashattention-4": [
+    "Concept:fa4/w/166"
+  ],
+  "flashinfer": [
+    "Concept:flashinfer/w/074",
+    "Concept:flashinfer/w/167"
+  ],
+  "flashmla": [
+    "Concept:flashmla/w/072",
+    "Concept:flashmla/w/168"
+  ],
+  "flat-from-step-0 loss": [
+    "Concept:flat-from-step-0-loss/w/149"
+  ],
+  "flexattention": [
+    "Concept:flexattention/w/101"
+  ],
+  "flink": [
+    "Concept:flink/w/060"
+  ],
+  "focus": [
+    "Concept:focus/w/053"
+  ],
+  "forgetting operating rule": [
+    "Concept:forgetting-operating-rule/w/143"
+  ],
+  "form factor": [
+    "Concept:sxm/w/466"
+  ],
+  "format validation": [
+    "Concept:format-validation/w/025"
+  ],
+  "foundational p/d papers, osdi'24 / isca'24": [
+    "Concept:distserve-splitwise/w/477"
+  ],
+  "four evaluation groups": [
+    "Concept:four-evaluation-groups/w/156"
+  ],
+  "fourth pillar": [
+    "Concept:fourth-pillar/w/005"
+  ],
+  "fp16": [
+    "Concept:fp16/w/029"
+  ],
+  "fp32": [
+    "Concept:fp32/w/028"
+  ],
+  "fp4": [
+    "Concept:fp4/w/373"
+  ],
+  "fp8": [
+    "Concept:fp8/w/031",
+    "Concept:fp8/w/374"
+  ],
+  "fp8 / fp4 / awq": [
+    "Concept:fp8-fp4-awq/w/011"
+  ],
+  "fp8 embedding throughput": [
+    "Concept:fp8-embedding-throughput/w/305"
+  ],
+  "fp8 kv cache": [
+    "Concept:fp8-kv-cache/w/099"
+  ],
+  "fractional gpu": [
+    "Concept:fractional-gpu/w/033"
+  ],
+  "frame 4.1b": [
+    "Concept:method-matrix/w/038"
+  ],
+  "framework layer": [
+    "Concept:framework-layer/w/141"
+  ],
+  "freshness": [
+    "Concept:freshness/w/010",
+    "Concept:slo/w/133"
+  ],
+  "freshness ceiling": [
+    "Concept:freshness-ceiling/w/077"
+  ],
+  "freshness contract": [
+    "Concept:freshness-contract/w/043"
+  ],
+  "freshness sli": [
+    "Concept:freshness-sli/w/044"
+  ],
+  "frontier labs": [
+    "Concept:frontier-labs/w/014"
+  ],
+  "frugalgpt": [
+    "Concept:frugalgpt/w/275"
+  ],
+  "fsdp": [
+    "Concept:fsdp/w/068",
+    "Concept:fsdp/w/092"
+  ],
+  "fsdp + qlora": [
+    "Concept:fsdp-qlora/w/105"
+  ],
+  "fsf / ccl / tcl": [
+    "Concept:fsf-ccl-tcl/w/087"
+  ],
+  "fti architecture": [
+    "Concept:fti-architecture/w/062"
+  ],
+  "full fine-tuning": [
+    "Concept:full-fine-tuning/w/056"
+  ],
+  "full ft": [
+    "Concept:full-fine-tuning/w/056"
+  ],
+  "full scan / full refresh": [
+    "Concept:full-scan-full-refresh/w/045"
+  ],
+  "fully sharded data parallel": [
+    "Concept:fsdp/w/068",
+    "Concept:fsdp/w/092"
+  ],
+  "g-eval": [
+    "Concept:g-eval/w/055"
+  ],
+  "gaia": [
+    "Concept:gaia/w/046"
+  ],
+  "garak": [
+    "Concept:garak/w/054",
+    "Concept:garak/w/070"
+  ],
+  "gated deltanet": [
+    "Concept:gated-deltanet/w/049"
+  ],
+  "gateway": [
+    "Concept:gateway/w/053"
+  ],
+  "gateway api inference extension": [
+    "Concept:gateway-api-inference-extension/w/333"
+  ],
+  "gauge": [
+    "Concept:gauge/w/009",
+    "Concept:gauge/w/024"
+  ],
+  "gb200 nvl72": [
+    "Concept:gb200-nvl72/w/294",
+    "Concept:gb200-nvl72/w/365"
+  ],
+  "gdpr right to erasure": [
+    "Concept:gdpr-right-to-erasure/w/046"
+  ],
+  "gen_ai.\\* semconv": [
+    "Concept:gen-ai-semconv/w/177"
+  ],
+  "genai semantic conventions": [
+    "Concept:genai-semantic-conventions/w/074"
+  ],
+  "genaiops": [
+    "Concept:genaiops/w/193"
+  ],
+  "generalization": [
+    "Concept:generalization/w/027"
+  ],
+  "generation-hopping contamination": [
+    "Concept:generation-hopping-contamination/w/123"
+  ],
+  "generative / reasoning reward model": [
+    "Concept:generative-reasoning-reward-model/w/130"
+  ],
+  "generative pre-trained transformer quantization": [
+    "Concept:gptq/w/038"
+  ],
+  "genetic-pareto reflective prompt evolution": [
+    "Concept:gepa/w/114"
+  ],
+  "gepa": [
+    "Concept:gepa/w/114"
+  ],
+  "gguf": [
+    "Concept:gguf/w/039",
+    "Concept:gguf/w/353"
+  ],
+  "gguf / awq": [
+    "Concept:gguf-awq/w/164"
+  ],
+  "gguf / awq / q4_k_m / vllm / llama.cpp": [
+    "Concept:gguf-awq-q4-k-m-vllm-llama-cpp/w/075"
+  ],
+  "gguf 2.6-bit k-quant": [
+    "Concept:q2-k/w/044"
+  ],
+  "gguf 4-bit k-quant, medium size": [
+    "Concept:q4-k-m/w/040"
+  ],
+  "ghost vectors": [
+    "Concept:ghost-vectors/w/047"
+  ],
+  "git-native": [
+    "Concept:git-native/w/018"
+  ],
+  "github": [
+    "Concept:push-protection/w/050"
+  ],
+  "gitleaks": [
+    "Concept:gitleaks/w/028"
+  ],
+  "giải quyết xung đột": [
+    "Concept:conflict-resolution/w/063"
+  ],
+  "god agent / god supervisor": [
+    "Concept:god-agent-god-supervisor/w/007"
+  ],
+  "gold": [
+    "Concept:gold/w/064"
+  ],
+  "golden dataset": [
+    "Concept:golden-dataset/w/012"
+  ],
+  "golden eval set": [
+    "Concept:golden-eval-set/w/065"
+  ],
+  "golden set": [
+    "Concept:golden-set/w/062",
+    "Concept:golden-set/w/063"
+  ],
+  "golden signals": [
+    "Concept:golden-signals/w/007",
+    "Concept:golden-signals/w/015"
+  ],
+  "gom cụm lỗi": [
+    "Concept:failure-clustering/w/123"
+  ],
+  "goodhart's law": [
+    "Concept:goodhart-s-law/w/025",
+    "Concept:goodhart-s-law/w/109"
+  ],
+  "goodput": [
+    "Concept:goodput/w/006",
+    "Concept:goodput/w/199",
+    "Concept:goodput/w/398",
+    "Concept:goodput/w/399",
+    "Concept:goodput/w/400"
+  ],
+  "goodput@slo": [
+    "Concept:goodput-slo/w/412"
+  ],
+  "google remote procedure call": [
+    "Concept:grpc/w/023"
+  ],
+  "google sre": [
+    "Concept:golden-signals/w/015"
+  ],
+  "google sre workbook": [
+    "Concept:multi-window-multi-burn-rate/w/047"
+  ],
+  "google tpu v7 ironwood": [
+    "Concept:google-tpu-v7-ironwood/w/370"
+  ],
+  "google, 4/2026": [
+    "Concept:agent-identity/w/138"
+  ],
+  "governed tag": [
+    "Concept:governed-tag/w/029"
+  ],
+  "gpqa diamond": [
+    "Concept:gpqa-diamond/w/028"
+  ],
+  "gpt open source 20 billion parameter model": [
+    "Concept:gpt-oss-20b/w/459"
+  ],
+  "gpt-4o sycophancy rollback": [
+    "Concept:gpt-4o-sycophancy-rollback/w/108"
+  ],
+  "gpt-generated unified format": [
+    "Concept:gguf/w/039",
+    "Concept:gguf/w/353"
+  ],
+  "gpt-oss-20b": [
+    "Concept:gpt-oss-20b/w/459"
+  ],
+  "gptcache": [
+    "Concept:gptcache/w/302"
+  ],
+  "gptq": [
+    "Concept:gptq/w/038"
+  ],
+  "gptq calibration": [
+    "Concept:inverse-hessian/w/055"
+  ],
+  "gpu": [
+    "Concept:right-sizing/w/408"
+  ],
+  "gpu architecture": [
+    "Concept:blackwell/w/058",
+    "Concept:hopper/w/057"
+  ],
+  "gpu confidential computing": [
+    "Concept:gpu-confidential-computing/w/286"
+  ],
+  "gpu tee": [
+    "Concept:gpu-tee/w/030"
+  ],
+  "gpu utilization": [
+    "Concept:gpu-utilization/w/324"
+  ],
+  "gpu-backed debt": [
+    "Concept:gpu-backed-debt/w/014"
+  ],
+  "gpu-util%": [
+    "Concept:gpu-util/w/149"
+  ],
+  "gpu_util": [
+    "Concept:gpu-util/w/148"
+  ],
+  "gqa": [
+    "Concept:gqa/w/069"
+  ],
+  "grace blackwell 200 nvlink 72": [
+    "Concept:gb200-nvl72/w/365"
+  ],
+  "grace blackwell 200 nvlink 72-gpu": [
+    "Concept:gb200-nvl72/w/294"
+  ],
+  "graceful degradation": [
+    "Concept:graceful-degradation/w/406",
+    "Concept:graceful-degradation/w/407"
+  ],
+  "graceful shutdown": [
+    "Concept:graceful-shutdown/w/056"
+  ],
+  "gradient checkpointing": [
+    "Concept:gradient-checkpointing/w/063",
+    "Concept:gradient-checkpointing/w/088"
+  ],
+  "grafana": [
+    "Concept:grafana/w/034"
+  ],
+  "grafana alloy": [
+    "Concept:grafana-alloy/w/167"
+  ],
+  "grafana cloud": [
+    "Concept:grafana-cloud/w/093"
+  ],
+  "grafonnet": [
+    "Concept:grafonnet/w/040"
+  ],
+  "grammar-constrained decoding": [
+    "Concept:ebnf/w/177"
+  ],
+  "granite-docling": [
+    "Concept:vlm-parsing/w/153"
+  ],
+  "graphrag": [
+    "Concept:graphrag/w/066"
+  ],
+  "graphrag / lightrag / lazygraphrag": [
+    "Concept:graphrag-lightrag-lazygraphrag/w/212"
+  ],
+  "great expectations": [
+    "Concept:great-expectations/w/048",
+    "Concept:great-expectations/w/049"
+  ],
+  "greenllm": [
+    "Concept:greenllm/w/282"
+  ],
+  "groq lpu": [
+    "Concept:groq-lpu/w/372"
+  ],
+  "group relative policy optimization": [
+    "Concept:grpo/w/064"
+  ],
+  "group report / individual report": [
+    "Concept:group-report-individual-report/w/065"
+  ],
+  "group sequence policy optimization": [
+    "Concept:gspo/w/121"
+  ],
+  "grouped query attention": [
+    "Concept:gqa/w/069"
+  ],
+  "grpc": [
+    "Concept:grpc/w/023"
+  ],
+  "grpo": [
+    "Concept:grpo/w/063",
+    "Concept:grpo/w/064"
+  ],
+  "gsm1k": [
+    "Concept:gsm1k/w/031"
+  ],
+  "gspo": [
+    "Concept:gspo/w/121"
+  ],
+  "gspo recipe": [
+    "Concept:qwen3/w/152"
+  ],
+  "guardrail config": [
+    "Concept:guardrail-config/w/011"
+  ],
+  "guardrail evaluation": [
+    "Concept:guardrail-evaluation/w/007"
+  ],
+  "guardrail telemetry": [
+    "Concept:guardrail-telemetry/w/185"
+  ],
+  "guardrails": [
+    "Concept:guardrails/w/001",
+    "Concept:guardrails/w/038"
+  ],
+  "guardrails ai": [
+    "Concept:guardrails-ai/w/035"
+  ],
+  "gx": [
+    "Concept:great-expectations/w/048"
+  ],
+  "gx (great expectations) core 1.0": [
+    "Concept:gx-great-expectations-core-1-0/w/067"
+  ],
+  "gx core 1.0": [
+    "Concept:great-expectations/w/049"
+  ],
+  "gx fluent api chain": [
+    "Concept:gx-fluent-api-chain/w/029"
+  ],
+  "h100": [
+    "Concept:h100/w/025"
+  ],
+  "hallucinated args": [
+    "Concept:hallucinated-args/w/045"
+  ],
+  "hallucinated tool": [
+    "Concept:hallucinated-tool/w/044"
+  ],
+  "hallucination": [
+    "Concept:hallucination/w/007",
+    "Concept:hallucination/w/119"
+  ],
+  "hallucination rate": [
+    "Concept:hallucination-rate/w/030"
+  ],
+  "hallucination-as-reward": [
+    "Concept:hallucination-as-reward/w/159"
+  ],
+  "handoff": [
+    "Concept:handoff/w/017"
+  ],
+  "hard cap vs spend alert": [
+    "Concept:hard-cap-vs-spend-alert/w/134"
+  ],
+  "harmbench": [
+    "Concept:harmbench/w/051"
+  ],
+  "harness": [
+    "Concept:harness/w/165",
+    "Concept:harness/w/166"
+  ],
+  "harness engineering": [
+    "Concept:harness-engineering/w/073"
+  ],
+  "hbm": [
+    "Concept:hbm/w/113"
+  ],
+  "hbm supply constraint": [
+    "Concept:hbm-supply-constraint/w/378"
+  ],
+  "hbm3e": [
+    "Concept:hbm3e/w/362"
+  ],
+  "hbm4": [
+    "Concept:hbm4/w/363"
+  ],
+  "head / tail": [
+    "Concept:sampling/w/029"
+  ],
+  "head-based sampling": [
+    "Concept:head-based-sampling/w/069"
+  ],
+  "health check": [
+    "Concept:health-check/w/403"
+  ],
+  "heartbeat / keep-alive": [
+    "Concept:heartbeat-keep-alive/w/018"
+  ],
+  "helicone": [
+    "Concept:helicone/w/087"
+  ],
+  "helm": [
+    "Concept:helm/w/034"
+  ],
+  "helm chart": [
+    "Concept:helm-chart/w/345"
+  ],
+  "helpful, harmless, honest": [
+    "Concept:hhh/w/005"
+  ],
+  "helpfulness 1–5": [
+    "Concept:helpfulness-1-5/w/073"
+  ],
+  "helpsteer": [
+    "Concept:helpsteer/w/132"
+  ],
+  "helpsteer2 / helpsteer3": [
+    "Concept:helpsteer/w/132"
+  ],
+  "hf transformers": [
+    "Concept:hf-transformers/w/146"
+  ],
+  "hhh": [
+    "Concept:hhh/w/005"
+  ],
+  "hicache": [
+    "Concept:hicache/w/164"
+  ],
+  "hierarchical": [
+    "Concept:hierarchical/w/013"
+  ],
+  "hierarchical / parent-child chunking": [
+    "Concept:hierarchical-parent-child-chunking/w/068"
+  ],
+  "high bandwidth memory": [
+    "Concept:hbm/w/113"
+  ],
+  "high bandwidth memory 3e": [
+    "Concept:hbm3e/w/362"
+  ],
+  "high bandwidth memory 4": [
+    "Concept:hbm4/w/363"
+  ],
+  "high bandwidth memory supply constraint": [
+    "Concept:hbm-supply-constraint/w/378"
+  ],
+  "hightouch": [
+    "Concept:hightouch/w/069"
+  ],
+  "histogram": [
+    "Concept:histogram/w/010",
+    "Concept:histogram/w/025"
+  ],
+  "hit rate@k": [
+    "Concept:hit-rate-k/w/016"
+  ],
+  "hitl": [
+    "Concept:hitl/w/006",
+    "Concept:human-in-the-loop/w/058"
+  ],
+  "hle": [
+    "Concept:hle/w/039"
+  ],
+  "holistic evaluation of language models": [
+    "Concept:helm/w/034"
+  ],
+  "holt-winters / prophet / stl": [
+    "Concept:holt-winters-prophet-stl/w/042"
+  ],
+  "homogeneity attack": [
+    "Concept:homogeneity-attack/w/031"
+  ],
+  "honeycomb": [
+    "Concept:honeycomb/w/096"
+  ],
+  "hook / middleware": [
+    "Concept:hook-middleware/w/091"
+  ],
+  "hopper": [
+    "Concept:hopper/w/057"
+  ],
+  "hopper ppcie": [
+    "Concept:hopper-ppcie/w/295"
+  ],
+  "hopper protected pcie": [
+    "Concept:hopper-ppcie/w/295"
+  ],
+  "horizontal pod autoscaler": [
+    "Concept:hpa/w/338"
+  ],
+  "horizontal scaling": [
+    "Concept:horizontal-scaling/w/051"
+  ],
+  "hpa": [
+    "Concept:hpa/w/338"
+  ],
+  "hugging face transformers": [
+    "Concept:hf-transformers/w/146"
+  ],
+  "human review trigger": [
+    "Concept:human-review-trigger/w/026"
+  ],
+  "human-as-tiebreaker": [
+    "Concept:human-as-tiebreaker/w/046"
+  ],
+  "human-in-the-loop": [
+    "Concept:hitl/w/006",
+    "Concept:human-in-the-loop/w/045",
+    "Concept:human-in-the-loop/w/058"
+  ],
+  "human-in-the-loop evaluation": [
+    "Concept:human-in-the-loop-evaluation/w/008"
+  ],
+  "human-in-the-loop tasks": [
+    "Concept:human-in-the-loop-tasks/w/070"
+  ],
+  "human-on-the-loop": [
+    "Concept:human-on-the-loop/w/044"
+  ],
+  "humanity's last exam": [
+    "Concept:hle/w/039"
+  ],
+  "humanloop": [
+    "Concept:humanloop/w/067"
+  ],
+  "husain & shankar": [
+    "Concept:eval-maturity-ladder/w/003"
+  ],
+  "hybrid": [
+    "Concept:hybrid/w/076"
+  ],
+  "hybrid attention": [
+    "Concept:hybrid-attention/w/051"
+  ],
+  "hybrid pattern": [
+    "Concept:hybrid-pattern/w/058"
+  ],
+  "hybrid retrieval": [
+    "Concept:hybrid-retrieval/w/071"
+  ],
+  "hybridflow": [
+    "Concept:verl/w/151"
+  ],
+  "hyperparameter invariance": [
+    "Concept:hyperparameter-invariance/w/086"
+  ],
+  "hyperscaler": [
+    "Concept:hyperscaler/w/013"
+  ],
+  "i-quant": [
+    "Concept:i-quant/w/042"
+  ],
+  "i-quant / imatrix": [
+    "Concept:iq4-xs/w/391"
+  ],
+  "iac": [
+    "Concept:iac/w/473"
+  ],
+  "ia³": [
+    "Concept:ia/w/076"
+  ],
+  "ib": [
+    "Concept:infiniband/w/236"
+  ],
+  "iceberg puffin": [
+    "Concept:iceberg-puffin/w/099"
+  ],
+  "idempotency": [
+    "Concept:idempotency/w/049",
+    "Concept:idempotency/w/072"
+  ],
+  "idempotency key": [
+    "Concept:idempotency-key/w/094",
+    "Concept:idempotency-key/w/095",
+    "Concept:idempotency-key/w/096"
+  ],
+  "idempotent resume": [
+    "Concept:idempotent-resume/w/065"
+  ],
+  "identity preference optimization": [
+    "Concept:ipo/w/037"
+  ],
+  "idle timeout": [
+    "Concept:idle-timeout/w/113"
+  ],
+  "idle-heavy workload": [
+    "Concept:idle-heavy-workload/w/116"
+  ],
+  "iea": [
+    "Concept:iea/w/460"
+  ],
+  "image scanning": [
+    "Concept:image-scanning/w/010"
+  ],
+  "image-embedding hash": [
+    "Concept:sha-256/w/453"
+  ],
+  "image-token explosion": [
+    "Concept:image-token-explosion/w/253"
+  ],
+  "imatrix": [
+    "Concept:imatrix/w/043"
+  ],
+  "immutable snapshot": [
+    "Concept:version-bat-bien/w/013"
+  ],
+  "immutable version": [
+    "Concept:version-bat-bien/w/013"
+  ],
+  "impact analysis": [
+    "Concept:impact-analysis/w/072"
+  ],
+  "implementation tiers": [
+    "Concept:implementation-tiers/w/073"
+  ],
+  "implicit reward": [
+    "Concept:implicit-reward/w/019"
+  ],
+  "importance matrix": [
+    "Concept:imatrix/w/043"
+  ],
+  "importance-aware quantization 4-bit extra small": [
+    "Concept:iq4-xs/w/391"
+  ],
+  "importance-based quant (gguf imatrix-guided)": [
+    "Concept:i-quant/w/042"
+  ],
+  "in a vector index": [
+    "Concept:acl-metadata/w/002"
+  ],
+  "in-browser model": [
+    "Concept:in-browser-model/w/071"
+  ],
+  "in-flight batching": [
+    "Concept:in-flight-batching/w/085"
+  ],
+  "inception labs": [
+    "Concept:mercury/w/315"
+  ],
+  "incident drill": [
+    "Concept:dien-tap/w/037"
+  ],
+  "incremental": [
+    "Concept:upsert/w/090"
+  ],
+  "incremental load": [
+    "Concept:incremental-load/w/074"
+  ],
+  "indirect prompt injection": [
+    "Concept:indirect-prompt-injection/w/032"
+  ],
+  "inference-time alignment": [
+    "Concept:inference-time-alignment/w/154"
+  ],
+  "inferencemodel": [
+    "Concept:inferencemodel/w/347"
+  ],
+  "inferencepool": [
+    "Concept:inferencepool/w/346"
+  ],
+  "infiniband": [
+    "Concept:infiniband/w/236"
+  ],
+  "infrastructure as code": [
+    "Concept:iac/w/473"
+  ],
+  "inherited property": [
+    "Concept:inherited-property/w/012"
+  ],
+  "inhibition": [
+    "Concept:inhibition/w/055"
+  ],
+  "injection detection": [
+    "Concept:injection-detection/w/022"
+  ],
+  "input validation": [
+    "Concept:input-validation/w/019"
+  ],
+  "input/output asymmetry": [
+    "Concept:input-output-asymmetry/w/046"
+  ],
+  "inputschema": [
+    "Concept:inputschema/w/039"
+  ],
+  "instructgpt 1.3b vs gpt-3 175b": [
+    "Concept:instructgpt-1-3b-vs-gpt-3-175b/w/008"
+  ],
+  "instruction hierarchy": [
+    "Concept:instruction-hierarchy/w/028"
+  ],
+  "instrumental convergence": [
+    "Concept:instrumental-convergence/w/017"
+  ],
+  "int4": [
+    "Concept:int4/w/034"
+  ],
+  "int8": [
+    "Concept:int8/w/033"
+  ],
+  "inter-token latency": [
+    "Concept:itl/w/003"
+  ],
+  "interleaving": [
+    "Concept:interleaving/w/135"
+  ],
+  "international energy agency": [
+    "Concept:iea/w/460"
+  ],
+  "inverse hessian": [
+    "Concept:inverse-hessian/w/055"
+  ],
+  "io-awareness": [
+    "Concept:io-awareness/w/095"
+  ],
+  "ipo": [
+    "Concept:ipo/w/037"
+  ],
+  "iq4_xs": [
+    "Concept:iq4-xs/w/391"
+  ],
+  "ironies of automation": [
+    "Concept:ironies-of-automation/w/069"
+  ],
+  "ironwood": [
+    "Concept:ironwood/w/467"
+  ],
+  "iso/iec 42001": [
+    "Concept:iso-iec-42001/w/094"
+  ],
+  "isolation forest": [
+    "Concept:isolation-forest/w/043"
+  ],
+  "iterative dpo": [
+    "Concept:iterative-dpo/w/055"
+  ],
+  "itl": [
+    "Concept:itl/w/003"
+  ],
+  "itpm exemption for cached reads": [
+    "Concept:itpm-exemption-for-cached-reads/w/136"
+  ],
+  "jaeger": [
+    "Concept:jaeger/w/066"
+  ],
+  "jailbreak": [
+    "Concept:jailbreak/w/009"
+  ],
+  "jailbreakbench": [
+    "Concept:jailbreakbench/w/052"
+  ],
+  "jamba": [
+    "Concept:jamba/w/077"
+  ],
+  "jensen-shannon": [
+    "Concept:jensen-shannon/w/048"
+  ],
+  "job / run / dataset": [
+    "Concept:job-run-dataset/w/064"
+  ],
+  "journal / replay": [
+    "Concept:journal-replay/w/097"
+  ],
+  "js": [
+    "Concept:jensen-shannon/w/048"
+  ],
+  "json schema": [
+    "Concept:json-schema/w/176"
+  ],
+  "json-rpc": [
+    "Concept:json-rpc/w/036"
+  ],
+  "json_schema": [
+    "Concept:response-format/w/424"
+  ],
+  "judge drift": [
+    "Concept:judge-drift/w/035",
+    "Concept:judge-drift/w/111"
+  ],
+  "judge price menu": [
+    "Concept:judge-price-menu/w/097"
+  ],
+  "judge-recall trap": [
+    "Concept:judge-recall-trap/w/184"
+  ],
+  "judgebench": [
+    "Concept:judgebench/w/146"
+  ],
+  "k-anonymity": [
+    "Concept:k-anonymity/w/033"
+  ],
+  "k-quant": [
+    "Concept:k-quant/w/041"
+  ],
+  "k-shingle": [
+    "Concept:k-shingle/w/075"
+  ],
+  "k6": [
+    "Concept:k6/w/401"
+  ],
+  "k6 / locust": [
+    "Concept:k6-locust/w/145"
+  ],
+  "kafka": [
+    "Concept:kafka/w/076"
+  ],
+  "kafka kip-1150": [
+    "Concept:diskless-streaming/w/034"
+  ],
+  "kahneman & tversky 1979": [
+    "Concept:prospect-theory/w/036"
+  ],
+  "kahneman-tversky optimization": [
+    "Concept:kto/w/035"
+  ],
+  "kappa architecture": [
+    "Concept:kappa-architecture/w/077"
+  ],
+  "karpenter / keda / kueue": [
+    "Concept:karpenter-keda-kueue/w/037"
+  ],
+  "kda": [
+    "Concept:kda/w/050"
+  ],
+  "keda": [
+    "Concept:keda/w/317",
+    "Concept:keda/w/411"
+  ],
+  "kek": [
+    "Concept:kek/w/034"
+  ],
+  "kernel fusion": [
+    "Concept:kernel-fusion/w/106"
+  ],
+  "kestra": [
+    "Concept:kestra/w/078"
+  ],
+  "key encryption key": [
+    "Concept:kek/w/034"
+  ],
+  "key-value cache": [
+    "Concept:kv-cache/w/083"
+  ],
+  "key-value cache transfer over nvlink or infiniband": [
+    "Concept:kv-transfer/w/190"
+  ],
+  "khai tử": [
+    "Concept:model-deprecation/w/038"
+  ],
+  "khi agent thắng": [
+    "Concept:khi-agent-thang/w/057"
+  ],
+  "khi chatbot thắng": [
+    "Concept:khi-chatbot-thang/w/056"
+  ],
+  "khoá chân": [
+    "Concept:rui-ro-nha-cung-cap/w/019"
+  ],
+  "kilowatts per rack": [
+    "Concept:kw-per-rack/w/464"
+  ],
+  "kimi delta attention": [
+    "Concept:kda/w/050"
+  ],
+  "kimi-k2": [
+    "Concept:kimi-k2/w/428"
+  ],
+  "kip-1150": [
+    "Concept:diskless-topics/w/043",
+    "Concept:kip-1150/w/080"
+  ],
+  "kip-890": [
+    "Concept:kip-890/w/079"
+  ],
+  "kiểm tra cảm tính": [
+    "Concept:vibe-check/w/004"
+  ],
+  "kl divergence": [
+    "Concept:kl-divergence/w/050",
+    "Concept:kl-divergence/w/051"
+  ],
+  "kl divergence d_kl": [
+    "Concept:kl-divergence-d-kl/w/017"
+  ],
+  "kl-regularized rl objective": [
+    "Concept:kl-regularized-rl-objective/w/016"
+  ],
+  "knative": [
+    "Concept:knative/w/318"
+  ],
+  "kolmogorov–smirnov": [
+    "Concept:ks/w/046"
+  ],
+  "kraft": [
+    "Concept:kraft/w/081"
+  ],
+  "krippendorff's alpha": [
+    "Concept:krippendorff-s-alpha/w/090"
+  ],
+  "ks": [
+    "Concept:ks/w/046"
+  ],
+  "kserve": [
+    "Concept:kserve/w/335"
+  ],
+  "kto": [
+    "Concept:kto/w/035"
+  ],
+  "kubecost / opencost": [
+    "Concept:kubecost-opencost/w/059"
+  ],
+  "kubernetes event-driven autoscaler": [
+    "Concept:keda/w/317"
+  ],
+  "kubernetes event-driven autoscaling": [
+    "Concept:keda/w/411"
+  ],
+  "kullback–leibler": [
+    "Concept:kl-divergence/w/050"
+  ],
+  "kv cache": [
+    "Concept:kv-cache/w/082",
+    "Concept:kv-cache/w/083",
+    "Concept:page-table/w/152"
+  ],
+  "kv cache page": [
+    "Concept:physical-page/w/151"
+  ],
+  "kv cache quantization": [
+    "Concept:kv-cache-quantization/w/099"
+  ],
+  "kv injection": [
+    "Concept:kv-injection/w/127"
+  ],
+  "kv timing side-channel": [
+    "Concept:kv-timing-side-channel/w/290"
+  ],
+  "kv transfer": [
+    "Concept:kv-transfer/w/190"
+  ],
+  "kv-cache": [
+    "Concept:kv-cache/w/084"
+  ],
+  "kv-cache tiering": [
+    "Concept:kv-cache-tiering/w/048"
+  ],
+  "kv-cache-aware routing": [
+    "Concept:kv-cache-aware-routing/w/163"
+  ],
+  "kw per rack": [
+    "Concept:kw-per-rack/w/464"
+  ],
+  "kết quả vs hành trình": [
+    "Concept:outcome-vs-trajectory/w/010"
+  ],
+  "l-diversity": [
+    "Concept:l-diversity/w/035"
+  ],
+  "lab 3": [
+    "Concept:lab-3/w/060"
+  ],
+  "lab verify gate": [
+    "Concept:lab-verify-gate/w/147"
+  ],
+  "label cardinality budget": [
+    "Concept:label-cardinality-budget/w/032"
+  ],
+  "label di động": [
+    "Concept:label-di-dong/w/014"
+  ],
+  "label pointer": [
+    "Concept:label-di-dong/w/014"
+  ],
+  "lakeflow declarative pipelines": [
+    "Concept:lakeflow-declarative-pipelines/w/082"
+  ],
+  "lakefs": [
+    "Concept:lakefs/w/083"
+  ],
+  "lakehouse": [
+    "Concept:lakehouse/w/051"
+  ],
+  "lakehouse-native observability": [
+    "Concept:lakehouse-native-observability/w/098"
+  ],
+  "lambda": [
+    "Concept:response-streaming/w/110"
+  ],
+  "lambda architecture": [
+    "Concept:lambda-architecture/w/084"
+  ],
+  "langfuse": [
+    "Concept:langfuse/w/065",
+    "Concept:langfuse/w/086"
+  ],
+  "langgraph": [
+    "Concept:checkpointer/w/058",
+    "Concept:langgraph/w/041",
+    "Concept:langgraph/w/051"
+  ],
+  "langkit / whylogs": [
+    "Concept:langkit-whylogs/w/089"
+  ],
+  "langsmith": [
+    "Concept:langsmith/w/066",
+    "Concept:langsmith/w/085"
+  ],
+  "langsmith / langfuse / arize phoenix / openllmetry": [
+    "Concept:langsmith-langfuse-arize-phoenix-openllmetry/w/066"
+  ],
+  "language processing unit": [
+    "Concept:groq-lpu/w/372"
+  ],
+  "late chunking": [
+    "Concept:late-chunking/w/085",
+    "Concept:late-chunking/w/264"
+  ],
+  "late data / watermark": [
+    "Concept:late-data-watermark/w/086"
+  ],
+  "late-arriving data": [
+    "Concept:late-arriving-data/w/052"
+  ],
+  "latency": [
+    "Concept:latency/w/051"
+  ],
+  "law 91/2025": [
+    "Concept:vn-pdpl/w/191",
+    "Concept:vn-pdpl/w/192"
+  ],
+  "lazygraphrag / lightrag": [
+    "Concept:lazygraphrag-lightrag/w/087"
+  ],
+  "leaderboard illusion": [
+    "Concept:leaderboard-illusion/w/148"
+  ],
+  "least privilege": [
+    "Concept:least-privilege/w/036"
+  ],
+  "least-busy routing": [
+    "Concept:least-busy-routing/w/322"
+  ],
+  "lecture → lab": [
+    "Concept:bridge/w/061"
+  ],
+  "leiden": [
+    "Concept:community-summary/w/023"
+  ],
+  "length hacking": [
+    "Concept:length-hacking/w/027"
+  ],
+  "length-normalized": [
+    "Concept:length-normalized/w/034"
+  ],
+  "leniency bias": [
+    "Concept:leniency-bias/w/098"
+  ],
+  "lethal trifecta": [
+    "Concept:lethal-trifecta/w/014",
+    "Concept:lethal-trifecta/w/101",
+    "Concept:lethal-trifecta/w/102",
+    "Concept:lethal-trifecta/w/103",
+    "Concept:lethal-trifecta/w/104"
+  ],
+  "likelihood displacement": [
+    "Concept:likelihood-displacement/w/025"
+  ],
+  "likelihood-displacement mitigation": [
+    "Concept:ches-filter/w/115"
+  ],
+  "lima / superficial alignment hypothesis": [
+    "Concept:lima-superficial-alignment-hypothesis/w/103"
+  ],
+  "lineage": [
+    "Concept:lineage/w/053",
+    "Concept:lineage/w/054",
+    "Concept:root-cause-analysis/w/073"
+  ],
+  "lineage across the ai stack": [
+    "Concept:lineage-across-the-ai-stack/w/074"
+  ],
+  "lineage as compliance superpower": [
+    "Concept:lineage-as-compliance-superpower/w/107"
+  ],
+  "litellm": [
+    "Concept:litellm/w/060"
+  ],
+  "livebench / gsm1k": [
+    "Concept:livebench-gsm1k/w/091"
+  ],
+  "livecodebench / frontiermath": [
+    "Concept:livecodebench-frontiermath/w/033"
+  ],
+  "liveness probe": [
+    "Concept:liveness-probe/w/053"
+  ],
+  "living / year-stamped benchmark": [
+    "Concept:living-year-stamped-benchmark/w/032"
+  ],
+  "llama": [
+    "Concept:training-ban/w/168"
+  ],
+  "llama 3 / llama 4 order inversion": [
+    "Concept:llama-3-llama-4-order-inversion/w/150"
+  ],
+  "llama 4": [
+    "Concept:llama-4/w/452"
+  ],
+  "llama 4 / style control incident": [
+    "Concept:llama-4-style-control-incident/w/038"
+  ],
+  "llama community license": [
+    "Concept:llama-community-license/w/167"
+  ],
+  "llama guard / prompt guard": [
+    "Concept:llama-guard-prompt-guard/w/036"
+  ],
+  "llama-3-70b": [
+    "Concept:llama-3-70b/w/026"
+  ],
+  "llama-3-8b": [
+    "Concept:llama-3-8b/w/414"
+  ],
+  "llama-as-judge backbone": [
+    "Concept:llama-as-judge-backbone/w/060"
+  ],
+  "llama-cpp-python": [
+    "Concept:llama-cpp-python/w/475"
+  ],
+  "llama-server": [
+    "Concept:llama-server/w/476"
+  ],
+  "llama.cpp": [
+    "Concept:llama-cpp/w/143",
+    "Concept:llama-cpp/w/358"
+  ],
+  "llguidance": [
+    "Concept:llguidance/w/175"
+  ],
+  "llm chatbot": [
+    "Concept:llm-chatbot/w/002"
+  ],
+  "llm core": [
+    "Concept:reasoning/w/018"
+  ],
+  "llm gateway / control plane": [
+    "Concept:llm-gateway-control-plane/w/214"
+  ],
+  "llm gateway / proxy": [
+    "Concept:llm-gateway-proxy/w/049"
+  ],
+  "llm gateway / router": [
+    "Concept:llm-gateway-router/w/078"
+  ],
+  "llm làm giám khảo": [
+    "Concept:llm-as-judge/w/053"
+  ],
+  "llm-as-judge": [
+    "Concept:llm-as-judge/w/031",
+    "Concept:llm-as-judge/w/034",
+    "Concept:llm-as-judge/w/053",
+    "Concept:llm-as-judge/w/089"
+  ],
+  "llm-as-judge for data": [
+    "Concept:llm-as-judge-for-data/w/094"
+  ],
+  "llm-d": [
+    "Concept:llm-d/w/139",
+    "Concept:llm-d/w/334"
+  ],
+  "llm-observability tools": [
+    "Concept:llm-observability-tools/w/050"
+  ],
+  "llmflation": [
+    "Concept:llmflation/w/038"
+  ],
+  "llmgraphtransformer": [
+    "Concept:llmgraphtransformer/w/090"
+  ],
+  "llmops": [
+    "Concept:llmops/w/001"
+  ],
+  "lmcache": [
+    "Concept:kv-cache-tiering/w/048",
+    "Concept:lmcache/w/162"
+  ],
+  "lmdeploy": [
+    "Concept:lmdeploy/w/140"
+  ],
+  "load balancer": [
+    "Concept:load-balancer/w/316"
+  ],
+  "local-first": [
+    "Concept:local-first/w/174"
+  ],
+  "locality-sensitive hashing": [
+    "Concept:lsh/w/091"
+  ],
+  "locust": [
+    "Concept:locust/w/400"
+  ],
+  "log": [
+    "Concept:log/w/010"
+  ],
+  "log aggregation": [
+    "Concept:log-aggregation/w/021"
+  ],
+  "log levels": [
+    "Concept:log-levels/w/017"
+  ],
+  "log-based cdc": [
+    "Concept:log-based-cdc/w/054"
+  ],
+  "log-ratio": [
+    "Concept:log-ratio/w/021"
+  ],
+  "logical kv block": [
+    "Concept:logical-kv-block/w/150"
+  ],
+  "logit distillation": [
+    "Concept:logit-distillation/w/034"
+  ],
+  "logql": [
+    "Concept:logql/w/043"
+  ],
+  "loki": [
+    "Concept:loki/w/042"
+  ],
+  "long horizon": [
+    "Concept:long-horizon/w/011"
+  ],
+  "long-context extension": [
+    "Concept:long-context-extension/w/022"
+  ],
+  "long-running request": [
+    "Concept:long-running-request/w/013"
+  ],
+  "long-term memory": [
+    "Concept:long-term-memory/w/021"
+  ],
+  "longrope / longrope2": [
+    "Concept:longrope-longrope2/w/027"
+  ],
+  "look-ahead / temporal leakage": [
+    "Concept:look-ahead-temporal-leakage/w/079"
+  ],
+  "lookahead decoding": [
+    "Concept:lookahead-decoding/w/082"
+  ],
+  "loop count": [
+    "Concept:loop-count/w/053"
+  ],
+  "loop detection": [
+    "Concept:loop-detection/w/116"
+  ],
+  "loop signal": [
+    "Concept:loop-signal/w/039"
+  ],
+  "lora": [
+    "Concept:lora/w/080"
+  ],
+  "lora overlap loading": [
+    "Concept:lora-overlap-loading/w/214"
+  ],
+  "lora+": [
+    "Concept:lora/w/097"
+  ],
+  "loss masking": [
+    "Concept:loss-masking/w/112"
+  ],
+  "loss spike": [
+    "Concept:loss-spike/w/148"
+  ],
+  "lost-in-the-middle": [
+    "Concept:lost-in-the-middle/w/005"
+  ],
+  "low-rank adaptation": [
+    "Concept:lora/w/080"
+  ],
+  "low-regret regime": [
+    "Concept:low-regret-regime/w/087"
+  ],
+  "lsh": [
+    "Concept:lsh/w/091"
+  ],
+  "luật 91/2025/qh15": [
+    "Concept:pdpl/w/065"
+  ],
+  "luật bvdlcn 2025": [
+    "Concept:luat-bvdlcn-2025/w/038"
+  ],
+  "luật bvdlcn 91/2025/qh15": [
+    "Concept:luat-bvdlcn-91-2025-qh15/w/088"
+  ],
+  "luật trí tuệ nhân tạo 134/2025/qh15": [
+    "Concept:luat-tri-tue-nhan-tao-134-2025-qh15/w/089"
+  ],
+  "lấy mẫu phân tầng": [
+    "Concept:stratified-sampling/w/013"
+  ],
+  "mab": [
+    "Concept:mab/w/127"
+  ],
+  "machine learning execution": [
+    "Concept:mlx/w/381"
+  ],
+  "machine learning performance": [
+    "Concept:mlperf/w/386"
+  ],
+  "machine learning performance power benchmark version 5.1": [
+    "Concept:mlperf-power-v5-1/w/463"
+  ],
+  "machine unlearning": [
+    "Concept:machine-unlearning/w/039"
+  ],
+  "mad": [
+    "Concept:mad/w/055",
+    "Concept:mad/w/056"
+  ],
+  "managed deep agents": [
+    "Concept:managed-deep-agents/w/148"
+  ],
+  "managed fine-tuning": [
+    "Concept:managed-fine-tuning/w/003"
+  ],
+  "managed runtime layer": [
+    "Concept:managed-runtime-layer/w/142"
+  ],
+  "manylinux / musl": [
+    "Concept:manylinux-musl/w/006"
+  ],
+  "mar": [
+    "Concept:mar/w/092"
+  ],
+  "mar archive": [
+    "Concept:mar-archive/w/022"
+  ],
+  "margin of error": [
+    "Concept:margin-of-error/w/082"
+  ],
+  "market consolidation": [
+    "Concept:market-consolidation/w/019"
+  ],
+  "markov head": [
+    "Concept:markov-head/w/129"
+  ],
+  "marquez": [
+    "Concept:marquez/w/067"
+  ],
+  "mask validation ritual": [
+    "Concept:mask-validation-ritual/w/115"
+  ],
+  "masked-think": [
+    "Concept:masked-think/w/128"
+  ],
+  "masking": [
+    "Concept:masking/w/040"
+  ],
+  "massive multitask language understanding": [
+    "Concept:mmlu/w/051"
+  ],
+  "massive text embedding benchmark": [
+    "Concept:mteb/w/455"
+  ],
+  "mast": [
+    "Concept:mast/w/079"
+  ],
+  "mast taxonomy": [
+    "Concept:mast-taxonomy/w/187"
+  ],
+  "master weights": [
+    "Concept:master-weights/w/059"
+  ],
+  "materialized view": [
+    "Concept:materialized-view/w/093"
+  ],
+  "matrix-rotation gptq": [
+    "Concept:mr-gptq/w/060"
+  ],
+  "matryoshka representation learning": [
+    "Concept:mrl/w/263"
+  ],
+  "max-autotune mode": [
+    "Concept:max-autotune-mode/w/116"
+  ],
+  "maximum mean discrepancy": [
+    "Concept:mmd/w/049"
+  ],
+  "mbu": [
+    "Concept:mbu/w/025"
+  ],
+  "mcnemar's paired test": [
+    "Concept:mcnemar-s-paired-test/w/084"
+  ],
+  "mcp": [
+    "Concept:mcp/w/056",
+    "Concept:mcp/w/057",
+    "Concept:mcp/w/094",
+    "Concept:mcp/w/222",
+    "Concept:mcp/w/223"
+  ],
+  "mcp client": [
+    "Concept:mcp-client/w/033"
+  ],
+  "mcp gateway": [
+    "Concept:mcp-gateway/w/126"
+  ],
+  "mcp registry": [
+    "Concept:mcp-registry/w/125"
+  ],
+  "mcp server": [
+    "Concept:mcp-server/w/041",
+    "Concept:mcp-server/w/042"
+  ],
+  "mcp tool/vector poisoning": [
+    "Concept:mcp-tool-vector-poisoning/w/057"
+  ],
+  "mean reciprocal rank": [
+    "Concept:mrr/w/019"
+  ],
+  "mechanistic interpretability": [
+    "Concept:mechanistic-interpretability/w/042"
+  ],
+  "medallion": [
+    "Concept:anti-patterns/w/007",
+    "Concept:medallion/w/058",
+    "Concept:medallion/w/095"
+  ],
+  "median absolute deviation": [
+    "Concept:mad/w/055"
+  ],
+  "membership inference": [
+    "Concept:membership-inference/w/042"
+  ],
+  "memory & context poisoning": [
+    "Concept:memory-context-poisoning/w/043"
+  ],
+  "memory bandwidth bottleneck": [
+    "Concept:memory-bandwidth-bottleneck/w/377"
+  ],
+  "memory drift": [
+    "Concept:memory-drift/w/121"
+  ],
+  "memory fragmentation": [
+    "Concept:memory-fragmentation/w/014"
+  ],
+  "memory ops": [
+    "Concept:memory-ops/w/221"
+  ],
+  "memory poisoning": [
+    "Concept:memory-poisoning/w/096"
+  ],
+  "mercury": [
+    "Concept:mercury/w/315"
+  ],
+  "merge / upsert": [
+    "Concept:merge-upsert/w/097"
+  ],
+  "mergeability": [
+    "Concept:mergeability/w/079"
+  ],
+  "merging": [
+    "Concept:merging/w/159"
+  ],
+  "message contract": [
+    "Concept:message-contract/w/047"
+  ],
+  "message passing": [
+    "Concept:message-passing/w/030"
+  ],
+  "meta ai / huggingface": [
+    "Concept:gaia/w/046"
+  ],
+  "meta ai, icml 2025": [
+    "Concept:agent-as-a-judge/w/048"
+  ],
+  "metaplane": [
+    "Concept:metaplane/w/024"
+  ],
+  "method matrix": [
+    "Concept:method-matrix/w/038"
+  ],
+  "metric": [
+    "Concept:metric/w/009"
+  ],
+  "metric agent-era": [
+    "Concept:metric-agent-era/w/059"
+  ],
+  "mfu": [
+    "Concept:mfu/w/151",
+    "Concept:mfu/w/152"
+  ],
+  "mha": [
+    "Concept:mha/w/068"
+  ],
+  "mhc": [
+    "Concept:mhc/w/052"
+  ],
+  "micro-batch": [
+    "Concept:micro-batch/w/098",
+    "Concept:micro-batch/w/243"
+  ],
+  "microscaling floating point 4-bit (ocp standard)": [
+    "Concept:mxfp4/w/036"
+  ],
+  "mid-training": [
+    "Concept:mid-training/w/007",
+    "Concept:mid-training/w/133"
+  ],
+  "mig / mps / time-slicing": [
+    "Concept:mig-mps-time-slicing/w/157"
+  ],
+  "mig / time-slicing / mps": [
+    "Concept:mig-time-slicing-mps/w/034"
+  ],
+  "minhash": [
+    "Concept:minhash/w/099"
+  ],
+  "minhash lsh": [
+    "Concept:deduplication/w/092"
+  ],
+  "minhashlsh threshold": [
+    "Concept:minhashlsh-threshold/w/100"
+  ],
+  "mirror": [
+    "Concept:shadow-deployment/w/130"
+  ],
+  "mixed precision": [
+    "Concept:mixed-precision/w/060"
+  ],
+  "mixtral": [
+    "Concept:mixtral/w/439"
+  ],
+  "mixture of experts": [
+    "Concept:moe/w/217",
+    "Concept:moe/w/218",
+    "Concept:moe/w/219"
+  ],
+  "mixture of experts sparsity": [
+    "Concept:moe-sparsity/w/284"
+  ],
+  "mixture-of-experts": [
+    "Concept:moe/w/220"
+  ],
+  "mla": [
+    "Concept:mla/w/071",
+    "Concept:mla/w/172",
+    "Concept:mla/w/228",
+    "Concept:mla/w/229"
+  ],
+  "mlflow prompt registry": [
+    "Concept:mlflow-prompt-registry/w/060"
+  ],
+  "mlops": [
+    "Concept:mlops/w/002"
+  ],
+  "mlops / llmops / agentops": [
+    "Concept:mlops-llmops-agentops/w/192"
+  ],
+  "mlops maturity": [
+    "Concept:mlops-maturity/w/198"
+  ],
+  "mlperf": [
+    "Concept:mlperf/w/386"
+  ],
+  "mlperf power v5.1": [
+    "Concept:mlperf-power-v5-1/w/463"
+  ],
+  "mlx": [
+    "Concept:mlx/w/381"
+  ],
+  "mmd": [
+    "Concept:mmd/w/049"
+  ],
+  "mmlu": [
+    "Concept:mmlu/w/051"
+  ],
+  "mmlu / humaneval / gsm8k": [
+    "Concept:mmlu-humaneval-gsm8k/w/026"
+  ],
+  "mmlu-pro": [
+    "Concept:mmlu-pro/w/027"
+  ],
+  "modal": [
+    "Concept:modal/w/034"
+  ],
+  "mode collapse": [
+    "Concept:mode-collapse/w/083"
+  ],
+  "mode collapse / sycophancy": [
+    "Concept:mode-collapse-sycophancy/w/028"
+  ],
+  "model aliases": [
+    "Concept:model-aliases/w/202"
+  ],
+  "model archive": [
+    "Concept:mar-archive/w/022"
+  ],
+  "model bandwidth utilization": [
+    "Concept:mbu/w/025"
+  ],
+  "model card": [
+    "Concept:model-card/w/082"
+  ],
+  "model cascading / routing": [
+    "Concept:model-cascading-routing/w/045"
+  ],
+  "model collapse": [
+    "Concept:model-collapse/w/101",
+    "Concept:model-collapse/w/124"
+  ],
+  "model context protocol": [
+    "Concept:mcp/w/056",
+    "Concept:mcp/w/057",
+    "Concept:mcp/w/094",
+    "Concept:mcp/w/222"
+  ],
+  "model deprecation": [
+    "Concept:model-deprecation/w/038"
+  ],
+  "model deprecation / retirement": [
+    "Concept:model-deprecation-retirement/w/064"
+  ],
+  "model flops utilization": [
+    "Concept:mfu/w/151",
+    "Concept:mfu/w/152"
+  ],
+  "model flow": [
+    "Concept:model-flow/w/009"
+  ],
+  "model id": [
+    "Concept:model-pin/w/006"
+  ],
+  "model merging": [
+    "Concept:model-merging/w/142"
+  ],
+  "model parking tax": [
+    "Concept:model-parking-tax/w/032"
+  ],
+  "model pin": [
+    "Concept:model-pin/w/006"
+  ],
+  "model pinning": [
+    "Concept:model-pinning/w/063"
+  ],
+  "model registry & lineage": [
+    "Concept:model-registry-lineage/w/201"
+  ],
+  "model schema": [
+    "Concept:pydantic/w/426"
+  ],
+  "model signing": [
+    "Concept:sigstore-cosign/w/064"
+  ],
+  "model snapshot": [
+    "Concept:model-pin/w/006"
+  ],
+  "modernbert": [
+    "Concept:modernbert/w/306"
+  ],
+  "moe": [
+    "Concept:active-vs-total-parameters/w/155",
+    "Concept:margin-of-error/w/082",
+    "Concept:moe/w/217",
+    "Concept:moe/w/218",
+    "Concept:moe/w/219",
+    "Concept:moe/w/220"
+  ],
+  "moe sparsity": [
+    "Concept:moe-sparsity/w/284"
+  ],
+  "moe-sieve": [
+    "Concept:moe-sieve/w/055"
+  ],
+  "monitoring": [
+    "Concept:monitoring/w/002",
+    "Concept:monitoring/w/003"
+  ],
+  "monolithic serving": [
+    "Concept:monolithic-serving/w/194"
+  ],
+  "monte carlo": [
+    "Concept:monte-carlo/w/020"
+  ],
+  "monthly active rows": [
+    "Concept:mar/w/092"
+  ],
+  "mooncake": [
+    "Concept:mooncake/w/431"
+  ],
+  "mooncake kvcache": [
+    "Concept:mooncake-kvcache/w/163"
+  ],
+  "moral crumple zone": [
+    "Concept:moral-crumple-zone/w/072"
+  ],
+  "movable label": [
+    "Concept:label-di-dong/w/014",
+    "Concept:movable-label/w/133"
+  ],
+  "mqa": [
+    "Concept:mqa/w/070"
+  ],
+  "mr-gptq": [
+    "Concept:mr-gptq/w/060"
+  ],
+  "mrl": [
+    "Concept:mrl/w/263"
+  ],
+  "mrr": [
+    "Concept:mrr/w/019"
+  ],
+  "msprt": [
+    "Concept:msprt/w/125"
+  ],
+  "mtbf": [
+    "Concept:mtbf/w/107"
+  ],
+  "mteb": [
+    "Concept:mteb/w/455"
+  ],
+  "mttd": [
+    "Concept:mttd/w/105"
+  ],
+  "mttd / mttr": [
+    "Concept:mttd-mttr/w/044"
+  ],
+  "mttr": [
+    "Concept:mttr/w/106"
+  ],
+  "multi-agent": [
+    "Concept:multi-agent/w/002"
+  ],
+  "multi-agent debate judging": [
+    "Concept:chateval/w/049"
+  ],
+  "multi-availability zone deployment": [
+    "Concept:multi-az-deployment/w/402"
+  ],
+  "multi-az deployment": [
+    "Concept:multi-az-deployment/w/402"
+  ],
+  "multi-head attention": [
+    "Concept:mha/w/068"
+  ],
+  "multi-head latent attention": [
+    "Concept:mla/w/071",
+    "Concept:mla/w/172",
+    "Concept:mla/w/228",
+    "Concept:mla/w/229"
+  ],
+  "multi-judge consensus / poll": [
+    "Concept:multi-judge-consensus-poll/w/061"
+  ],
+  "multi-lora serving": [
+    "Concept:multi-lora-serving/w/158",
+    "Concept:multi-lora-serving/w/209",
+    "Concept:multi-lora-serving/w/210"
+  ],
+  "multi-query attention": [
+    "Concept:mqa/w/070"
+  ],
+  "multi-stage build": [
+    "Concept:multi-stage-build/w/003"
+  ],
+  "multi-step reasoning": [
+    "Concept:multi-step-reasoning/w/009"
+  ],
+  "multi-window multi-burn-rate": [
+    "Concept:multi-window-multi-burn-rate/w/041",
+    "Concept:multi-window-multi-burn-rate/w/047"
+  ],
+  "multimodal alignment": [
+    "Concept:multimodal-alignment/w/158"
+  ],
+  "multimodal prefix caching": [
+    "Concept:multimodal-prefix-caching/w/257"
+  ],
+  "muon": [
+    "Concept:muon/w/039"
+  ],
+  "muonclip": [
+    "Concept:muonclip/w/042"
+  ],
+  "mxfp4": [
+    "Concept:mxfp4/w/036",
+    "Concept:mxfp4/w/106"
+  ],
+  "named mechanism": [
+    "Concept:orpo-odds-ratio/w/116"
+  ],
+  "native function/tool calling": [
+    "Concept:native-function-tool-calling/w/032"
+  ],
+  "native histograms / nhcb": [
+    "Concept:native-histograms-nhcb/w/179"
+  ],
+  "native sparse attention": [
+    "Concept:nsa/w/111"
+  ],
+  "nccl": [
+    "Concept:nccl/w/235"
+  ],
+  "nccl infiniband host channel adapter": [
+    "Concept:nccl-ib-hca/w/445"
+  ],
+  "nccl_ib_hca": [
+    "Concept:nccl-ib-hca/w/445"
+  ],
+  "ndcg@k": [
+    "Concept:ndcg-k/w/020"
+  ],
+  "ndss 2026 cache-poisoning attack": [
+    "Concept:ndss-2026-cache-poisoning-attack/w/308"
+  ],
+  "need-to-know": [
+    "Concept:need-to-know/w/048"
+  ],
+  "nemo guardrails": [
+    "Concept:nemo-guardrails/w/034"
+  ],
+  "nemotron-cc": [
+    "Concept:nemotron-cc/w/014"
+  ],
+  "neocloud": [
+    "Concept:neocloud/w/012"
+  ],
+  "neon": [
+    "Concept:neon/w/388"
+  ],
+  "network and distributed systems security symposium 2026 cache-poisoning attack": [
+    "Concept:ndss-2026-cache-poisoning-attack/w/308"
+  ],
+  "neural processing unit": [
+    "Concept:npu/w/384"
+  ],
+  "new relic": [
+    "Concept:new-relic/w/095"
+  ],
+  "newton–schulz iteration": [
+    "Concept:newton-schulz-iteration/w/040"
+  ],
+  "nf4": [
+    "Concept:nf4/w/045",
+    "Concept:nf4/w/101"
+  ],
+  "nf4 / gptq / awq / gguf / q4_k_m": [
+    "Concept:nf4-gptq-awq-gguf-q4-k-m/w/096"
+  ],
+  "nfc": [
+    "Concept:nfc/w/060"
+  ],
+  "nfd": [
+    "Concept:nfd/w/061"
+  ],
+  "ngram / n-gram drafting": [
+    "Concept:ngram-n-gram-drafting/w/135"
+  ],
+  "nguyên nhân gốc": [
+    "Concept:root-cause/w/121"
+  ],
+  "ngưỡng tối thiểu": [
+    "Concept:nguong-toi-thieu/w/050"
+  ],
+  "nhiễm dữ liệu": [
+    "Concept:data-contamination/w/024"
+  ],
+  "nim": [
+    "Concept:nim/w/145"
+  ],
+  "nist ai rmf": [
+    "Concept:nist-ai-rmf/w/038",
+    "Concept:nist-ai-rmf/w/093"
+  ],
+  "nixl": [
+    "Concept:nixl/w/193",
+    "Concept:nixl/w/349"
+  ],
+  "nllb-3.3b": [
+    "Concept:nllb-3-3b/w/062"
+  ],
+  "nlp engine": [
+    "Concept:nlp-engine/w/044"
+  ],
+  "node": [
+    "Concept:node/w/052"
+  ],
+  "node re-execution on resume": [
+    "Concept:node-re-execution-on-resume/w/059"
+  ],
+  "non-determinism": [
+    "Concept:non-determinism/w/208"
+  ],
+  "non-root user": [
+    "Concept:non-root-user/w/009"
+  ],
+  "normalfloat 4-bit": [
+    "Concept:nf4/w/045"
+  ],
+  "normalized discounted cumulative gain": [
+    "Concept:ndcg-k/w/020"
+  ],
+  "north star": [
+    "Concept:1m-token/w/007"
+  ],
+  "npu": [
+    "Concept:npu/w/384"
+  ],
+  "nsa": [
+    "Concept:nsa/w/111"
+  ],
+  "ntk-aware scaling": [
+    "Concept:ntk-aware-scaling/w/025"
+  ],
+  "num_queue_reqs": [
+    "Concept:num-queue-reqs/w/201"
+  ],
+  "num_running_reqs": [
+    "Concept:num-running-reqs/w/200"
+  ],
+  "number of nodes": [
+    "Concept:nnodes/w/245"
+  ],
+  "nvfp4": [
+    "Concept:nvfp4/w/035",
+    "Concept:nvfp4/w/368",
+    "Concept:nvfp4/w/369"
+  ],
+  "nvfp4 kv cache": [
+    "Concept:nvfp4-kv-cache/w/100"
+  ],
+  "nvidia 4-bit floating point": [
+    "Concept:nvfp4/w/035"
+  ],
+  "nvidia 4-bit floating point key-value cache": [
+    "Concept:nvfp4-kv-cache/w/100"
+  ],
+  "nvidia b200": [
+    "Concept:nvidia-b200/w/364"
+  ],
+  "nvidia b300 / gb300": [
+    "Concept:nvidia-b300-gb300/w/366"
+  ],
+  "nvidia collective communications library": [
+    "Concept:nccl/w/235"
+  ],
+  "nvidia dynamo": [
+    "Concept:nvidia-dynamo/w/138"
+  ],
+  "nvidia floating point 4": [
+    "Concept:nvfp4/w/368"
+  ],
+  "nvidia h200": [
+    "Concept:nvidia-h200/w/361"
+  ],
+  "nvidia inference microservice": [
+    "Concept:nim/w/145"
+  ],
+  "nvidia inference transfer library": [
+    "Concept:nixl/w/349"
+  ],
+  "nvidia inference xfer library": [
+    "Concept:nixl/w/193"
+  ],
+  "nvidia nim": [
+    "Concept:nvidia-nim/w/052"
+  ],
+  "nvidia nvlink": [
+    "Concept:nvlink/w/234",
+    "Concept:nvlink/w/380"
+  ],
+  "nvidia vera rubin": [
+    "Concept:nvidia-vera-rubin/w/367"
+  ],
+  "nvidia-smi": [
+    "Concept:gpu-util/w/149"
+  ],
+  "nvlink": [
+    "Concept:nvlink/w/234",
+    "Concept:nvlink/w/380"
+  ],
+  "nvlink/ib": [
+    "Concept:kv-transfer/w/190"
+  ],
+  "nạp lười": [
+    "Concept:progressive-disclosure/w/063"
+  ],
+  "oauth 2.1": [
+    "Concept:oauth-2-1/w/040"
+  ],
+  "oauth 2.1 + pkce": [
+    "Concept:oauth-2-1-pkce/w/045"
+  ],
+  "oauth 2.1 / pkce": [
+    "Concept:oauth-2-1-pkce/w/040"
+  ],
+  "obi": [
+    "Concept:obi/w/166"
+  ],
+  "observability": [
+    "Concept:observability/w/001",
+    "Concept:observability/w/002",
+    "Concept:observability/w/060"
+  ],
+  "observability 2.0 / wide events": [
+    "Concept:observability-2-0-wide-events/w/164"
+  ],
+  "observability bill anatomy": [
+    "Concept:observability-bill-anatomy/w/091"
+  ],
+  "observation": [
+    "Concept:observation/w/027"
+  ],
+  "odcs": [
+    "Concept:odcs/w/062",
+    "Concept:odcs/w/102",
+    "Concept:odcs/w/103"
+  ],
+  "odds ratio": [
+    "Concept:odds-ratio/w/031"
+  ],
+  "odds ratio preference optimization": [
+    "Concept:orpo/w/030"
+  ],
+  "off-policy distillation": [
+    "Concept:off-policy-distillation/w/136"
+  ],
+  "offline evaluation": [
+    "Concept:offline-evaluation/w/005"
+  ],
+  "offline learning": [
+    "Concept:offline-learning/w/022"
+  ],
+  "offline store": [
+    "Concept:offline-store/w/103"
+  ],
+  "oidc": [
+    "Concept:workload-identity-federation/w/076"
+  ],
+  "ollama": [
+    "Concept:ollama/w/142",
+    "Concept:ollama/w/360"
+  ],
+  "on-call rotation": [
+    "Concept:on-call-rotation/w/108"
+  ],
+  "on-demand": [
+    "Concept:on-demand/w/017"
+  ],
+  "on-demand featurefunctions": [
+    "Concept:on-demand-featurefunctions/w/081"
+  ],
+  "on-device model": [
+    "Concept:on-device-model/w/073"
+  ],
+  "on-policy distillation": [
+    "Concept:on-policy-distillation/w/033",
+    "Concept:on-policy-distillation/w/137"
+  ],
+  "online dpo / oaif": [
+    "Concept:online-dpo-oaif/w/117"
+  ],
+  "online evaluation": [
+    "Concept:online-evaluation/w/006"
+  ],
+  "online softmax": [
+    "Concept:online-softmax/w/097"
+  ],
+  "online store": [
+    "Concept:online-store/w/104"
+  ],
+  "online/offline consistency": [
+    "Concept:online-offline-consistency/w/080"
+  ],
+  "onnx": [
+    "Concept:onnx/w/110",
+    "Concept:onnx/w/352"
+  ],
+  "onnx runtime": [
+    "Concept:onnx-runtime/w/011",
+    "Concept:onnx-runtime/w/383"
+  ],
+  "opa / rego": [
+    "Concept:opa-rego/w/046"
+  ],
+  "opd": [
+    "Concept:on-policy-distillation/w/033"
+  ],
+  "open data contract standard": [
+    "Concept:odcs/w/062",
+    "Concept:odcs/w/102"
+  ],
+  "open neural network exchange": [
+    "Concept:onnx/w/110",
+    "Concept:onnx/w/352"
+  ],
+  "open neural network exchange runtime": [
+    "Concept:onnx-runtime/w/011",
+    "Concept:onnx-runtime/w/383"
+  ],
+  "open-weight vs open-source": [
+    "Concept:open-weight-vs-open-source/w/011"
+  ],
+  "openai evals sunset": [
+    "Concept:openai-evals-sunset/w/116"
+  ],
+  "openai prompt objects": [
+    "Concept:openai-prompt-objects/w/068"
+  ],
+  "openai sycophancy postmortem": [
+    "Concept:openai-sycophancy-postmortem/w/143"
+  ],
+  "openai-compat": [
+    "Concept:openai-compat/w/144"
+  ],
+  "openai-compatible api": [
+    "Concept:openai-compat/w/144"
+  ],
+  "openhermes": [
+    "Concept:openhermes/w/050"
+  ],
+  "openinference": [
+    "Concept:openinference/w/028",
+    "Concept:openinference/w/123"
+  ],
+  "openinference vs openllmetry": [
+    "Concept:openinference-vs-openllmetry/w/178"
+  ],
+  "openlineage": [
+    "Concept:openlineage/w/063",
+    "Concept:openlineage/w/064"
+  ],
+  "openmetadata": [
+    "Concept:openmetadata/w/069"
+  ],
+  "openmetrics": [
+    "Concept:openmetrics/w/033"
+  ],
+  "openrouter auto": [
+    "Concept:openrouter-auto/w/298"
+  ],
+  "opentelemetry": [
+    "Concept:opentelemetry/w/025",
+    "Concept:opentelemetry/w/026",
+    "Concept:opentelemetry/w/173"
+  ],
+  "opentelemetry ebpf instrumentation": [
+    "Concept:obi/w/166"
+  ],
+  "opentelemetry genai semconv": [
+    "Concept:opentelemetry-genai-semconv/w/063"
+  ],
+  "optimization conflict": [
+    "Concept:optimization-conflict/w/026"
+  ],
+  "optimizer mismatch": [
+    "Concept:optimizer-mismatch/w/044"
+  ],
+  "optimizer state": [
+    "Concept:optimizer-state/w/057"
+  ],
+  "orchestrator": [
+    "Concept:orchestrator/w/064"
+  ],
+  "orchestrator-worker": [
+    "Concept:orchestrator-worker/w/090"
+  ],
+  "orchestrators 2026": [
+    "Concept:orchestrators-2026/w/205"
+  ],
+  "orchestrator–worker": [
+    "Concept:orchestrator-worker/w/091"
+  ],
+  "orpo": [
+    "Concept:orpo/w/030"
+  ],
+  "orpo odds-ratio": [
+    "Concept:orpo-odds-ratio/w/116"
+  ],
+  "orpotrainer": [
+    "Concept:orpotrainer/w/054"
+  ],
+  "osl": [
+    "Concept:output-length-uncertainty/w/208"
+  ],
+  "otel": [
+    "Concept:opentelemetry/w/025",
+    "Concept:opentelemetry/w/026"
+  ],
+  "otel + mcp dual spans": [
+    "Concept:otel-mcp-dual-spans/w/188"
+  ],
+  "otel collector": [
+    "Concept:otel-collector/w/026",
+    "Concept:otel-collector/w/064"
+  ],
+  "otel genai semantic conventions": [
+    "Concept:otel-genai-semantic-conventions/w/027"
+  ],
+  "otlp": [
+    "Concept:otlp/w/063"
+  ],
+  "otlp / otlp-arrow": [
+    "Concept:otlp-otlp-arrow/w/176"
+  ],
+  "otlp receiver / remote-write 2.0": [
+    "Concept:otlp-receiver-remote-write-2-0/w/180"
+  ],
+  "ottl": [
+    "Concept:ottl/w/175"
+  ],
+  "outcome vs trajectory": [
+    "Concept:outcome-vs-trajectory/w/010"
+  ],
+  "outlines": [
+    "Concept:outlines/w/174"
+  ],
+  "output schema": [
+    "Concept:output-schema/w/008"
+  ],
+  "output tokens dominate judge cost": [
+    "Concept:output-tokens-dominate-judge-cost/w/102"
+  ],
+  "output-length uncertainty": [
+    "Concept:output-length-uncertainty/w/208"
+  ],
+  "over-autonomy / excessive agency": [
+    "Concept:over-autonomy-excessive-agency/w/012"
+  ],
+  "overfitting signature": [
+    "Concept:overfitting-signature/w/147"
+  ],
+  "oversight as legitimation": [
+    "Concept:oversight-as-legitimation/w/073"
+  ],
+  "overtraining": [
+    "Concept:overtraining/w/016"
+  ],
+  "overwrite-partition": [
+    "Concept:overwrite-partition/w/105"
+  ],
+  "owasp agentic top 10": [
+    "Concept:owasp-agentic-top-10/w/095",
+    "Concept:owasp-agentic-top-10/w/226"
+  ],
+  "owasp llm06": [
+    "Concept:excessive-agency/w/106"
+  ],
+  "owasp llm10": [
+    "Concept:unbounded-consumption/w/047"
+  ],
+  "owasp top 10 for llm applications": [
+    "Concept:owasp-top-10-for-llm-applications/w/033"
+  ],
+  "p-eagle": [
+    "Concept:p-eagle/w/123"
+  ],
+  "p2p": [
+    "Concept:p2p/w/239"
+  ],
+  "p50 latency": [
+    "Concept:p50-latency/w/394"
+  ],
+  "p50/p95/p99": [
+    "Concept:percentile-latency/w/011"
+  ],
+  "p95 latency": [
+    "Concept:p95-latency/w/395"
+  ],
+  "p99 latency": [
+    "Concept:p99-latency/w/396"
+  ],
+  "paas": [
+    "Concept:paas/w/030"
+  ],
+  "packing": [
+    "Concept:cross-contamination/w/120"
+  ],
+  "page / ticket / dashboard": [
+    "Concept:alert-severity/w/008"
+  ],
+  "page table": [
+    "Concept:page-table/w/152"
+  ],
+  "paged optimizer": [
+    "Concept:paged-optimizer/w/103"
+  ],
+  "pagedattention": [
+    "Concept:pagedattention/w/083",
+    "Concept:pagedattention/w/084",
+    "Concept:pagedattention/w/085",
+    "Concept:pagedattention/w/149"
+  ],
+  "pagerduty / opsgenie / victorops": [
+    "Concept:pagerduty-opsgenie-victorops/w/058"
+  ],
+  "paired comparison": [
+    "Concept:paired-comparison/w/083"
+  ],
+  "pandera": [
+    "Concept:pandera/w/106",
+    "Concept:pandera/w/107"
+  ],
+  "panel": [
+    "Concept:panel/w/036"
+  ],
+  "panel of llm evaluators": [
+    "Concept:multi-judge-consensus-poll/w/061"
+  ],
+  "parallel drafting": [
+    "Concept:parallel-drafting/w/121"
+  ],
+  "parallel-drafting eagle": [
+    "Concept:p-eagle/w/123"
+  ],
+  "parallelize reads, serialize writes": [
+    "Concept:parallelize-reads-serialize-writes/w/009"
+  ],
+  "parameter count of lora": [
+    "Concept:parameter-count-of-lora/w/085"
+  ],
+  "parameter-efficient fine-tuning": [
+    "Concept:peft/w/070",
+    "Concept:peft/w/094"
+  ],
+  "parse error": [
+    "Concept:parse-error/w/043"
+  ],
+  "partial failure": [
+    "Concept:partial-failure/w/069"
+  ],
+  "partition": [
+    "Concept:partition/w/107"
+  ],
+  "pass@k": [
+    "Concept:pass-k/w/043",
+    "Concept:pass-k/w/126"
+  ],
+  "pass@k vs pass^k": [
+    "Concept:pass-k-vs-pass-k/w/218"
+  ],
+  "pass^k": [
+    "Concept:pass-k/w/044"
+  ],
+  "pass^k vs pass@k": [
+    "Concept:pass-k-vs-pass-k/w/217"
+  ],
+  "pcc": [
+    "Concept:private-cloud-compute/w/075"
+  ],
+  "pcg": [
+    "Concept:pcg/w/241"
+  ],
+  "pdpl": [
+    "Concept:pdpl/w/065",
+    "Concept:pdpl/w/066"
+  ],
+  "pdpl — law 91/2025/qh15": [
+    "Concept:pdpl-law-91-2025-qh15/w/169"
+  ],
+  "peeking problem": [
+    "Concept:peeking-problem/w/129"
+  ],
+  "peft": [
+    "Concept:peft/w/070",
+    "Concept:peft/w/094"
+  ],
+  "peft / lora": [
+    "Concept:peft-lora/w/108"
+  ],
+  "peft auto-derive": [
+    "Concept:ref-model-none/w/053"
+  ],
+  "pep": [
+    "Concept:pep/w/047"
+  ],
+  "per mtok, input/output": [
+    "Concept:judge-price-menu/w/097"
+  ],
+  "per-client consent": [
+    "Concept:per-client-consent/w/123"
+  ],
+  "per-entity recall": [
+    "Concept:per-entity-recall/w/048"
+  ],
+  "per-project / per-tenant budget": [
+    "Concept:per-project-per-tenant-budget/w/046"
+  ],
+  "percentile latency": [
+    "Concept:percentile-latency/w/011"
+  ],
+  "perception": [
+    "Concept:perception/w/017"
+  ],
+  "permission policy vs prompt": [
+    "Concept:permission-policy-vs-prompt/w/166"
+  ],
+  "permission-aware rag": [
+    "Concept:permission-aware-rag/w/049"
+  ],
+  "perplexity": [
+    "Concept:perplexity/w/050",
+    "Concept:perplexity/w/155"
+  ],
+  "personally identifiable information": [
+    "Concept:pii/w/067"
+  ],
+  "petaflops": [
+    "Concept:pflops/w/375"
+  ],
+  "pflops": [
+    "Concept:pflops/w/375"
+  ],
+  "phala gpu-tee": [
+    "Concept:phala-gpu-tee/w/309"
+  ],
+  "phase-separated secrets": [
+    "Concept:phase-separated-secrets/w/172"
+  ],
+  "phi-3 / phi-4": [
+    "Concept:phi-3-phi-4/w/082"
+  ],
+  "phi-3-mini": [
+    "Concept:phi-3-mini/w/472"
+  ],
+  "phobert / underthesea": [
+    "Concept:phobert-underthesea/w/050"
+  ],
+  "phoenix": [
+    "Concept:phoenix/w/088"
+  ],
+  "physical page": [
+    "Concept:physical-page/w/151"
+  ],
+  "phân loại lỗi": [
+    "Concept:failure-taxonomy/w/118"
+  ],
+  "phân loại tác hại weidinger et al.": [
+    "Concept:phan-loai-tac-hai-weidinger-et-al/w/076"
+  ],
+  "phân tích chênh lệch": [
+    "Concept:delta-analysis/w/108"
+  ],
+  "phân tích lỗi": [
+    "Concept:failure-analysis/w/117"
+  ],
+  "phân tầng context": [
+    "Concept:phan-tang-context/w/064"
+  ],
+  "pickle": [
+    "Concept:pickle/w/051"
+  ],
+  "picklescan": [
+    "Concept:picklescan/w/052"
+  ],
+  "piecewise cuda graph": [
+    "Concept:pcg/w/241",
+    "Concept:piecewise-cuda-graph/w/086"
+  ],
+  "pii": [
+    "Concept:pii/w/066",
+    "Concept:pii/w/067"
+  ],
+  "pii leakage / data leakage": [
+    "Concept:pii-leakage-data-leakage/w/010"
+  ],
+  "pii redaction / masking": [
+    "Concept:pii-redaction-masking/w/020"
+  ],
+  "pillar": [
+    "Concept:lineage/w/054",
+    "Concept:schema/w/013"
+  ],
+  "pinned / rolling": [
+    "Concept:baseline/w/109"
+  ],
+  "pipe_tensor_active": [
+    "Concept:pipe-tensor-active/w/150"
+  ],
+  "pipeline": [
+    "Concept:pipeline/w/011"
+  ],
+  "pipeline parallelism": [
+    "Concept:pipeline-parallelism/w/232"
+  ],
+  "pipeline parallelism size": [
+    "Concept:pp-size/w/244"
+  ],
+  "pissa": [
+    "Concept:pissa/w/098"
+  ],
+  "pivot step": [
+    "Concept:pivot-step/w/100"
+  ],
+  "pixtral": [
+    "Concept:pixtral/w/449"
+  ],
+  "plan-vs-execute drift": [
+    "Concept:plan-vs-execute-drift/w/122"
+  ],
+  "platform-as-a-service": [
+    "Concept:paas/w/030"
+  ],
+  "platinum layer": [
+    "Concept:platinum-layer/w/109"
+  ],
+  "point-in-time correctness": [
+    "Concept:point-in-time-correctness/w/110",
+    "Concept:point-in-time-correctness/w/111"
+  ],
+  "point-to-point": [
+    "Concept:p2p/w/239"
+  ],
+  "pointwise vs pairwise": [
+    "Concept:pointwise-vs-pairwise/w/056"
+  ],
+  "poisonedrag": [
+    "Concept:poisonedrag/w/111"
+  ],
+  "policy enforcement point": [
+    "Concept:pep/w/047"
+  ],
+  "policy tag": [
+    "Concept:policy-tag/w/053"
+  ],
+  "polis": [
+    "Concept:polis/w/068"
+  ],
+  "population stability index": [
+    "Concept:psi/w/067",
+    "Concept:psi/w/068"
+  ],
+  "position bias": [
+    "Concept:position-bias/w/057"
+  ],
+  "position interpolation": [
+    "Concept:position-interpolation/w/024"
+  ],
+  "post-filter": [
+    "Concept:post-filter/w/054"
+  ],
+  "post-training": [
+    "Concept:post-training/w/008",
+    "Concept:post-training/w/009"
+  ],
+  "post-training quantization": [
+    "Concept:ptq/w/052",
+    "Concept:ptq/w/108"
+  ],
+  "post-training recipe": [
+    "Concept:llama-3-llama-4-order-inversion/w/150"
+  ],
+  "postmortem": [
+    "Concept:postmortem/w/102"
+  ],
+  "power analysis / sample size": [
+    "Concept:power-analysis-sample-size/w/085"
+  ],
+  "power purchase agreement": [
+    "Concept:ppa/w/069"
+  ],
+  "power usage effectiveness": [
+    "Concept:pue/w/064"
+  ],
+  "power wall": [
+    "Concept:power-wall/w/280"
+  ],
+  "pp": [
+    "Concept:pipeline-parallelism/w/232"
+  ],
+  "ppa": [
+    "Concept:ppa/w/069"
+  ],
+  "ppcie": [
+    "Concept:ppcie/w/287"
+  ],
+  "ppl": [
+    "Concept:perplexity/w/155"
+  ],
+  "ppo": [
+    "Concept:ppo/w/011"
+  ],
+  "ppo instability": [
+    "Concept:ppo-instability/w/013"
+  ],
+  "pre-filter": [
+    "Concept:pre-filter/w/055"
+  ],
+  "pre-generation routing": [
+    "Concept:pre-generation-routing/w/276"
+  ],
+  "pre-training": [
+    "Concept:pre-training/w/006",
+    "Concept:pre-training/w/007"
+  ],
+  "precision floor": [
+    "Concept:precision-floor/w/110"
+  ],
+  "precision@k": [
+    "Concept:precision-k/w/018"
+  ],
+  "prediction drift": [
+    "Concept:prediction-drift/w/078"
+  ],
+  "preemption": [
+    "Concept:preemption/w/418"
+  ],
+  "prefect 3.0": [
+    "Concept:prefect-3-0/w/112"
+  ],
+  "preference data": [
+    "Concept:preference-data/w/006"
+  ],
+  "preference dataset format": [
+    "Concept:preference-dataset-format/w/047"
+  ],
+  "preference leakage": [
+    "Concept:preference-leakage/w/095"
+  ],
+  "prefill pool": [
+    "Concept:prefill-pool/w/195"
+  ],
+  "prefill-bound": [
+    "Concept:prefill-bound/w/259"
+  ],
+  "prefill/decode": [
+    "Concept:disaggregated-serving/w/162",
+    "Concept:disaggregated-serving/w/163"
+  ],
+  "prefix / prompt caching": [
+    "Concept:prefix-prompt-caching/w/084"
+  ],
+  "prefix cache": [
+    "Concept:prompt-caching/w/047"
+  ],
+  "prefix match": [
+    "Concept:cache-prefix/w/042"
+  ],
+  "prefix tuning / p-tuning": [
+    "Concept:prefix-tuning-p-tuning/w/075"
+  ],
+  "preparedness framework": [
+    "Concept:preparedness-framework/w/086"
+  ],
+  "presidio": [
+    "Concept:nlp-engine/w/044",
+    "Concept:presidio/w/056"
+  ],
+  "price reversal": [
+    "Concept:price-reversal/w/040"
+  ],
+  "private cloud compute": [
+    "Concept:private-cloud-compute/w/075"
+  ],
+  "prm": [
+    "Concept:process-reward-model/w/129"
+  ],
+  "prm800k / math-shepherd": [
+    "Concept:prm800k-math-shepherd/w/133"
+  ],
+  "probabilistic / fixed-rate sampling": [
+    "Concept:probabilistic-fixed-rate-sampling/w/071"
+  ],
+  "process reward model": [
+    "Concept:process-reward-model/w/129"
+  ],
+  "production 3-tier stack": [
+    "Concept:production-3-tier-stack/w/278"
+  ],
+  "production ai gap": [
+    "Concept:production-ai-gap/w/008"
+  ],
+  "production incidents as eval lessons": [
+    "Concept:production-incidents-as-eval-lessons/w/126"
+  ],
+  "progressive / canary rollout": [
+    "Concept:progressive-canary-rollout/w/115"
+  ],
+  "progressive disclosure": [
+    "Concept:progressive-disclosure/w/063"
+  ],
+  "prometheus /metrics": [
+    "Concept:prometheus-metrics/w/184"
+  ],
+  "prometheus query language": [
+    "Concept:promql/w/344"
+  ],
+  "prometheus/grafana": [
+    "Concept:prometheus-grafana/w/337"
+  ],
+  "prometheus_client": [
+    "Concept:prometheus-client/w/429"
+  ],
+  "promotion": [
+    "Concept:promotion/w/026"
+  ],
+  "prompt / context caching": [
+    "Concept:prompt-context-caching/w/042"
+  ],
+  "prompt artifact": [
+    "Concept:prompt-artifact/w/004"
+  ],
+  "prompt caching": [
+    "Concept:prompt-caching/w/047",
+    "Concept:prompt-caching/w/099",
+    "Concept:prompt-caching/w/100"
+  ],
+  "prompt drift": [
+    "Concept:prompt-drift/w/138"
+  ],
+  "prompt injection": [
+    "Concept:prompt-injection/w/008"
+  ],
+  "prompt registry": [
+    "Concept:prompt-registry/w/012"
+  ],
+  "prompt-as-code": [
+    "Concept:prompt-as-code/w/207"
+  ],
+  "promptfoo": [
+    "Concept:promptfoo/w/113",
+    "Concept:promptfoo/w/114",
+    "Concept:promptfoo/w/141"
+  ],
+  "promptpeek": [
+    "Concept:promptpeek/w/289"
+  ],
+  "promql": [
+    "Concept:promql/w/015",
+    "Concept:promql/w/344"
+  ],
+  "promtail": [
+    "Concept:promtail/w/044"
+  ],
+  "prospect theory": [
+    "Concept:prospect-theory/w/036"
+  ],
+  "protected label": [
+    "Concept:protected-label/w/016"
+  ],
+  "protected pcie": [
+    "Concept:ppcie/w/287"
+  ],
+  "protected resource metadata": [
+    "Concept:protected-resource-metadata/w/122"
+  ],
+  "provenance": [
+    "Concept:provenance/w/113"
+  ],
+  "provider abstraction": [
+    "Concept:provider-abstraction/w/063"
+  ],
+  "proximal policy optimization": [
+    "Concept:ppo/w/011"
+  ],
+  "proxy buffering": [
+    "Concept:proxy-buffering/w/017"
+  ],
+  "proxy quality metrics": [
+    "Concept:proxy-quality-metrics/w/081"
+  ],
+  "pruning / sparsegpt / wanda": [
+    "Concept:pruning-sparsegpt-wanda/w/102"
+  ],
+  "pseudonymization": [
+    "Concept:pseudonymization/w/057"
+  ],
+  "psi": [
+    "Concept:psi/w/067",
+    "Concept:psi/w/068"
+  ],
+  "ptq": [
+    "Concept:ptq/w/052",
+    "Concept:ptq/w/108"
+  ],
+  "ptu": [
+    "Concept:ptu/w/160"
+  ],
+  "pue": [
+    "Concept:pue/w/064"
+  ],
+  "pull model": [
+    "Concept:pull-model/w/021"
+  ],
+  "punica": [
+    "Concept:punica/w/211"
+  ],
+  "push protection": [
+    "Concept:push-protection/w/050"
+  ],
+  "pushgateway": [
+    "Concept:pushgateway/w/022"
+  ],
+  "pydantic": [
+    "Concept:pydantic/w/426"
+  ],
+  "pydantic v2": [
+    "Concept:pydantic-v2/w/114"
+  ],
+  "pyrit": [
+    "Concept:pyrit/w/055",
+    "Concept:pyrit/w/071"
+  ],
+  "pyroscope": [
+    "Concept:pyroscope/w/101"
+  ],
+  "pyroscope 2.0 / parca": [
+    "Concept:pyroscope-2-0-parca/w/171"
+  ],
+  "pytorch": [
+    "Concept:pytorch/w/351"
+  ],
+  "q2_k": [
+    "Concept:q2-k/w/044",
+    "Concept:q2-k/w/354"
+  ],
+  "q4_k_m": [
+    "Concept:q4-k-m/w/040",
+    "Concept:q4-k-m/w/355"
+  ],
+  "q6_k": [
+    "Concept:q6-k/w/356"
+  ],
+  "q8_0": [
+    "Concept:q8-0/w/357"
+  ],
+  "qad": [
+    "Concept:qad/w/054"
+  ],
+  "qat": [
+    "Concept:qat/w/053",
+    "Concept:qat/w/109"
+  ],
+  "qjl": [
+    "Concept:qjl/w/064"
+  ],
+  "qk-clip": [
+    "Concept:qk-clip/w/043"
+  ],
+  "qlora": [
+    "Concept:qlora/w/047",
+    "Concept:qlora/w/100"
+  ],
+  "qlora speed caveat": [
+    "Concept:qlora-speed-caveat/w/104"
+  ],
+  "quality gate": [
+    "Concept:quality-gate/w/068",
+    "Concept:quality-gate/w/069"
+  ],
+  "quantization": [
+    "Concept:quantization/w/027"
+  ],
+  "quantization formats are not interchangeable": [
+    "Concept:quantization-formats-are-not-interchangeable/w/157"
+  ],
+  "quantization-aware distillation": [
+    "Concept:qad/w/054"
+  ],
+  "quantization-aware training": [
+    "Concept:qat/w/053",
+    "Concept:qat/w/109"
+  ],
+  "quantized johnson–lindenstrauss transform": [
+    "Concept:qjl/w/064"
+  ],
+  "quantized low-rank adaptation": [
+    "Concept:qlora/w/047"
+  ],
+  "quarantine pattern": [
+    "Concept:quarantine-pattern/w/115"
+  ],
+  "query-based cdc": [
+    "Concept:query-based-cdc/w/069"
+  ],
+  "queue depth": [
+    "Concept:queue-depth/w/007",
+    "Concept:queue-depth/w/185",
+    "Concept:queue-depth/w/325"
+  ],
+  "queue-depth autoscaling": [
+    "Concept:queue-depth-autoscaling/w/161"
+  ],
+  "quy chi phí": [
+    "Concept:cost-attribution/w/051"
+  ],
+  "qwen3": [
+    "Concept:qwen3/w/152"
+  ],
+  "qwen3-235b": [
+    "Concept:qwen3-235b/w/441"
+  ],
+  "qwen3-embedding": [
+    "Concept:qwen3-embedding/w/266"
+  ],
+  "qwen3-reranker": [
+    "Concept:qwen3-reranker/w/307"
+  ],
+  "qwen3-vl": [
+    "Concept:qwen3-vl/w/448"
+  ],
+  "r1-zero vs r1": [
+    "Concept:r1-zero-vs-r1/w/043"
+  ],
+  "rack power density": [
+    "Concept:kw-per-rack/w/464"
+  ],
+  "radeon open compute platform": [
+    "Concept:rocm/w/470"
+  ],
+  "radixattention": [
+    "Concept:radixattention/w/067",
+    "Concept:radixattention/w/161"
+  ],
+  "rag corpus freshness": [
+    "Concept:rag-corpus-freshness/w/084"
+  ],
+  "rag metric map": [
+    "Concept:rag-metric-map/w/072"
+  ],
+  "ragas": [
+    "Concept:ragas/w/067",
+    "Concept:ragas/w/068"
+  ],
+  "ragops": [
+    "Concept:ragops/w/211"
+  ],
+  "rainbow deployment": [
+    "Concept:rainbow-deployment/w/175"
+  ],
+  "rank `r`": [
+    "Concept:rank-r/w/081"
+  ],
+  "ranking fragility": [
+    "Concept:ranking-fragility/w/094"
+  ],
+  "rate limiting": [
+    "Concept:rate-limiting/w/021",
+    "Concept:rate-limiting/w/044"
+  ],
+  "rate-limit tier": [
+    "Concept:rate-limit-tier/w/065"
+  ],
+  "ray cluster": [
+    "Concept:ray-cluster/w/237"
+  ],
+  "ray serve llm": [
+    "Concept:ray-serve-llm/w/341"
+  ],
+  "razin 2024": [
+    "Concept:likelihood-displacement/w/025"
+  ],
+  "rbr": [
+    "Concept:rule-based-rewards/w/135"
+  ],
+  "rdma": [
+    "Concept:rdma/w/432"
+  ],
+  "re-embedding": [
+    "Concept:re-embedding/w/070",
+    "Concept:re-embedding/w/085"
+  ],
+  "react": [
+    "Concept:react/w/024"
+  ],
+  "react = mental model vs implementation": [
+    "Concept:react-mental-model-vs-implementation/w/030"
+  ],
+  "reactive agent": [
+    "Concept:reactive-agent/w/005"
+  ],
+  "reactive vs goal-driven": [
+    "Concept:reactive-vs-goal-driven/w/004"
+  ],
+  "read/write asymmetry": [
+    "Concept:read-write-asymmetry/w/091"
+  ],
+  "readiness probe": [
+    "Concept:readiness-probe/w/054"
+  ],
+  "reasoning": [
+    "Concept:reasoning/w/018"
+  ],
+  "reasoning tax / thinking tokens": [
+    "Concept:reasoning-tax-thinking-tokens/w/039"
+  ],
+  "reasoning traces": [
+    "Concept:reasoning-traces/w/047"
+  ],
+  "reasoning-sft cold-start": [
+    "Concept:reasoning-sft-cold-start/w/105"
+  ],
+  "reasoning-trace collapse": [
+    "Concept:reasoning-trace-collapse/w/126"
+  ],
+  "recall@k": [
+    "Concept:recall-k/w/017"
+  ],
+  "receiver / processor / exporter": [
+    "Concept:receiver-processor-exporter/w/065"
+  ],
+  "recognizer": [
+    "Concept:recognizer/w/058"
+  ],
+  "recording rule": [
+    "Concept:recording-rule/w/027"
+  ],
+  "recursion limit": [
+    "Concept:recursion-limit/w/086"
+  ],
+  "recursive chunking": [
+    "Concept:recursive-chunking/w/116"
+  ],
+  "red method": [
+    "Concept:red-method/w/016"
+  ],
+  "red teaming": [
+    "Concept:red-teaming/w/005"
+  ],
+  "red-teaming": [
+    "Concept:red-teaming/w/069"
+  ],
+  "redpanda": [
+    "Concept:redpanda/w/117"
+  ],
+  "redpanda broker-side validation": [
+    "Concept:redpanda-broker-side-validation/w/061"
+  ],
+  "reduce-overhead mode": [
+    "Concept:reduce-overhead-mode/w/117"
+  ],
+  "reducer": [
+    "Concept:reducer/w/085"
+  ],
+  "reference-free": [
+    "Concept:retrieval-quality/w/088"
+  ],
+  "reflection writeup": [
+    "Concept:reflection-writeup/w/146"
+  ],
+  "reft": [
+    "Concept:reft/w/078"
+  ],
+  "refusal": [
+    "Concept:refusal/w/120"
+  ],
+  "refusal direction / abliteration": [
+    "Concept:refusal-direction-abliteration/w/107"
+  ],
+  "regex": [
+    "Concept:regex/w/427"
+  ],
+  "registry ≠ enforcement": [
+    "Concept:registry-enforcement/w/060"
+  ],
+  "regression eval": [
+    "Concept:regression-eval/w/015"
+  ],
+  "regression gate": [
+    "Concept:eval-gate/w/129",
+    "Concept:regression-gate/w/157"
+  ],
+  "regression release gate": [
+    "Concept:regression-release-gate/w/107"
+  ],
+  "reinforce leave-one-out": [
+    "Concept:rloo/w/111"
+  ],
+  "reinforce++": [
+    "Concept:reinforce/w/113"
+  ],
+  "reinforcement fine-tuning": [
+    "Concept:rft/w/004"
+  ],
+  "reinforcement learning from human feedback": [
+    "Concept:rlhf/w/042"
+  ],
+  "reinforcement learning with verifiable rewards": [
+    "Concept:rlvr/w/042"
+  ],
+  "rejection sampling": [
+    "Concept:rejection-sampling/w/056"
+  ],
+  "reliability metric": [
+    "Concept:pass-k/w/044"
+  ],
+  "remax": [
+    "Concept:remax/w/112"
+  ],
+  "remote direct memory access": [
+    "Concept:rdma/w/432"
+  ],
+  "rename theater": [
+    "Concept:rename-theater/w/071"
+  ],
+  "rent-vs-own break-even": [
+    "Concept:rent-vs-own-break-even/w/010"
+  ],
+  "reparameterization peft": [
+    "Concept:reparameterization-peft/w/072"
+  ],
+  "replay": [
+    "Concept:replay/w/141"
+  ],
+  "replay_request_dump.py": [
+    "Concept:replay-request-dump-py/w/188"
+  ],
+  "replica": [
+    "Concept:replica/w/331"
+  ],
+  "replication factor": [
+    "Concept:replication-factor/w/118"
+  ],
+  "repo-borne configuration": [
+    "Concept:repo-borne-configuration/w/168"
+  ],
+  "representational harm": [
+    "Concept:representational-harm/w/078"
+  ],
+  "reproducibility": [
+    "Concept:reproducibility/w/204"
+  ],
+  "request batching window": [
+    "Concept:request-batching-window/w/326"
+  ],
+  "request/idle timeout": [
+    "Concept:request-idle-timeout/w/014"
+  ],
+  "requests per second": [
+    "Concept:rps/w/328"
+  ],
+  "reserved instances / savings plans / cud": [
+    "Concept:reserved-instances-savings-plans-cud/w/019"
+  ],
+  "response streaming": [
+    "Concept:response-streaming/w/110"
+  ],
+  "response-only masking": [
+    "Concept:response-only-masking/w/129"
+  ],
+  "response_format": [
+    "Concept:response-format/w/424"
+  ],
+  "responsible ai": [
+    "Concept:responsible-ai/w/075"
+  ],
+  "responsible scaling policy": [
+    "Concept:rsp/w/084"
+  ],
+  "responsible scaling policy (rsp) / asl": [
+    "Concept:responsible-scaling-policy-rsp-asl/w/039"
+  ],
+  "retention": [
+    "Concept:retention/w/053"
+  ],
+  "retrieval as the ceiling": [
+    "Concept:retrieval-as-the-ceiling/w/022"
+  ],
+  "retrieval config": [
+    "Concept:retrieval-config/w/010"
+  ],
+  "retrieval quality": [
+    "Concept:retrieval-quality/w/088"
+  ],
+  "reverse etl": [
+    "Concept:reverse-etl/w/119"
+  ],
+  "reward hacking": [
+    "Concept:reward-hacking/w/015",
+    "Concept:reward-hacking/w/120",
+    "Concept:reward-hacking/w/121",
+    "Concept:reward-hacking/w/122"
+  ],
+  "reward model": [
+    "Concept:reward-model/w/010"
+  ],
+  "reward-guided / controlled decoding": [
+    "Concept:reward-guided-controlled-decoding/w/155"
+  ],
+  "rewardbench 2": [
+    "Concept:rewardbench-2/w/144"
+  ],
+  "rfc 9728": [
+    "Concept:protected-resource-metadata/w/122"
+  ],
+  "rft": [
+    "Concept:rft/w/004"
+  ],
+  "right to erasure": [
+    "Concept:right-to-erasure/w/059"
+  ],
+  "right-sizing": [
+    "Concept:right-sizing/w/408"
+  ],
+  "rl": [
+    "Concept:rollout/w/121"
+  ],
+  "rl from ai feedback": [
+    "Concept:rlaif/w/065"
+  ],
+  "rlaif": [
+    "Concept:rlaif/w/065"
+  ],
+  "rlhf": [
+    "Concept:rlhf/w/041",
+    "Concept:rlhf/w/042"
+  ],
+  "rlhf-v / mm-rlhf / ovip": [
+    "Concept:multimodal-alignment/w/158"
+  ],
+  "rloo": [
+    "Concept:rloo/w/111"
+  ],
+  "rloo / remax / reinforce++": [
+    "Concept:value-free-rlhf-family/w/110"
+  ],
+  "rlvr": [
+    "Concept:reward-hacking/w/120",
+    "Concept:rlvr/w/029",
+    "Concept:rlvr/w/042",
+    "Concept:verifier-sandbox/w/152"
+  ],
+  "rm": [
+    "Concept:reward-model/w/010"
+  ],
+  "rm-bench": [
+    "Concept:rm-bench/w/145"
+  ],
+  "rocm": [
+    "Concept:rocm/w/470"
+  ],
+  "role explosion": [
+    "Concept:role-explosion/w/060"
+  ],
+  "rollback": [
+    "Concept:rollback/w/036"
+  ],
+  "rolling / blue-green / canary deployment": [
+    "Concept:rolling-blue-green-canary-deployment/w/057"
+  ],
+  "rolling buffer": [
+    "Concept:crash-dump/w/430"
+  ],
+  "rollout": [
+    "Concept:rollout/w/121",
+    "Concept:rollout/w/122"
+  ],
+  "rollout engine": [
+    "Concept:rollout-engine/w/310"
+  ],
+  "roofline / ridge point": [
+    "Concept:roofline-ridge-point/w/026"
+  ],
+  "root cause": [
+    "Concept:root-cause/w/121"
+  ],
+  "root span": [
+    "Concept:root-span/w/060"
+  ],
+  "root-cause analysis": [
+    "Concept:root-cause-analysis/w/073"
+  ],
+  "rope": [
+    "Concept:rope/w/112",
+    "Concept:rope/w/113"
+  ],
+  "rope / ntk / yarn / longrope": [
+    "Concept:rope-ntk-yarn-longrope/w/100"
+  ],
+  "roster": [
+    "Concept:roster/w/020"
+  ],
+  "rotary position embedding": [
+    "Concept:rope/w/112"
+  ],
+  "round-robin": [
+    "Concept:round-robin/w/323"
+  ],
+  "route → escalate": [
+    "Concept:hybrid/w/076"
+  ],
+  "routellm": [
+    "Concept:routellm/w/274"
+  ],
+  "router": [
+    "Concept:router/w/053"
+  ],
+  "routing skew": [
+    "Concept:routing-skew/w/054"
+  ],
+  "row filter": [
+    "Concept:row-filter/w/061"
+  ],
+  "row remapping": [
+    "Concept:row-remapping/w/155"
+  ],
+  "rps": [
+    "Concept:rps/w/328"
+  ],
+  "rrf + rerank": [
+    "Concept:hybrid-retrieval/w/071"
+  ],
+  "rslora": [
+    "Concept:rslora/w/095"
+  ],
+  "rsp": [
+    "Concept:rsp/w/084"
+  ],
+  "rto": [
+    "Concept:rto/w/025"
+  ],
+  "rubric": [
+    "Concept:rubric/w/054",
+    "Concept:rubric/w/066"
+  ],
+  "rug-pull": [
+    "Concept:rug-pull/w/083"
+  ],
+  "rule-based": [
+    "Concept:recognizer/w/058"
+  ],
+  "rule-based bot": [
+    "Concept:rule-based-bot/w/001"
+  ],
+  "rule-based rewards": [
+    "Concept:rule-based-rewards/w/135"
+  ],
+  "rules-based vs ml-based detection": [
+    "Concept:rules-based-vs-ml-based-detection/w/026"
+  ],
+  "run:ai / kai scheduler": [
+    "Concept:run-ai-kai-scheduler/w/035"
+  ],
+  "runbook": [
+    "Concept:runbook/w/072",
+    "Concept:runbook/w/073",
+    "Concept:runbook/w/110"
+  ],
+  "runconfig": [
+    "Concept:runconfig/w/078"
+  ],
+  "runevent": [
+    "Concept:runevent/w/063"
+  ],
+  "runtime as dependency": [
+    "Concept:runtime-as-dependency/w/117"
+  ],
+  "rủi ro nhà cung cấp": [
+    "Concept:rui-ro-nha-cung-cap/w/019"
+  ],
+  "s-lora": [
+    "Concept:s-lora/w/212",
+    "Concept:s-lora/w/213"
+  ],
+  "s1 / limo / r1-distill": [
+    "Concept:reasoning-sft-cold-start/w/105"
+  ],
+  "safekv": [
+    "Concept:safekv/w/291"
+  ],
+  "safetensors": [
+    "Concept:safetensors/w/062"
+  ],
+  "safety spec / safety specification": [
+    "Concept:safety-spec-safety-specification/w/136"
+  ],
+  "saga": [
+    "Concept:saga/w/098"
+  ],
+  "sagemaker lmi-dist": [
+    "Concept:sagemaker-lmi-dist/w/215"
+  ],
+  "salesforce": [
+    "Concept:zero-copy/w/159"
+  ],
+  "salient weight": [
+    "Concept:salient-weight/w/056"
+  ],
+  "sample-ratio mismatch": [
+    "Concept:srm/w/128"
+  ],
+  "sampling": [
+    "Concept:sampling/w/029",
+    "Concept:sampling/w/068"
+  ],
+  "sampling for cost": [
+    "Concept:sampling-for-cost/w/099"
+  ],
+  "sandbox auth proxy": [
+    "Concept:sandbox-auth-proxy/w/147"
+  ],
+  "sandbox isolation spectrum": [
+    "Concept:sandbox-isolation-spectrum/w/103"
+  ],
+  "sandbox observability": [
+    "Concept:sandbox-observability/w/120"
+  ],
+  "savedmodel": [
+    "Concept:savedmodel/w/021"
+  ],
+  "sbom": [
+    "Concept:sbom/w/011"
+  ],
+  "scalable lora": [
+    "Concept:s-lora/w/212"
+  ],
+  "scalable oversight": [
+    "Concept:scalable-oversight/w/139"
+  ],
+  "scalar / generative / process": [
+    "Concept:three-reward-model-families/w/128"
+  ],
+  "scale ai": [
+    "Concept:swe-bench-pro/w/030"
+  ],
+  "scale in": [
+    "Concept:scale-in/w/330"
+  ],
+  "scale out": [
+    "Concept:scale-out/w/329"
+  ],
+  "scale tier / fast mode": [
+    "Concept:scale-tier-fast-mode/w/161"
+  ],
+  "scale trigger": [
+    "Concept:scale-trigger/w/327"
+  ],
+  "scale-to-zero": [
+    "Concept:scale-to-zero/w/031",
+    "Concept:scale-to-zero/w/319",
+    "Concept:scale-to-zero/w/410"
+  ],
+  "schema": [
+    "Concept:schema/w/013"
+  ],
+  "schema drift": [
+    "Concept:schema-drift/w/073",
+    "Concept:schema-drift/w/074"
+  ],
+  "schema registry": [
+    "Concept:schema-registry/w/123"
+  ],
+  "schema registry compatibility": [
+    "Concept:schema-registry-compatibility/w/056"
+  ],
+  "schema-on-read": [
+    "Concept:schema-on-read/w/074",
+    "Concept:schema-on-read/w/122"
+  ],
+  "schema-on-write": [
+    "Concept:schema-on-write/w/075"
+  ],
+  "sci": [
+    "Concept:sci/w/066"
+  ],
+  "scoring matrix": [
+    "Concept:scoring-matrix/w/012"
+  ],
+  "sda": [
+    "Concept:asset-based-orchestration/w/011",
+    "Concept:sda/w/124"
+  ],
+  "sdp": [
+    "Concept:sdp/w/125"
+  ],
+  "se": [
+    "Concept:standard-error/w/080"
+  ],
+  "seasonal-trend decomposition": [
+    "Concept:stl/w/083"
+  ],
+  "secret manager": [
+    "Concept:secret-manager/w/048"
+  ],
+  "secure hash algorithm 256-bit": [
+    "Concept:sha-256/w/453"
+  ],
+  "segmented gather-matrix-vector multiplication": [
+    "Concept:sgmv/w/210"
+  ],
+  "selective peft": [
+    "Concept:selective-peft/w/073"
+  ],
+  "self-consistency": [
+    "Concept:self-consistency/w/024"
+  ],
+  "self-enhancement / self-preference bias": [
+    "Concept:self-enhancement-self-preference-bias/w/059"
+  ],
+  "self-healing dag": [
+    "Concept:self-healing-dag/w/126"
+  ],
+  "self-healing pipeline": [
+    "Concept:self-healing-pipeline/w/076"
+  ],
+  "self-host break-even": [
+    "Concept:self-host-break-even/w/304"
+  ],
+  "self-hosted prometheus + grafana": [
+    "Concept:self-hosted-prometheus-grafana/w/092"
+  ],
+  "self-instruct / evol-instruct": [
+    "Concept:self-instruct-evol-instruct/w/080"
+  ],
+  "self-rewarding lm": [
+    "Concept:self-rewarding-lm/w/066"
+  ],
+  "self-serve fine-tuning platform": [
+    "Concept:self-serve-fine-tuning-platform/w/002"
+  ],
+  "semantic cache": [
+    "Concept:semantic-cache/w/080",
+    "Concept:semantic-cache/w/081",
+    "Concept:threshold/w/303"
+  ],
+  "semantic caching": [
+    "Concept:semantic-caching/w/269"
+  ],
+  "semantic conventions": [
+    "Concept:semantic-conventions/w/073"
+  ],
+  "semantic layer": [
+    "Concept:semantic-layer/w/077"
+  ],
+  "semantic near-duplicate": [
+    "Concept:semantic-near-duplicate/w/128"
+  ],
+  "semdedup": [
+    "Concept:semdedup/w/127"
+  ],
+  "sequence packing": [
+    "Concept:sequence-packing/w/117"
+  ],
+  "server licence ≠ library licence": [
+    "Concept:server-licence-library-licence/w/149"
+  ],
+  "server pci express module (extended form factor)": [
+    "Concept:sxm/w/466"
+  ],
+  "server-sent events": [
+    "Concept:sse/w/015"
+  ],
+  "server-side agent": [
+    "Concept:server-side-agent/w/068"
+  ],
+  "serverless gpu / scale-to-zero": [
+    "Concept:serverless-gpu-scale-to-zero/w/030"
+  ],
+  "service account": [
+    "Concept:service-account/w/063"
+  ],
+  "service level agreement": [
+    "Concept:sla/w/080",
+    "Concept:sla/w/392"
+  ],
+  "service level indicator": [
+    "Concept:sli/w/080",
+    "Concept:sli/w/081"
+  ],
+  "service level objective": [
+    "Concept:slo/w/081",
+    "Concept:slo/w/082",
+    "Concept:slo/w/343",
+    "Concept:slo/w/393"
+  ],
+  "service-level objective": [
+    "Concept:slo/w/134"
+  ],
+  "serving": [
+    "Concept:prometheus-metrics/w/184",
+    "Concept:queue-depth/w/185"
+  ],
+  "serving engine by workload shape": [
+    "Concept:serving-engine-by-workload-shape/w/156"
+  ],
+  "serving frameworks": [
+    "Concept:serving-frameworks/w/088"
+  ],
+  "serving system, kimi, fast'25": [
+    "Concept:mooncake/w/431"
+  ],
+  "session": [
+    "Concept:session/w/112"
+  ],
+  "session affinity / sticky sessions": [
+    "Concept:session-affinity-sticky-sessions/w/025"
+  ],
+  "session-hour": [
+    "Concept:session-hour/w/114"
+  ],
+  "severity tier": [
+    "Concept:severity-tier/w/054"
+  ],
+  "sft": [
+    "Concept:sft/w/129",
+    "Concept:sft/w/131",
+    "Concept:sft/w/132"
+  ],
+  "sgl-router": [
+    "Concept:sgl-router/w/229"
+  ],
+  "sglang": [
+    "Concept:sglang/w/137"
+  ],
+  "sglang router": [
+    "Concept:sgl-router/w/229"
+  ],
+  "sgmv": [
+    "Concept:sgmv/w/210"
+  ],
+  "sha-256": [
+    "Concept:sha-256/w/453"
+  ],
+  "shadow deployment": [
+    "Concept:shadow-deployment/w/130"
+  ],
+  "shadow deployment / mirror": [
+    "Concept:shadow-deployment-mirror/w/133"
+  ],
+  "shadow traffic": [
+    "Concept:shadow-traffic/w/035"
+  ],
+  "shadowing": [
+    "Concept:shadowing/w/082"
+  ],
+  "shared expert": [
+    "Concept:shared-expert/w/046"
+  ],
+  "shared state": [
+    "Concept:shared-state/w/029"
+  ],
+  "shift-left": [
+    "Concept:shift-left/w/059"
+  ],
+  "shift-left enforcement": [
+    "Concept:shift-left-enforcement/w/130"
+  ],
+  "short-term memory": [
+    "Concept:short-term-memory/w/020"
+  ],
+  "showback": [
+    "Concept:showback/w/057"
+  ],
+  "side effect": [
+    "Concept:side-effect/w/093"
+  ],
+  "sierra": [
+    "Concept:tau-bench-tau2-bench/w/042"
+  ],
+  "sifflet": [
+    "Concept:sifflet/w/023"
+  ],
+  "signal + `wait_condition()`": [
+    "Concept:signal-wait-condition/w/063"
+  ],
+  "sigstore / cosign": [
+    "Concept:sigstore-cosign/w/064"
+  ],
+  "silence": [
+    "Concept:silence/w/056"
+  ],
+  "silent behavioral regression": [
+    "Concept:silent-behavioral-regression/w/039"
+  ],
+  "silent data issue": [
+    "Concept:silent-data-issue/w/003"
+  ],
+  "silent failure": [
+    "Concept:silent-failure/w/154"
+  ],
+  "silent failure / loud failure": [
+    "Concept:silent-failure-loud-failure/w/078"
+  ],
+  "silent invalidator": [
+    "Concept:silent-invalidator/w/048"
+  ],
+  "silicon diversification": [
+    "Concept:silicon-diversification/w/379"
+  ],
+  "silver": [
+    "Concept:silver/w/131"
+  ],
+  "simpo": [
+    "Concept:simpo/w/032"
+  ],
+  "simpson's paradox": [
+    "Concept:simpson-s-paradox/w/130"
+  ],
+  "simulation + replay": [
+    "Concept:simulation-replay/w/219"
+  ],
+  "single-agent": [
+    "Concept:single-agent/w/001"
+  ],
+  "singleturnsample": [
+    "Concept:singleturnsample/w/075"
+  ],
+  "sisa": [
+    "Concept:sisa/w/065"
+  ],
+  "skill.md": [
+    "Concept:skill-md/w/061"
+  ],
+  "skypilot": [
+    "Concept:skypilot/w/022"
+  ],
+  "skywork-reward-v2": [
+    "Concept:skywork-reward-v2/w/131"
+  ],
+  "skywork-reward-v2 / helpsteer2 / rewardbench v2": [
+    "Concept:skywork-reward-v2-helpsteer2-rewardbench-v2/w/058"
+  ],
+  "sla": [
+    "Concept:sla/w/079",
+    "Concept:sla/w/080",
+    "Concept:sla/w/132",
+    "Concept:sla/w/392"
+  ],
+  "sleep mode": [
+    "Concept:sleep-mode/w/311"
+  ],
+  "slerp / task arithmetic / ties / dare / dare-ties": [
+    "Concept:slerp-task-arithmetic-ties-dare-dare-ties/w/095"
+  ],
+  "sli": [
+    "Concept:sli/w/080",
+    "Concept:sli/w/081"
+  ],
+  "slo": [
+    "Concept:slo/w/081",
+    "Concept:slo/w/082",
+    "Concept:slo/w/133",
+    "Concept:slo/w/134",
+    "Concept:slo/w/343",
+    "Concept:slo/w/393"
+  ],
+  "slow burn": [
+    "Concept:slow-burn/w/049"
+  ],
+  "sm100": [
+    "Concept:sm100/w/469"
+  ],
+  "sm_active / sm_occupancy": [
+    "Concept:sm-active-sm-occupancy/w/149"
+  ],
+  "small-files problem": [
+    "Concept:small-files-problem/w/134"
+  ],
+  "small-n warning": [
+    "Concept:clt-under-coverage/w/086"
+  ],
+  "smooth factor": [
+    "Concept:smooth-factor/w/249"
+  ],
+  "snowflake openflow": [
+    "Concept:snowflake-openflow/w/140"
+  ],
+  "so sánh ghép cặp": [
+    "Concept:paired-comparison/w/083"
+  ],
+  "soda core / great expectations": [
+    "Concept:soda-core-great-expectations/w/084"
+  ],
+  "soda core 4.0": [
+    "Concept:soda-core-4-0/w/032"
+  ],
+  "soda core v4": [
+    "Concept:soda-core-v4/w/135"
+  ],
+  "sodacl": [
+    "Concept:sodacl/w/033"
+  ],
+  "soft success": [
+    "Concept:soft-success/w/115"
+  ],
+  "software bill of materials": [
+    "Concept:sbom/w/011"
+  ],
+  "software carbon intensity": [
+    "Concept:sci/w/066"
+  ],
+  "software-defined assets": [
+    "Concept:sda/w/124"
+  ],
+  "source-available": [
+    "Concept:source-available/w/070"
+  ],
+  "source-available ≠ open source": [
+    "Concept:source-available-open-source/w/151"
+  ],
+  "span": [
+    "Concept:span/w/082",
+    "Concept:span/w/083",
+    "Concept:span/w/084",
+    "Concept:span/w/085",
+    "Concept:span/w/086"
+  ],
+  "span context": [
+    "Concept:span-context/w/013"
+  ],
+  "span profile": [
+    "Concept:span-profile/w/172"
+  ],
+  "spark declarative pipelines": [
+    "Concept:sdp/w/125"
+  ],
+  "spearman correlation": [
+    "Concept:spearman-correlation/w/091"
+  ],
+  "spec 2026-07-28": [
+    "Concept:stateless-mcp/w/119"
+  ],
+  "spec v2 (sglang) & the overlap scheduler": [
+    "Concept:spec-v2-sglang-the-overlap-scheduler/w/134"
+  ],
+  "specialist-then-consolidate": [
+    "Concept:specialist-then-consolidate/w/035"
+  ],
+  "specialization trade-off": [
+    "Concept:specialization-trade-off/w/006"
+  ],
+  "spectrum": [
+    "Concept:spectrum/w/007"
+  ],
+  "spectrum tier": [
+    "Concept:reactive-agent/w/005"
+  ],
+  "speculative cascade": [
+    "Concept:speculative-cascade/w/299"
+  ],
+  "speculative decoding": [
+    "Concept:speculative-decoding/w/085",
+    "Concept:speculative-decoding/w/086",
+    "Concept:speculative-decoding/w/098"
+  ],
+  "speculative decoding / acceptance rate": [
+    "Concept:speculative-decoding-acceptance-rate/w/050"
+  ],
+  "speculators": [
+    "Concept:speculators/w/132"
+  ],
+  "speed-bench": [
+    "Concept:speed-bench/w/413"
+  ],
+  "spiffe / spire": [
+    "Concept:spiffe-spire/w/066"
+  ],
+  "spiffe / svid": [
+    "Concept:spiffe-svid/w/137"
+  ],
+  "splitwise": [
+    "Concept:splitwise/w/192"
+  ],
+  "spot / preemptible": [
+    "Concept:spot-preemptible/w/016"
+  ],
+  "spot instances": [
+    "Concept:spot-instances/w/407"
+  ],
+  "spotlighting": [
+    "Concept:spotlighting/w/027"
+  ],
+  "spurious rewards": [
+    "Concept:spurious-rewards/w/124"
+  ],
+  "sqlmesh": [
+    "Concept:sqlmesh/w/136"
+  ],
+  "sram": [
+    "Concept:sram/w/114"
+  ],
+  "sram vs hbm": [
+    "Concept:sram-vs-hbm/w/087"
+  ],
+  "srm": [
+    "Concept:srm/w/128"
+  ],
+  "sse": [
+    "Concept:sse/w/015"
+  ],
+  "ssm": [
+    "Concept:ssm/w/078"
+  ],
+  "stale-while-revalidate": [
+    "Concept:stale-while-revalidate/w/023"
+  ],
+  "standard error": [
+    "Concept:standard-error/w/080"
+  ],
+  "stanza": [
+    "Concept:stanza/w/067"
+  ],
+  "startup probe": [
+    "Concept:startup-probe/w/055"
+  ],
+  "state": [
+    "Concept:reducer/w/085",
+    "Concept:state/w/054"
+  ],
+  "state of finops": [
+    "Concept:state-of-finops/w/056"
+  ],
+  "state schema": [
+    "Concept:state-schema/w/031"
+  ],
+  "state space model": [
+    "Concept:ssm/w/078"
+  ],
+  "state-graph": [
+    "Concept:state-graph/w/040"
+  ],
+  "stategraph": [
+    "Concept:stategraph/w/055"
+  ],
+  "stateless mcp": [
+    "Concept:stateless-mcp/w/119"
+  ],
+  "stateless process": [
+    "Concept:stateless-process/w/021"
+  ],
+  "static batch": [
+    "Concept:static-batch/w/262"
+  ],
+  "static batching": [
+    "Concept:static-batching/w/015",
+    "Concept:static-batching/w/083"
+  ],
+  "static interrupt": [
+    "Concept:static-interrupt/w/060"
+  ],
+  "static random access memory": [
+    "Concept:sram/w/114"
+  ],
+  "status page": [
+    "Concept:status-page/w/112"
+  ],
+  "stdio transport": [
+    "Concept:stdio-transport/w/038"
+  ],
+  "sticky": [
+    "Concept:sticky/w/034"
+  ],
+  "stl": [
+    "Concept:stl/w/083"
+  ],
+  "stratified prediction-powered inference": [
+    "Concept:stratified-prediction-powered-inference/w/104"
+  ],
+  "stratified sampling": [
+    "Concept:stratified-sampling/w/013",
+    "Concept:stratified-sampling/w/137"
+  ],
+  "stratppi / faq": [
+    "Concept:stratified-prediction-powered-inference/w/104"
+  ],
+  "streamable http": [
+    "Concept:streamable-http/w/118"
+  ],
+  "streamable http transport": [
+    "Concept:streamable-http-transport/w/039"
+  ],
+  "streaming": [
+    "Concept:streaming/w/084",
+    "Concept:streaming/w/138"
+  ],
+  "streaming data observability": [
+    "Concept:streaming-data-observability/w/101"
+  ],
+  "streaming multiprocessor generation 100": [
+    "Concept:sm100/w/469"
+  ],
+  "streaming table": [
+    "Concept:streaming-table/w/139"
+  ],
+  "streamingllm": [
+    "Concept:streamingllm/w/076"
+  ],
+  "strict mode": [
+    "Concept:strict-mode/w/033"
+  ],
+  "strong-to-weak distillation": [
+    "Concept:strong-to-weak-distillation/w/032"
+  ],
+  "strongreject": [
+    "Concept:strongreject/w/137"
+  ],
+  "structured generation": [
+    "Concept:json-schema/w/176"
+  ],
+  "structured generation language": [
+    "Concept:sglang/w/137"
+  ],
+  "structured logging": [
+    "Concept:structured-logging/w/016",
+    "Concept:structured-logging/w/045"
+  ],
+  "structured outputs": [
+    "Concept:strict-mode/w/033"
+  ],
+  "style-controlled": [
+    "Concept:arena-hard-v2/w/147"
+  ],
+  "suffix decay": [
+    "Concept:suffix-decay/w/122"
+  ],
+  "summary": [
+    "Concept:summary/w/026"
+  ],
+  "supervised fine-tuning": [
+    "Concept:sft/w/129",
+    "Concept:sft/w/131",
+    "Concept:sft/w/132"
+  ],
+  "supervisor": [
+    "Concept:supervisor/w/026"
+  ],
+  "supervisor-worker": [
+    "Concept:supervisor-worker/w/010"
+  ],
+  "sutva / interference": [
+    "Concept:sutva-interference/w/131"
+  ],
+  "swe-bench pro": [
+    "Concept:swe-bench-pro/w/030"
+  ],
+  "swe-bench verified": [
+    "Concept:swe-bench-verified/w/029"
+  ],
+  "switchback experiment": [
+    "Concept:switchback-experiment/w/132"
+  ],
+  "sxm": [
+    "Concept:sxm/w/466"
+  ],
+  "symptom-based alerting": [
+    "Concept:symptom-based-alerting/w/050"
+  ],
+  "symptom-based vs cause-based alerting": [
+    "Concept:symptom-based-vs-cause-based-alerting/w/042"
+  ],
+  "synthetic data": [
+    "Concept:mode-collapse/w/083",
+    "Concept:synthetic-data/w/141",
+    "Concept:synthetic-data/w/142"
+  ],
+  "synthetic eval data": [
+    "Concept:testsetgenerator/w/076"
+  ],
+  "system card": [
+    "Concept:system-card/w/083"
+  ],
+  "system prompt": [
+    "Concept:system-prompt/w/035"
+  ],
+  "system prompt leakage": [
+    "Concept:system-prompt-leakage/w/013"
+  ],
+  "system thinking": [
+    "Concept:tu-duy-he-thong/w/008"
+  ],
+  "t-closeness": [
+    "Concept:t-closeness/w/069"
+  ],
+  "table format": [
+    "Concept:table-format/w/085"
+  ],
+  "table-level lineage": [
+    "Concept:table-level-lineage/w/086"
+  ],
+  "tail-based sampling": [
+    "Concept:tail-based-sampling/w/070"
+  ],
+  "tail-risk": [
+    "Concept:tail-risk/w/025"
+  ],
+  "tail-sampling": [
+    "Concept:tail-sampling/w/174"
+  ],
+  "tapt": [
+    "Concept:tapt/w/078"
+  ],
+  "target reward margin": [
+    "Concept:term/w/121"
+  ],
+  "task / message / part / artifact": [
+    "Concept:task-message-part-artifact/w/046"
+  ],
+  "task-adaptive pt": [
+    "Concept:tapt/w/078"
+  ],
+  "taskflow api": [
+    "Concept:taskflow-api/w/142"
+  ],
+  "tau-bench / tau2-bench": [
+    "Concept:tau-bench-tau2-bench/w/042"
+  ],
+  "tbo": [
+    "Concept:enable-two-batch-overlap/w/436",
+    "Concept:two-batch-overlap/w/220"
+  ],
+  "tco": [
+    "Concept:tco/w/005"
+  ],
+  "tee": [
+    "Concept:tee/w/285"
+  ],
+  "tee-i/o": [
+    "Concept:tee-i-o/w/288"
+  ],
+  "tei": [
+    "Concept:tei/w/267"
+  ],
+  "telemetry": [
+    "Concept:telemetry/w/003",
+    "Concept:telemetry/w/004",
+    "Concept:telemetry/w/049"
+  ],
+  "temperature-0 is not deterministic": [
+    "Concept:temperature-0-is-not-deterministic/w/092"
+  ],
+  "temperature=0": [
+    "Concept:temperature-0/w/069"
+  ],
+  "template drift": [
+    "Concept:template-drift/w/153"
+  ],
+  "tempo": [
+    "Concept:tempo/w/067"
+  ],
+  "temporal": [
+    "Concept:temporal/w/143"
+  ],
+  "tensor / pipeline parallelism": [
+    "Concept:tensor-pipeline-parallelism/w/087"
+  ],
+  "tensor memory accelerator": [
+    "Concept:tma/w/098"
+  ],
+  "tensor parallelism": [
+    "Concept:tensor-parallelism/w/203",
+    "Concept:tensor-parallelism/w/231"
+  ],
+  "tensor processing unit version 7 ironwood": [
+    "Concept:google-tpu-v7-ironwood/w/370"
+  ],
+  "tensor real-time": [
+    "Concept:tensorrt/w/109"
+  ],
+  "tensor runtime": [
+    "Concept:tensorrt/w/359"
+  ],
+  "tensorflow serving": [
+    "Concept:tf-serving/w/009"
+  ],
+  "tensorrt": [
+    "Concept:tensorrt/w/109",
+    "Concept:tensorrt/w/359"
+  ],
+  "tensorrt-llm": [
+    "Concept:tensorrt-llm/w/141"
+  ],
+  "tensorrt-llm multi-head attention kernel": [
+    "Concept:trtllm-mha/w/169"
+  ],
+  "teraflops": [
+    "Concept:tflops/w/376"
+  ],
+  "terawatt-hour": [
+    "Concept:twh/w/461"
+  ],
+  "terraform grafana provider": [
+    "Concept:terraform-grafana-provider/w/041"
+  ],
+  "testsetgenerator": [
+    "Concept:testsetgenerator/w/076"
+  ],
+  "text embeddings inference": [
+    "Concept:tei/w/267"
+  ],
+  "text-based react": [
+    "Concept:text-based-react/w/031"
+  ],
+  "text-to-pipeline": [
+    "Concept:text-to-pipeline/w/144"
+  ],
+  "text-to-sql": [
+    "Concept:text-to-sql/w/087"
+  ],
+  "tf serving": [
+    "Concept:tf-serving/w/009"
+  ],
+  "tflops": [
+    "Concept:tflops/w/376"
+  ],
+  "thang điểm chấm": [
+    "Concept:rubric/w/054"
+  ],
+  "the fourth rollback axis": [
+    "Concept:the-fourth-rollback-axis/w/159"
+  ],
+  "the leaderboard illusion": [
+    "Concept:the-leaderboard-illusion/w/037"
+  ],
+  "the lie": [
+    "Concept:gpu-util/w/148"
+  ],
+  "the three layers": [
+    "Concept:the-three-layers/w/153"
+  ],
+  "thinking mode fusion": [
+    "Concept:thinking-mode-fusion/w/031"
+  ],
+  "thiên kiến tự ưu ái": [
+    "Concept:self-enhancement-self-preference-bias/w/059"
+  ],
+  "thiên kiến vị trí": [
+    "Concept:position-bias/w/057"
+  ],
+  "thiên kiến độ dài": [
+    "Concept:verbosity-length-bias/w/058"
+  ],
+  "thompson sampling": [
+    "Concept:mab/w/127"
+  ],
+  "thought": [
+    "Concept:thought/w/025"
+  ],
+  "thread-scoped vs assistant-scoped sandbox": [
+    "Concept:thread-scoped-vs-assistant-scoped-sandbox/w/146"
+  ],
+  "thread_id": [
+    "Concept:thread-id/w/057"
+  ],
+  "three mandatory baselines": [
+    "Concept:three-mandatory-baselines/w/158"
+  ],
+  "three pillars": [
+    "Concept:three-pillars/w/004",
+    "Concept:three-pillars/w/005"
+  ],
+  "three questions for any \"open source\" dependency": [
+    "Concept:three-questions-for-any-open-source-dependency/w/152"
+  ],
+  "three reward-model families": [
+    "Concept:three-reward-model-families/w/128"
+  ],
+  "threshold": [
+    "Concept:threshold/w/303"
+  ],
+  "throughput": [
+    "Concept:throughput/w/005",
+    "Concept:throughput/w/397"
+  ],
+  "thăng cấp": [
+    "Concept:promotion/w/026"
+  ],
+  "thứ tự render": [
+    "Concept:thu-tu-render/w/043"
+  ],
+  "tia": [
+    "Concept:tia/w/088"
+  ],
+  "tier 0": [
+    "Concept:tier-0/w/111"
+  ],
+  "tier 0 / managed agent runtime": [
+    "Concept:tier-0-managed-agent-runtime/w/035"
+  ],
+  "tier-0 sense": [
+    "Concept:session/w/112"
+  ],
+  "tiered": [
+    "Concept:anomaly-detection/w/040"
+  ],
+  "tiered sampling": [
+    "Concept:tiered-sampling/w/103"
+  ],
+  "tiered slm→llm data quality": [
+    "Concept:tiered-slm-llm-data-quality/w/145"
+  ],
+  "tiling": [
+    "Concept:tiling/w/096"
+  ],
+  "time horizon": [
+    "Concept:time-horizon/w/074"
+  ],
+  "time per output token": [
+    "Concept:tpot/w/002",
+    "Concept:tpot/w/198"
+  ],
+  "time to first token": [
+    "Concept:ttft/w/067",
+    "Concept:ttft/w/068",
+    "Concept:ttft/w/069",
+    "Concept:ttft/w/197",
+    "Concept:ttft/w/342"
+  ],
+  "timeout": [
+    "Concept:timeout/w/404"
+  ],
+  "timeout / loop": [
+    "Concept:timeout-loop/w/047"
+  ],
+  "tiền tố": [
+    "Concept:cache-prefix/w/042"
+  ],
+  "tma": [
+    "Concept:tma/w/098"
+  ],
+  "tok/s per gpu": [
+    "Concept:throughput/w/397"
+  ],
+  "token cost": [
+    "Concept:token-cost/w/067"
+  ],
+  "token efficiency": [
+    "Concept:token-efficiency/w/050"
+  ],
+  "token passthrough": [
+    "Concept:token-passthrough/w/121"
+  ],
+  "token streaming": [
+    "Concept:token-streaming/w/017",
+    "Concept:token-streaming/w/087"
+  ],
+  "token telemetry": [
+    "Concept:token-telemetry/w/089"
+  ],
+  "token vaulting": [
+    "Concept:token-vaulting/w/071"
+  ],
+  "token yield rate": [
+    "Concept:token-yield-rate/w/055"
+  ],
+  "tokens-per-joule": [
+    "Concept:tokens-per-joule/w/279",
+    "Concept:tokens-per-joule/w/385"
+  ],
+  "tokens-per-watt / wh per query": [
+    "Concept:tokens-per-watt-wh-per-query/w/067"
+  ],
+  "tom wilkie 2017": [
+    "Concept:red-method/w/016"
+  ],
+  "tool": [
+    "Concept:rug-pull/w/083"
+  ],
+  "tool calling": [
+    "Concept:tool-calling/w/022"
+  ],
+  "tool definition": [
+    "Concept:tool-definition/w/023"
+  ],
+  "tool discovery": [
+    "Concept:tool-discovery/w/038"
+  ],
+  "tool poisoning": [
+    "Concept:tool-poisoning/w/041",
+    "Concept:tool-poisoning/w/081"
+  ],
+  "tool registry": [
+    "Concept:tool-registry/w/036"
+  ],
+  "tool schema": [
+    "Concept:tool-schema/w/007"
+  ],
+  "tool search / dynamic discovery": [
+    "Concept:tool-search-dynamic-discovery/w/223"
+  ],
+  "tool-call correctness": [
+    "Concept:tool-call-correctness/w/047"
+  ],
+  "tool-call success rate": [
+    "Concept:tool-call-success-rate/w/032"
+  ],
+  "tool-output poisoning": [
+    "Concept:tool-output-poisoning/w/146"
+  ],
+  "tool/reasoning parser": [
+    "Concept:kimi-k2/w/428"
+  ],
+  "tools / resources / prompts": [
+    "Concept:tools-resources-prompts/w/035"
+  ],
+  "topic filtering": [
+    "Concept:topic-filtering/w/020"
+  ],
+  "torch.compile": [
+    "Concept:dynamic-true/w/118",
+    "Concept:torch-compile/w/103"
+  ],
+  "torch.fx": [
+    "Concept:torch-fx/w/115"
+  ],
+  "torchinductor": [
+    "Concept:torchinductor/w/104"
+  ],
+  "torchserve": [
+    "Concept:torchserve/w/012"
+  ],
+  "total": [
+    "Concept:latency/w/051"
+  ],
+  "total cost of ownership": [
+    "Concept:tco/w/005"
+  ],
+  "tp": [
+    "Concept:tensor-parallelism/w/203",
+    "Concept:tensor-parallelism/w/231"
+  ],
+  "tpot": [
+    "Concept:tpot/w/002",
+    "Concept:tpot/w/198"
+  ],
+  "tpot / throughput": [
+    "Concept:tpot-throughput/w/013"
+  ],
+  "tpu v7 codename": [
+    "Concept:ironwood/w/467"
+  ],
+  "trace": [
+    "Concept:trace/w/089",
+    "Concept:trace/w/090",
+    "Concept:trace/w/091",
+    "Concept:trace/w/092",
+    "Concept:trace/w/093",
+    "Concept:trace/w/094"
+  ],
+  "trace context propagation": [
+    "Concept:trace-context-propagation/w/061"
+  ],
+  "trace grading": [
+    "Concept:trace-grading/w/051"
+  ],
+  "trace metric vs outcome metric": [
+    "Concept:trace-metric-vs-outcome-metric/w/113"
+  ],
+  "traceparent header": [
+    "Concept:traceparent-header/w/062"
+  ],
+  "trained-to vs extrapolated-to": [
+    "Concept:trained-to-vs-extrapolated-to/w/028"
+  ],
+  "training ban": [
+    "Concept:training-ban/w/168"
+  ],
+  "training opt-out": [
+    "Concept:training-opt-out/w/072"
+  ],
+  "training-serving skew": [
+    "Concept:training-serving-skew/w/147",
+    "Concept:training-serving-skew/w/148"
+  ],
+  "trajectory / trace": [
+    "Concept:trajectory-trace/w/011"
+  ],
+  "trajectory replay": [
+    "Concept:trajectory-replay/w/117",
+    "Concept:trajectory-replay/w/142"
+  ],
+  "trajectory-match evaluator": [
+    "Concept:trajectory-match-evaluator/w/050"
+  ],
+  "transfer impact assessment": [
+    "Concept:tia/w/088"
+  ],
+  "transport": [
+    "Concept:transport/w/037"
+  ],
+  "triage / intent": [
+    "Concept:triage-intent/w/059"
+  ],
+  "trifecta split": [
+    "Concept:trifecta-split/w/073"
+  ],
+  "trigger authorization": [
+    "Concept:trigger-authorization/w/171"
+  ],
+  "triton attention backend": [
+    "Concept:triton-attention-backend/w/170"
+  ],
+  "triton inference server": [
+    "Concept:triton-inference-server/w/010"
+  ],
+  "triton kernels": [
+    "Concept:triton-kernels/w/105"
+  ],
+  "trl log keys": [
+    "Concept:trl-log-keys/w/029"
+  ],
+  "trtllm_mha": [
+    "Concept:trtllm-mha/w/169"
+  ],
+  "trufflehog": [
+    "Concept:trufflehog/w/074"
+  ],
+  "trust boundary": [
+    "Concept:trust-boundary/w/050"
+  ],
+  "trusted execution environment": [
+    "Concept:tee/w/285"
+  ],
+  "trusted execution environment input/output": [
+    "Concept:tee-i-o/w/288"
+  ],
+  "trustworthy / trust score": [
+    "Concept:trustworthy-trust-score/w/016"
+  ],
+  "trường hợp biên / đầu vào đối kháng": [
+    "Concept:edge-case-adversarial-input/w/014"
+  ],
+  "ttd / ttr": [
+    "Concept:ttd-ttr/w/006"
+  ],
+  "ttft": [
+    "Concept:ttft/w/067",
+    "Concept:ttft/w/068",
+    "Concept:ttft/w/069",
+    "Concept:ttft/w/197",
+    "Concept:ttft/w/342",
+    "Concept:ttft/w/343"
+  ],
+  "ttft / tpot / itl": [
+    "Concept:ttft-tpot-itl/w/159",
+    "Concept:ttft-tpot-itl/w/160"
+  ],
+  "tulu 3 = ppo vs tulu 3.1 = grpo": [
+    "Concept:tulu-3-ppo-vs-tulu-3-1-grpo/w/151"
+  ],
+  "tumbling window": [
+    "Concept:tumbling-window/w/148"
+  ],
+  "turbomind": [
+    "Concept:turbomind/w/417"
+  ],
+  "turboquant": [
+    "Concept:turboquant/w/063"
+  ],
+  "twh": [
+    "Concept:twh/w/461"
+  ],
+  "two independent cost axes": [
+    "Concept:two-independent-cost-axes/w/173"
+  ],
+  "two independent isolation layers": [
+    "Concept:two-independent-isolation-layers/w/167"
+  ],
+  "two-batch overlap": [
+    "Concept:two-batch-overlap/w/220"
+  ],
+  "two-stage distillation recipe": [
+    "Concept:two-stage-distillation-recipe/w/139"
+  ],
+  "two-tier": [
+    "Concept:tail-sampling/w/174"
+  ],
+  "tư duy hệ thống": [
+    "Concept:tu-duy-he-thong/w/008"
+  ],
+  "tầng 1": [
+    "Concept:phan-tang-context/w/064"
+  ],
+  "tầng 2": [
+    "Concept:phan-tang-context/w/064"
+  ],
+  "từ chối": [
+    "Concept:refusal/w/120"
+  ],
+  "tỷ lệ trúng": [
+    "Concept:hit-rate-k/w/016"
+  ],
+  "tỷ lệ đồng thuận": [
+    "Concept:agreement-rate/w/062"
+  ],
+  "ultrafeedback": [
+    "Concept:ultrafeedback/w/048"
+  ],
+  "unbounded consumption": [
+    "Concept:unbounded-consumption/w/047"
+  ],
+  "unicode composed": [
+    "Concept:nfc/w/060"
+  ],
+  "unicode decomposed": [
+    "Concept:nfd/w/061"
+  ],
+  "unified memory pool": [
+    "Concept:unified-memory-pool/w/157"
+  ],
+  "unit-economics flip": [
+    "Concept:unit-economics-flip/w/096"
+  ],
+  "unity catalog": [
+    "Concept:unity-catalog/w/057",
+    "Concept:unity-catalog/w/075",
+    "Concept:unity-catalog/w/076"
+  ],
+  "upsert": [
+    "Concept:upsert/w/090"
+  ],
+  "upsert-kafka": [
+    "Concept:upsert-kafka/w/149"
+  ],
+  "uptime / availability": [
+    "Concept:uptime-availability/w/399"
+  ],
+  "use method": [
+    "Concept:use-method/w/017"
+  ],
+  "v0.4 gotcha": [
+    "Concept:collections-namespace/w/074"
+  ],
+  "v1 → v2": [
+    "Concept:v1-v2/w/055"
+  ],
+  "valid-trace rate": [
+    "Concept:valid-trace-rate/w/130"
+  ],
+  "validating your judge": [
+    "Concept:calibration/w/075"
+  ],
+  "value model / critic": [
+    "Concept:value-model-critic/w/040"
+  ],
+  "value-free rlhf family": [
+    "Concept:value-free-rlhf-family/w/110"
+  ],
+  "vanity metric": [
+    "Concept:gpu-hr/w/006"
+  ],
+  "variable / template variable": [
+    "Concept:variable-template-variable/w/037"
+  ],
+  "vcache": [
+    "Concept:vcache/w/271"
+  ],
+  "vector store": [
+    "Concept:vector-store/w/091"
+  ],
+  "vector-db health telemetry": [
+    "Concept:vector-db-health-telemetry/w/087"
+  ],
+  "vendor lock": [
+    "Concept:rui-ro-nha-cung-cap/w/019"
+  ],
+  "vendor lock-in": [
+    "Concept:vendor-lock-in/w/036"
+  ],
+  "vera": [
+    "Concept:vera/w/099"
+  ],
+  "vera rubin nvl144": [
+    "Concept:vera-rubin-nvl144/w/293"
+  ],
+  "verbosity / length bias": [
+    "Concept:verbosity-length-bias/w/058"
+  ],
+  "verifier / sandbox": [
+    "Concept:verifier-sandbox/w/152"
+  ],
+  "verifier-gaming": [
+    "Concept:verifier-gaming/w/123"
+  ],
+  "verl": [
+    "Concept:verl/w/151"
+  ],
+  "version bất biến": [
+    "Concept:version-bat-bien/w/013"
+  ],
+  "vibe coding": [
+    "Concept:vibe-coding/w/067"
+  ],
+  "vibe-check": [
+    "Concept:vibe-check/w/004"
+  ],
+  "victoriametrics / mimir / thanos": [
+    "Concept:victoriametrics-mimir-thanos/w/181"
+  ],
+  "video random access memory": [
+    "Concept:vram/w/049"
+  ],
+  "vietnam": [
+    "Concept:pdpl/w/066"
+  ],
+  "vigilance decrement": [
+    "Concept:vigilance-decrement/w/071"
+  ],
+  "vinallama / phogpt / vistral / seallm / sailor / sailor2": [
+    "Concept:vinallama-phogpt-vistral-seallm-sailor-sailor2/w/061"
+  ],
+  "virtual data environments": [
+    "Concept:virtual-data-environments/w/150"
+  ],
+  "virtual token counter": [
+    "Concept:vtc/w/207"
+  ],
+  "vision transformer": [
+    "Concept:vit/w/254"
+  ],
+  "vision-language model": [
+    "Concept:vlm/w/252"
+  ],
+  "visual grounding": [
+    "Concept:hallucination-as-reward/w/159"
+  ],
+  "vit": [
+    "Concept:vit/w/254"
+  ],
+  "vllm": [
+    "Concept:scheduling-policy/w/205",
+    "Concept:sleep-mode/w/311",
+    "Concept:vllm/w/020",
+    "Concept:vllm/w/136",
+    "Concept:weight-transfer/w/312"
+  ],
+  "vllm / continuous batching / pagedattention": [
+    "Concept:vllm-continuous-batching-pagedattention/w/097"
+  ],
+  "vllm production-stack": [
+    "Concept:vllm-production-stack/w/336"
+  ],
+  "vllm scheduler": [
+    "Concept:preemption/w/418"
+  ],
+  "vllm v1": [
+    "Concept:unified-memory-pool/w/157"
+  ],
+  "vllm v1 metrics": [
+    "Concept:vllm-v1-metrics/w/158"
+  ],
+  "vllm-project/speculators": [
+    "Concept:speculators/w/132"
+  ],
+  "vlm": [
+    "Concept:vlm/w/252"
+  ],
+  "vlm parsing": [
+    "Concept:vlm-parsing/w/153"
+  ],
+  "vn pdpl": [
+    "Concept:vn-pdpl/w/191",
+    "Concept:vn-pdpl/w/192"
+  ],
+  "volume": [
+    "Concept:volume/w/011"
+  ],
+  "voyage": [
+    "Concept:voyage/w/457"
+  ],
+  "vram": [
+    "Concept:vram/w/049"
+  ],
+  "vtc": [
+    "Concept:vtc/w/207"
+  ],
+  "vulkan": [
+    "Concept:vulkan/w/389"
+  ],
+  "vòng lặp agent": [
+    "Concept:vong-lap-agent/w/084"
+  ],
+  "vòng lặp cải tiến liên tục": [
+    "Concept:continuous-improvement-loop/w/124"
+  ],
+  "w4a16": [
+    "Concept:w4a16/w/061"
+  ],
+  "w8a8": [
+    "Concept:w8a8/w/062"
+  ],
+  "war room": [
+    "Concept:war-room/w/111"
+  ],
+  "warm pool": [
+    "Concept:warm-pool/w/321"
+  ],
+  "warmup": [
+    "Concept:warmup/w/144"
+  ],
+  "warpstream": [
+    "Concept:warpstream/w/154"
+  ],
+  "wasserstein distance": [
+    "Concept:wasserstein-distance/w/050"
+  ],
+  "water usage effectiveness": [
+    "Concept:wue/w/065"
+  ],
+  "watermark": [
+    "Concept:watermark/w/092",
+    "Concept:watermark/w/156"
+  ],
+  "watermark / forboundedoutoforderness": [
+    "Concept:watermark-forboundedoutoforderness/w/155"
+  ],
+  "watt-hours per query": [
+    "Concept:wh-query/w/462"
+  ],
+  "weak-to-strong generalization": [
+    "Concept:weak-to-strong-generalization/w/140"
+  ],
+  "webdataset / sharding": [
+    "Concept:webdataset-sharding/w/157"
+  ],
+  "webgpu": [
+    "Concept:webgpu/w/072"
+  ],
+  "websocket": [
+    "Concept:websocket/w/016"
+  ],
+  "weight transfer": [
+    "Concept:weight-transfer/w/312"
+  ],
+  "weights 4-bit, activations 16-bit": [
+    "Concept:w4a16/w/061"
+  ],
+  "weights 8-bit, activations 8-bit": [
+    "Concept:w8a8/w/062"
+  ],
+  "weights-vs-index distinction": [
+    "Concept:weights-vs-index-distinction/w/172"
+  ],
+  "wh/query": [
+    "Concept:wh-query/w/462"
+  ],
+  "when rl beats dpo": [
+    "Concept:when-rl-beats-dpo/w/046"
+  ],
+  "wilson score interval / bayesian beta-bernoulli": [
+    "Concept:wilson-score-interval-bayesian-beta-bernoulli/w/087"
+  ],
+  "wizardcoder, openmathinstruct, tulu-3 rlvr data": [
+    "Concept:wizardcoder-openmathinstruct-tulu-3-rlvr-data/w/081"
+  ],
+  "worker": [
+    "Concept:worker/w/027"
+  ],
+  "worker pool": [
+    "Concept:worker-pool/w/107"
+  ],
+  "workflow vs agent": [
+    "Concept:workflow-vs-agent/w/015"
+  ],
+  "workload identity federation": [
+    "Concept:workload-identity-federation/w/076"
+  ],
+  "write dispositions": [
+    "Concept:write-dispositions/w/158"
+  ],
+  "wsd schedule": [
+    "Concept:wsd-schedule/w/020"
+  ],
+  "wue": [
+    "Concept:wue/w/065"
+  ],
+  "xeon": [
+    "Concept:xeon/w/454"
+  ],
+  "xgrammar": [
+    "Concept:xgrammar/w/173"
+  ],
+  "xid errors": [
+    "Concept:xid-errors/w/154"
+  ],
+  "xử lý liên tục": [
+    "Concept:streaming/w/084"
+  ],
+  "xử lý theo lô": [
+    "Concept:batch/w/012"
+  ],
+  "yarn": [
+    "Concept:yarn/w/075",
+    "Concept:yarn/w/076"
+  ],
+  "yet another rope extension": [
+    "Concept:yarn/w/075"
+  ],
+  "yuan 2024": [
+    "Concept:self-rewarding-lm/w/066"
+  ],
+  "yue et al. vs prorl debate": [
+    "Concept:yue-et-al-vs-prorl-debate/w/125"
+  ],
+  "z-score": [
+    "Concept:z-score/w/093"
+  ],
+  "zdr": [
+    "Concept:zdr/w/163",
+    "Concept:zero-data-retention/w/077"
+  ],
+  "zero": [
+    "Concept:zero/w/067",
+    "Concept:zero/w/090"
+  ],
+  "zero data retention": [
+    "Concept:zdr/w/163",
+    "Concept:zero-data-retention/w/077"
+  ],
+  "zero redundancy optimizer - inference": [
+    "Concept:zero-inference/w/202"
+  ],
+  "zero redundancy optimizer, deepspeed": [
+    "Concept:zero/w/090"
+  ],
+  "zero-copy": [
+    "Concept:zero-copy/w/159"
+  ],
+  "zero-etl": [
+    "Concept:zero-etl/w/094",
+    "Concept:zero-etl/w/160"
+  ],
+  "zero-inference": [
+    "Concept:zero-inference/w/202"
+  ],
+  "zero-init of `b`": [
+    "Concept:zero-init-of-b/w/084"
+  ],
+  "zero-knowledge proof inference": [
+    "Concept:zk-proof-inference/w/292"
+  ],
+  "zero-offload / zero-infinity": [
+    "Concept:zero-offload-zero-infinity/w/069"
+  ],
+  "zk-proof inference": [
+    "Concept:zk-proof-inference/w/292"
+  ],
+  "điều 2(1)(c) — hiệu lực ngoài lãnh thổ": [
+    "Concept:dieu-2-1-c-hieu-luc-ngoai-lanh-tho/w/092"
+  ],
+  "điểm hoà vốn": [
+    "Concept:diem-hoa-von/w/046"
+  ],
+  "đánh giá": [
+    "Concept:evaluation/w/001"
+  ],
+  "đánh giá có chuyên gia": [
+    "Concept:human-in-the-loop-evaluation/w/008"
+  ],
+  "đánh giá ngoại tuyến": [
+    "Concept:offline-evaluation/w/005"
+  ],
+  "đánh giá trực tuyến": [
+    "Concept:online-evaluation/w/006"
+  ],
+  "đối tượng bị tác động": [
+    "Concept:doi-tuong-bi-tac-dong/w/081"
+  ],
+  "độ bao phủ": [
+    "Concept:recall-k/w/017"
+  ],
+  "độ bao phủ ngữ cảnh": [
+    "Concept:context-recall/w/070"
+  ],
+  "độ chính xác": [
+    "Concept:precision-k/w/018"
+  ],
+  "độ chính xác gọi công cụ": [
+    "Concept:tool-call-correctness/w/047"
+  ],
+  "độ chính xác ngữ cảnh": [
+    "Concept:context-precision/w/071"
+  ],
+  "độ liên quan câu trả lời": [
+    "Concept:answer-relevancy-responserelevancy/w/069"
+  ],
+  "độ sâu ủy quyền": [
+    "Concept:delegation-depth/w/021"
+  ],
+  "độ trung thực": [
+    "Concept:faithfulness/w/068"
+  ],
+  "α": [
+    "Concept:krippendorff-s-alpha/w/090",
+    "Concept:lora-alpha/w/082",
+    "Concept:speculative-decoding-acceptance-rate/w/050"
+  ],
+  "β tuning intuition": [
+    "Concept:tuning-intuition/w/024"
+  ],
+  "γ": [
+    "Concept:term/w/120",
+    "Concept:term/w/121"
+  ],
+  "κ": [
+    "Concept:cohen-s-kappa/w/089"
+  ],
+  "π_θ ‖ π_ref": [
+    "Concept:kl-divergence-d-kl/w/017"
+  ],
+  "ρ": [
+    "Concept:spearman-correlation/w/091"
+  ],
+  "ảo giác / bịa thông tin": [
+    "Concept:hallucination/w/119"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "by_pattern": {
+    "**/.git/**": 3814,
+    "**/.venv-*/**": 51732,
+    "**/.venv/**": 51058,
+    "**/__pycache__/**": 373,
+    "**/node_modules/**": 0,
+    "**/phases/private/**": 333,
+    "**/site-packages/**": 0,
+    "**/solutions/**": 2,
+    "*-Student.zip": 0,
+    "*INSTRUCTOR_GUIDE*": 2,
+    "*_sub/**": 12,
+    "*submission*": 23,
+    "SEED.txt": 0,
+    "apps/**": 26164,
+    "config_intended.json": 0,
+    "fault_catalog_private.json": 0,
+    "instructor/**": 360,
+    "observathon-submission-*": 0,
+    "phases/*.key": 0
+  },
+  "files_denied": 133873,
+  "files_indexable": 3739,
+  "files_scanned": 137612,
+  "note": "Per-file evidence (denied_paths_sample, pruned_dirs) is withheld from the public kit -- it can name real students (CORPUS-FACTS.md section 1, HARD EXCLUSION). See the arena-side denylist_report.json for full detail.",
+  "root": "<redacted: arena-local path>"
+}

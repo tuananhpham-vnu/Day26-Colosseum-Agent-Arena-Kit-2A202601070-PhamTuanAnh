@@ -1,0 +1,24 @@
+{
+  "excluded": [
+    "truth.json"
+  ],
+  "exported_at": "2026-08-27T13:35:23Z",
+  "files": {
+    "denylist_report.json": "74228457843e657c3cc61b8ecad90e462c6641594b797d4d3adba91f6d9816d2",
+    "drift.json": "3a26b1780822f89efa701b39f9bac0b0b32940d3a78d3cd2529e8bd080d06528",
+    "links.json": "5d0ff45772d3de084dfad4359433ac248890445b18b89a3c06ba1a46c1efed9f",
+    "manifest.json": "bf4a9d64e6b2b3dadfc9c9d796459e6413017f24628502db82e2059beb9b7399",
+    "pages.jsonl": "bb7e397e553ebb19bc95e9d95a01731e836f516cd7928c86ffc0b703be827a10",
+    "terms.json": "b85bb355c3d558d6dde6ba2bf38479474ad6c2d0d54f31ed444b42c54f7e0e3f"
+  },
+  "redacted": [
+    "denylist_report.json"
+  ],
+  "source_built_at": "2026-08-27T12:08:07Z",
+  "source_corpus_sha": "3ecaab0c3acb78a764f48d0b89b92e7112cf960f44a43c8ae54771f253e42df5",
+  "source_seeds_sha": "f71d3557b09793c552f27b4aafaddbf28c6651f343fb062bb33fd94c29dfe55f",
+  "source_slice": "main",
+  "source_snapshot_hash": "498c95693960dc72d543c1650dd39729df02d32a032540abcce65efdfb524729",
+  "tool": "tools.export_kit_world",
+  "world_id": "df8c55dabb35"
+}

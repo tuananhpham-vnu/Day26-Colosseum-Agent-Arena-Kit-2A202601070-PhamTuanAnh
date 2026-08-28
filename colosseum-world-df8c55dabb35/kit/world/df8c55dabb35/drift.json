@@ -1,0 +1,310 @@
+{
+  "04032b0c": {
+    "c_frames": 47,
+    "content_frames": {
+      "c": 47,
+      "w": 47
+    },
+    "delta": 0,
+    "drifts": false,
+    "total_frames": {
+      "c": 59,
+      "w": 59
+    },
+    "w_frames": 47
+  },
+  "053195a5": {
+    "c_frames": 79,
+    "content_frames": {
+      "c": 79,
+      "w": 79
+    },
+    "delta": 0,
+    "drifts": true,
+    "total_frames": {
+      "c": 103,
+      "w": 103
+    },
+    "w_frames": 79
+  },
+  "0e11ae43": {
+    "c_frames": 11,
+    "content_frames": {
+      "c": 11,
+      "w": 45
+    },
+    "delta": 34,
+    "drifts": true,
+    "total_frames": {
+      "c": 21,
+      "w": 60
+    },
+    "w_frames": 45
+  },
+  "170c4d17": {
+    "c_frames": 40,
+    "content_frames": {
+      "c": 40,
+      "w": 53
+    },
+    "delta": 13,
+    "drifts": true,
+    "total_frames": {
+      "c": 44,
+      "w": 57
+    },
+    "w_frames": 53
+  },
+  "28e68faa": {
+    "c_frames": 10,
+    "content_frames": {
+      "c": 10,
+      "w": 42
+    },
+    "delta": 32,
+    "drifts": true,
+    "total_frames": {
+      "c": 20,
+      "w": 58
+    },
+    "w_frames": 42
+  },
+  "3326cb76": {
+    "c_frames": 23,
+    "content_frames": {
+      "c": 23,
+      "w": 42
+    },
+    "delta": 19,
+    "drifts": true,
+    "total_frames": {
+      "c": 30,
+      "w": 85
+    },
+    "w_frames": 42
+  },
+  "45098556": {
+    "c_frames": 14,
+    "content_frames": {
+      "c": 14,
+      "w": 42
+    },
+    "delta": 28,
+    "drifts": true,
+    "total_frames": {
+      "c": 22,
+      "w": 54
+    },
+    "w_frames": 42
+  },
+  "594ef4c1": {
+    "c_frames": 38,
+    "content_frames": {
+      "c": 38,
+      "w": 38
+    },
+    "delta": 0,
+    "drifts": false,
+    "total_frames": {
+      "c": 66,
+      "w": 66
+    },
+    "w_frames": 38
+  },
+  "61a20716": {
+    "c_frames": 42,
+    "content_frames": {
+      "c": 42,
+      "w": 42
+    },
+    "delta": 0,
+    "drifts": false,
+    "total_frames": {
+      "c": 48,
+      "w": 48
+    },
+    "w_frames": 42
+  },
+  "6cc8191a": {
+    "c_frames": 26,
+    "content_frames": {
+      "c": 26,
+      "w": 26
+    },
+    "delta": 0,
+    "drifts": false,
+    "total_frames": {
+      "c": 118,
+      "w": 118
+    },
+    "w_frames": 26
+  },
+  "72f75709": {
+    "c_frames": 15,
+    "content_frames": {
+      "c": 15,
+      "w": 37
+    },
+    "delta": 22,
+    "drifts": true,
+    "total_frames": {
+      "c": 23,
+      "w": 56
+    },
+    "w_frames": 37
+  },
+  "75811e75": {
+    "c_frames": 21,
+    "content_frames": {
+      "c": 21,
+      "w": 25
+    },
+    "delta": 4,
+    "drifts": true,
+    "total_frames": {
+      "c": 36,
+      "w": 42
+    },
+    "w_frames": 25
+  },
+  "7a8d8046": {
+    "c_frames": 21,
+    "content_frames": {
+      "c": 21,
+      "w": 81
+    },
+    "delta": 60,
+    "drifts": true,
+    "total_frames": {
+      "c": 27,
+      "w": 94
+    },
+    "w_frames": 81
+  },
+  "a13b20e6": {
+    "c_frames": 30,
+    "content_frames": {
+      "c": 30,
+      "w": 52
+    },
+    "delta": 22,
+    "drifts": true,
+    "total_frames": {
+      "c": 52,
+      "w": 87
+    },
+    "w_frames": 52
+  },
+  "a284ae8b": {
+    "c_frames": 15,
+    "content_frames": {
+      "c": 15,
+      "w": 31
+    },
+    "delta": 16,
+    "drifts": true,
+    "total_frames": {
+      "c": 22,
+      "w": 45
+    },
+    "w_frames": 31
+  },
+  "abd20c68": {
+    "c_frames": 61,
+    "content_frames": {
+      "c": 61,
+      "w": 61
+    },
+    "delta": 0,
+    "drifts": true,
+    "total_frames": {
+      "c": 83,
+      "w": 86
+    },
+    "w_frames": 61
+  },
+  "b3616a68": {
+    "c_frames": 81,
+    "content_frames": {
+      "c": 81,
+      "w": 81
+    },
+    "delta": 0,
+    "drifts": false,
+    "total_frames": {
+      "c": 103,
+      "w": 103
+    },
+    "w_frames": 81
+  },
+  "b55e1f40": {
+    "c_frames": 81,
+    "content_frames": {
+      "c": 81,
+      "w": 81
+    },
+    "delta": 0,
+    "drifts": false,
+    "total_frames": {
+      "c": 114,
+      "w": 114
+    },
+    "w_frames": 81
+  },
+  "c5418ab5": {
+    "c_frames": 8,
+    "content_frames": {
+      "c": 8,
+      "w": 38
+    },
+    "delta": 30,
+    "drifts": true,
+    "total_frames": {
+      "c": 18,
+      "w": 62
+    },
+    "w_frames": 38
+  },
+  "d8f95a7b": {
+    "c_frames": 31,
+    "content_frames": {
+      "c": 31,
+      "w": 45
+    },
+    "delta": 14,
+    "drifts": true,
+    "total_frames": {
+      "c": 39,
+      "w": 53
+    },
+    "w_frames": 45
+  },
+  "e0614beb": {
+    "c_frames": 59,
+    "content_frames": {
+      "c": 59,
+      "w": 84
+    },
+    "delta": 25,
+    "drifts": true,
+    "total_frames": {
+      "c": 76,
+      "w": 105
+    },
+    "w_frames": 84
+  },
+  "f2696f5f": {
+    "c_frames": 54,
+    "content_frames": {
+      "c": 54,
+      "w": 77
+    },
+    "delta": 23,
+    "drifts": true,
+    "total_frames": {
+      "c": 63,
+      "w": 86
+    },
+    "w_frames": 77
+  }
+}
